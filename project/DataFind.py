@@ -1,10 +1,9 @@
 import json
 import sys
-sys.path.dirname('/opt/app-root/src/project')
 
 def get_json(manual):
     try:
-        return json.load(open(manual+'.json'))
+        return json.load(open("/opt/app-root/src/project/"+manual+'.json'))
     except:
         return None
 
@@ -122,7 +121,7 @@ def validate_section(manual, section):
         return False
 
 def help(args):
-    with open('help.json') as f:
+    with open("/opt/app-root/src/project/"+'help.json') as f:
         h = json.load(f)
         out = ''
         if args:
