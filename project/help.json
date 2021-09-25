@@ -1,0 +1,34 @@
+{
+    "help":{
+        "header":"!help - Shows available commands",
+        "syntax":"!help <command>",
+        "info":[
+            "*Optional* <command> - Show information on specific command"
+        ]
+    },
+    "read":{
+        "header":"!read - Read specified section",
+        "syntax":"!read <gm1/gm2> <a.b/a.b.c>",
+        "info":[
+            "**Required** <gm1/gm2> - Specify Game Manual 1/2",
+            "**Required** <a.b/a.b.c> - Specify section in format a.b or a.b.c"
+        ]
+    },
+    "table":{
+        "header":"!table - Show Table of Contents",
+        "syntax":"!table <gm1/gm2> <a.b>",
+        "info":[
+            "**Required** <gm1/gm2> - Specify Game Manual 1/2",
+            "*Optional* <a.b> - Filter table to only those under section a.b"
+        ]
+    },
+    "rule":{
+        "header":"!rule - Show Specific Rule by Code",
+        "syntax":"!rule <AB##>",
+        "info":[
+            "*Optional* <AB##> - Specify rule to read",
+            "*Enter just a rule prefix (AB) to see all rules in that section!*",
+            "*If no rule is given, all available rules will be listed."
+        ]
+    }
+}

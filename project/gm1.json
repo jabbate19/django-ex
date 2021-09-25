@@ -1,0 +1,1753 @@
+{
+    "last_updated":"09-23-2021",
+    "content":[
+        {
+            "title":"Introduction",
+            "content":[
+                "**What is FIRST Tech Challenge?**",
+                "FIRST® Tech Challenge is a student-centered program that focuses on giving students a unique and stimulating experience. Each year, teams engage in a new game where they design, build, test, and program autonomous and driver operated robots that must perform a series of tasks. To learn more about FIRST® Tech Challenge and other FIRST® Programs, visit www.firstinspires.org."
+            ],
+            "subsections":[
+                
+            ]
+        },
+        {
+            "title":"Gracious Professionalism®",
+            "content":[
+                "FIRST® uses this term to describe our programs’ intent.",
+                "Gracious Professionalism® is a way of doing things that encourages high-quality work, emphasizes the value of others, and respects individuals and the community.",
+                "Watch Dr. Woodie Flowers explain Gracious Professionalism in this short video (https://www.youtube.com/watch?v=F8ZzoC9tCWg&list=UUkWMXdRQr5yoZRz7gFYyRcw)."
+            ],
+            "subsections":[
+
+            ]
+        },
+        {
+            "title":"The Competition - Definitions and Rules",
+            "content":[
+                
+            ],
+            "subsections":[
+                {
+                    "title":"Overview",
+                    "content":[
+                        "Students that engage in the FIRST Tech Challenge program develop Science, Technology, Engineering, and Math (STEM) skills and practice engineering principles while realizing the value of hard work, innovation, and sharing ideas. Competitions are exciting sporting events with Robot Matches, judging interviews, and Teams and Robot performance awards. This section provides critical information that will help Teams have a fun and successful Competition day.",
+                        "There are two types of Competition formats a Team might experience this season; traditional events and remote events. This manual describes traditional events; however, some Teams may switch between formats depending on social distancing rules within their state/region. Below are descriptions of both formats."
+                    ],
+                    "subsections":[
+                        {
+                            "title":"Traditional Events",
+                            "content":[
+                                "A traditional FIRST Tech Challenge event is typically held in a school or college gymnasium, where Teams use Robots to compete in the current seasons game challenge. Teams participating in traditional events compete with Alliance partners in a head-to-head style of competition on the official FIRST Tech Challenge Playing Field. Teams compete in a series of Matches that determine their ranking at a traditional tournament. The size of a traditional event can range anywhere from 8 Teams to over 50 Teams competing in one place. Traditional events are generally scheduled by the local program delivery partner, and are run by many volunteers including referees, judges, scorekeepers, queuers, and other key volunteers. Traditional events consist of Robot inspections, Robot Competitions, judging interviews (for most Competitions), and an overall celebration of Teams and their accomplishments."
+                            ]
+                        },
+                        {
+                            "title":"Remote Events",
+                            "content":[
+                                "Remote events were developed to mimic traditional FIRST Tech Challenge events, while practicing social distancing guidelines. Since Teams may not be able to gather and compete in the traditional head-to-head competition format, the season’s official full Playing Field has been adapted to allow Teams to play as a single Team. Remote Teams may order an official half version of this season's field, or compete using a modified version of the field, which will be released at kickoff on 9/18/2021. Teams will still sign-up for events and will be provided a time window to submit their own Match scores, which will determine their rankings. Unlike traditional events, the scoring of the official Matches is done by the Team, rather than an event volunteer. Teams will participate in judging interviews via video conference. To learn more about remote events, please read the Game Manual Part 1 – Remote Events (https://www.firstinspires.org/resource-library/ftc/game-and-season-info) manual."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title":"Eligibility to Compete in Official FIRST Tech Challenge Competitions",
+                    "content":[
+
+                    ],
+                    "subsections":[
+                        {
+                            "title":"North America Team Registration",
+                            "content":[
+                                "To compete in an official FIRST Tech Challenge Competition at any level, a Team must be registered and in good standing with FIRST.",
+                                "The Team must complete the registration process through the Team Registration System (https://login2.firstinspires.org/Account/Login).",
+                                "The Team registration fee must be paid.",
+                                "Two adults must pass the Youth Protection (https://www.firstinspires.org/resource-library/youth-protection-policy) screening process."
+                            ]
+                        },
+                        {
+                            "title":"Outside North America Registration",
+                            "content":[
+                                "Teams outside of North America are required to register through the Team Registration System (https://login2.firstinspires.org/Account/Login). Fees will not be due to FIRST for the registration. Teams outside of North America should consult the program delivery partner in their region for program fees and product purchase."
+                            ]
+                        },
+                        {
+                            "title":"Youth Team Member Registration",
+                            "content":[
+                                "Every youth Team member competing on a FIRST Tech Challenge Team is required to register through the https://www.firstinspires.org dashboard. Every Team member’s parent or legal guardian must then electronically accept the consent and release form. Instructions on how to register youth Team members can be found on our website: https://www.firstinspires.org/resource-library/youth-registration-system"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title":"Competition Types",
+                    "content":[
+                        "There are several types of Competitions that Teams and other organizers hold throughout the FIRST Tech Challenge season and off-season. Competition types are listed in the following section."
+                    ],
+                    "subsections":[
+                        {
+                            "title":"Scrimmage",
+                            "content":[
+                                "A scrimmage is an unofficial FIRST Tech Challenge Competition where Teams do not advance. Teams compete at a scrimmage solely to prepare for an official Competition. Anyone can host a scrimmage to prepare for an official Competition. Teams hosting a scrimmage are encouraged to tell their local Program Delivery Partner (https://www.firstinspires.org/find-local-support) that such an event is taking place. Teams that choose to create and host a local scrimmage are responsible for finding a location, organizing the format for the day, and inviting other Teams to participate. Teams may also have to secure the field elements, computers, and other items."
+                            ]
+                        },
+                        {
+                            "title":"League Meets",
+                            "content":[
+                                "A league meet is a one-field Competition that uses the same field and game as other events. The number of meets a Team can play in may vary by region. Whenever possible, it is highly encouraged that Teams participate in as many meets as they can. Rankings from one meet to the next accumulate as outlined in section 5.2. Some standard Competition guidelines may be adapted for those regions that participate in the league format. Teams should contact their Program Delivery Partner (https://www.firstinspires.org/find-local-support) for more information about the scheduling, structure, advancement, and processes that are unique to the league/meet in their region."
+                            ]
+                        },
+                        {
+                            "title":"Qualifying Tournaments and League Tournaments",
+                            "content":[
+                                "Hosted and managed by FIRST Tech Challenge program delivery partner or program delivery partner- appointed host. Qualifying Tournaments follow the format outlined in section 4.0. Qualifying Tournaments and league Tournaments are held before championship Tournaments. The number of Teams advancing to the regional championship Tournament depends on the capacity of the regional championship Tournament, the number of qualifying Tournaments, and the number of Teams attending the qualifying Tournaments. The advancement criteria for moving up to the next Tournament level is detailed in section 6.0."
+                            ]
+                        },
+                        {
+                            "title":"Super Qualifying Tournaments",
+                            "content":[
+                                "These Tournaments are held in regions with a large number of Teams and/or leagues. In these regions, Teams advance from either a league Tournaments or qualifying Tournaments to a super qualifying tournament, and then to the state/regional championship."
+                            ]
+                        },
+                        {
+                            "title":"Regional Championship Tournaments",
+                            "content":[
+                                "Hosted and managed by a FIRST Tech Challenge program delivery partner, championship Tournaments uphold certain standards in format, judging, awards, and overall quality. Some championship Tournaments require that Teams advance from a qualifying Tournament or league Tournament to advance to the regional championship Tournament. Championship Tournaments may include Teams from a geographic region, province, state, country, or several countries. Teams should expect a higher level of competition, both on the field and in the judging room at championship Tournaments."
+                            ]
+                        },
+                        {
+                            "title":"World Championship",
+                            "content":[
+                                "Hosted and managed by FIRST, the world championships, held in Houston, Texas and Detroit, Michigan, are the culminating events for all FIRST programs. FIRST Tech Challenge Teams advance to the world championship through their regional championship Tournament. The world championship includes Teams from several countries, and Teams should expect a higher level of Competition, both on the field and in the judging room."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title":"Competition Definitions",
+                    "table":[
+                        "3.4 Competition Definitions"
+                    ],
+                    "content":[
+                        "**Alliance** – Each FIRST Tech Challenge Match consists of two, two-Team Alliances. These two Teams compete against an opposing Alliance (also made up of two Teams) to complete the game challenge and to earn the highest score. At Competitions with more than 20 Teams, the semi-final and final Match Alliances consist of three Teams each. However, only two of those Teams compete during any one Match.",
+                        "**Alliance Captain** – The student representative from an Alliance’s highest ranked Team chosen to represent an Alliance during Alliance Selection and for the semi-final and final Elimination Matches. The entire Team is also called the Alliance Captain.",
+                        "**Alliance Selection** – The process by which top-ranked Teams choose Alliance partners for the Elimination Matches.",
+                        "**Alliance Station** – The designated “red” or “blue” Alliance area next to the Playing Field where the drivers and coach stand or move within during a Match. Station One is the Alliance Station closest to the audience.",
+                        "**Competition** – A Competition is an activity a Team attends as part of the FIRST Tech Challenge program that is organized or sanctioned by the local program delivery partner or FIRST Headquarters. Competitions are all levels of FIRST Tech Challenge events that include Robot Matches or judging.",
+                        "**Competition Area** – The Area where all the Playing Fields, Alliance Stations, scoring tables, and other Tournament officials and tables are located.",
+                        "**Drive Team** - Up to three representatives two (2) drivers and one (1) coach from the same Team.",
+                        "**Elimination Matches** – A Match used to decide the Winning Alliance. Alliances of two or three Teams compete in a series of Matches, with two Teams per Alliance playing in each Match. The first Alliance to win two Matches continues to the next series.",
+                        "**Penalty** - The consequence imposed for a rule or procedure violation that is identified by a referee. When a Penalty occurs, points will be deducted from the Score of the Alliance that incurred the Penalty. Penalties are further defined into Minor Penalties and Major Penalties.",
+                        "Penalties may also include and/or escalate to the issuing of a Yellow Card or Red Card as a result of a continued occurrence of a rule violation and upon discretion of the Referee. Please see Game Manual Part 2 for Yellow and Red Card definitions.",
+                        "**Playing Field** – The part of the Competition Area that includes the 12 ft. x 12 ft. (3.66 m x 3.66 m) field and all the elements described in the official field drawings.",
+                        "**Pit Area** – The Pit Area is a separate space from the Competition Area where Teams can work on their Robot between Matches. The Team is provided a pit space which includes a table, a power source, and is 10 ft. (3.05 m) x 10 ft. (3.05 m). Some pit spaces may vary based on Competition venue size limits. Check with your tournament director for official pit space sizes.",
+                        "**Practice Match** – A Match used to provide time for Teams to get familiar with the official Playing Field.",
+                        "**Qualification Match** – A Match used to decide the Teams that qualify for the Alliance Selection and move on to the Elimination Matches. Alliances compete to earn Ranking Points and TieBreaker Points.",
+                        "**Ranking Points/Total Ranking Points** – The first basis for ranking Teams.",
+                        "Remote Events: For a single Team competing remotely, the Team’s final score for a Match is used as their Ranking Points.",
+                        "Traditional Events: For Teams that compete at a traditional Tournament, each Team receives their alliance’s final score for a Match as Ranking Points. Total Ranking Points is the sum of the Ranking Points of all non-Surrogate Matches that a Team plays in a Tournament. Please see section 5.0 for further explanation for how this is used to determine a Team’s ranking.",
+                        "**Robot** - Any mechanism that has passed inspection and a Team places on the Playing Field before the start of a Match. To be legal, Robots must comply with the Robot Build rules in section 7.0 of this manual.",
+                        "**Surrogate Match** – Surrogate Matches are scheduled into the Qualification Matches of a Traditional Tournament if the number of Teams at the Tournaments is not evenly divisible by four. The Surrogate Match is a way to ensure all Teams are Ranked using the same number of Matches. This is an extra Qualification Match for those Teams scheduled as a Surrogate and does not earn those Teams Ranking or TieBreaker Points. Surrogate Matches are important to the other Teams; therefore, these Matches should be played as if they were regular Qualification Matches. Surrogate Matches will be identified on the official Qualification Match schedule.",
+                        "**Team** – An official FIRST Tech Challenge Team consists of no more than 15 student Team members. A Team is made up of pre-college students and is designed for students in grades 7-12. Students cannot be older than high school-aged if they are participating Team members. All Teams are required to register through the Team Registration System. For eligibility to compete in FIRST Tech Challenge events, please see section 3.2 of this document.",
+                        "**TieBreaker Points/Total TieBreaker Points** – TieBreaker Points are used as the tiebreakers when Teams have equal Total Ranking Points. There are two types of TieBreaker Points, TBP1 and TBP2.",
+                        "TBP1: For Teams that compete at a traditional Competition, each Team receives their Alliance’s Autonomous Period score for a Qualification Match as TBP1. Total TBP1 is the sum of the TBP1s of all non-Surrogate Qualification Matches that a Team plays in a Competition.",
+                        "TBP2: For Teams that compete at a traditional Competition, each Team receives their Alliance’s End Game specific task score for a Qualification Match as TBP2. Total TBP2 is the sum of the TBP2s of all non-Surrogate Qualification Matches that a Team plays in a Competition.",
+                        "Please see section 5.0 for further explanation for how this is used to determine a Team’s ranking.",
+                        "**Tournament** – A Tournament is an event that advances Teams to the next level of Competition within a state/region, or to the world championship. For many Teams, a Tournament is their season culminating event."
+                    ],
+                    "subsections":[
+
+                    ]
+                },
+                {
+                    "title":"Competition Rules",
+                    "content":[
+                        
+                    ],
+                    "subsections":[
+                        {
+                            "title":"<C01>",
+                            "content":[
+                                "Egregious behavior by any Team, Team member, or other representative of the Team is not tolerated at a FIRST Tech Challenge Competition. Violations of this rule result in Penalties to the Team, and/or the issuance of a yellow or red card. Egregious behavior includes, but is not limited to, repeated and/or flagrant violation of game rules, unsafe behavior or actions, or uncivil behavior towards volunteers, Teams, Competition personnel, or Competition attendees."
+                            ]
+                        },
+                        {
+                            "title":"<C02>",
+                            "content":[
+                                "Referees have final gameplay and scoring authority during the Competition. Their rulings are final.",
+                                "a. The referees will not review any recorded Match replays or photographs.",
+                                "b. All questions about a Match or scores must be brought forward to the referees by using the referee question box located in the Competition Area. Only one student from an Alliance can enter the question box. All questions must be brought forward within the outlined time:",
+                                "i. Qualification Matches: A Team must enter the question box to dispute a Match within a period of three (3) Matches following the disputed Match. Teams participating in the final two Qualification Matches must report to the question box within 5 minutes after the announcement of the Match score.",
+                                "ii. Elimination Matches: A Team must enter the referee question box to dispute a Match before the start of the next Match played by the Alliance, regardless of if the Team is playing in the next Match. The next Match played could involve different Alliances. Questions about the last Match of the finals must be brought to the question box no later than 5 minutes after the announcement of the Match score.",
+                                "Students must support their questions by referencing specific rules or posts to the Q&A section of the official FIRST Tech Challenge Forum (https://ftc-qa.firstinspires.org/). Team members must ask their questions in a gracious and respectful manner."
+                            ]
+                        },
+                        {
+                            "title":"<C03>",
+                            "content":[
+                                "Yellow cards and red cards are used in the FIRST Tech Challenge to manage Team and Robot behavior that does not align with the mission of FIRST (http://firstinspires.org/about/vision-and-mission). Yellow and red cards are not limited to just the Competition Area.",
+                                "Egregious or repeated (3 or more) Robot or Team member behavior at a Competition can result in a yellow and/or red card. Yellow cards are additive, meaning that a second yellow card is automatically converted to a red card. A Team is issued a red card for any subsequent incident in which they receive an additional yellow card, for example, earning a second yellow card during a single Match.",
+                                "**Yellow and Red Cards at the Competition Field**",
+                                "The head referee may assign a yellow card as a warning, or a red card for disqualification in a Match. A yellow card or red card is signaled by the head referee standing in front of the Team’s Alliance Station and holding a yellow card and/or red card in the air.",
+                                "To issue the second yellow card, the head referee will stand in front of the Team’s Alliance Station and hold a yellow card and red card. The head referee will signal the second yellow card after the Match has ended.",
+                                "A Team that has received either a yellow card or a red card carries a yellow card into following Matches, except as noted below. A red card results in Match disqualification. Multiple red cards may lead to Competition disqualification. Once a Team receives a yellow card or red card, the Team number is presented with a yellow background on the audience screen for all following Matches. This is a reminder to the Team, referees, and audience the Team carries a yellow card.",
+                                "Yellow cards do not carry over from the Qualification Matches to the Elimination Matches. For regions that compete in league meet formats which carry Qualification Match scores from meet to meet, yellow and red cards do not carry from one meet to the next meet or to a league Tournament. During the Elimination Matches, yellow and red cards count against the entire Alliance, not to a specific Team. If a Team receives a yellow card or red card, it results in the entire Alliance receiving the yellow card or red card for that Match. If two different Teams on the same Alliance are issued yellow cards, the entire Alliance is issued a red card. A red card results in zero (0) points for that Match, and the Alliance loses the Match. If both Alliances receive red cards, the Alliance which committed the action earning the red card first chronologically loses the Match.",
+                                "**Yellow and Red Cards off the Competition Field**",
+                                "Teams can incur yellow and red cards for their actions off the Competition field. Egregious behavior off the Competition field should be reported to the tournament director. The tournament director will first consult with the coach of the Team about the behavior of the Team or its members, explain the ways in which the behavior is considered egregious, and give a warning to discontinue this behavior. If the behavior persists, the tournament director will work with FIRST Headquarters to assess whether the behavior exhibited by the Team is considered egregious and if a yellow and/or red card should be issued. If it is determined that the Team should receive a yellow and/or red card, the tournament director will report to the head referee. The yellow and/or red card will be recorded into the scoring software based on the next Match played by the Team during Qualification Matches. If a Team competing in Elimination Matches receives a yellow or red card between the Qualification Matches and Elimination Matches, the card will be applied to the first Elimination Match. If a Team receives a yellow or red card during the Elimination Matches for off field behavior, the yellow or red card applies to the current or just completed Elimination Match."
+                            ]
+                        },
+                        {
+                            "title":"<C04>",
+                            "content":[
+                                "A Team may not encourage another Team to purposely lose a Match or to play beneath its ability. Likewise, a Team may not let another Team coerce them into purposely lose a Match or playing beneath their own ability. FIRST considers the action of a Team influencing another Team to purposely lose a Match, to deliberately miss scoring objectives, etc. incompatible with FIRST values and not a strategy any Team should employ. Violations of this rule are likely to escalate rapidly to yellow or red cards and may lead to dismissal from the Competition. The following examples violate rule <C04>.",
+                                "Example 1: A Match is being played by Alliance partner Teams A and B in which Team B is encouraged by Team C to underperform/not score during a Match. Team C’s motivation for this behavior is to negatively affect Team A’s ranking.",
+                                "Example 2: A Match is being played by Alliance partner Teams A and B in which Team A is assigned to participate as a Surrogate. Team C encourages Team A to not fully participate in the Match so that Team C gains ranking position over Team B.",
+                                "Example 3: A Match is being played by Alliance partner Teams A and B in which Team A is assigned to participate as a Surrogate. Team A accepts Team C’s request not to fully participate in the Match so that Team C gains ranking position over Team B.",
+                                "NOTE: This rule is not intended to prevent an Alliance from planning and/or executing its own good faith strategy in a specific Match in which all the Teams are members of the same Alliance."
+                            ]
+                        },
+                        {
+                            "title":"<C05>",
+                            "content":[
+                                "Each registered Team may enter only one Robot (a Robot built to play the current season’s game challenge) into the FIRST Tech Challenge Competition. It is expected that Teams will make changes to their Robot throughout the season and at Competitions.",
+                                "a. It is against this rule to compete with one Robot while a second is being adjusted or assembled at a Competition.",
+                                "b. It is against this rule to switch back and forth between multiple Robots at a Competition.",
+                                "c. It is against this rule to register and attend concurrent Competitions with a second Robot.",
+                                "d. It is against this rule to use a Robot built by another Team at a Competition.",
+                                "Violations of this rule will immediately be considered deliberate and egregious."
+                            ]
+                        },
+                        {
+                            "title":"<C06>",
+                            "content":[
+                                "Only three Team representatives are allowed in the Competition Area; two (2) student drivers and one (1) coach are identified by badges labeled ‘driver’ or ‘coach’. These badges are interchangeable within a Team between Matches. Only student Team members wearing a badge labeled as ‘driver’ may drive the Robot during the Match. Team representatives beyond the two student drivers and one coach will be asked to leave the Competition Area immediately."
+                            ]
+                        },
+                        {
+                            "title":"<C07>",
+                            "content":[
+                                "Teams competing in a meet, league Tournament, qualifying Tournament, and regional championship Tournament will compete in no fewer than five (5) Qualification Matches, and no more than six (6) Qualification Matches. Teams competing remotely will have a total of six (6) Qualification Matches."
+                            ]
+                        },
+                        {
+                            "title":"<C08>",
+                            "content":[
+                                "Teams playing in consecutive Matches will receive a minimum of five minutes (5:00) between the time a referee signals the Field to be reset and when the Robot is placed onto the Field for the next Match."
+                            ]
+                        },
+                        {
+                            "title":"<C09>",
+                            "content":[
+                                "The state of the field (game and scoring elements) is recorded as the Match is played by the scoring referees. Scores may not be announced to Teams until sometime after the Match is complete. At some Competitions, live scoring software may be used to show the status of the Match as it is played, with the final, official score displayed following the end of the Match."
+                            ]
+                        },
+                        {
+                            "title":"<C10>",
+                            "content":[
+                                "Time-Outs",
+                                "a. There are no Team requested time-outs during the Qualification Matches.",
+                                "b. During the Elimination Matches, each Alliance will be allotted one (1) time-out of no more than three minutes (3:00). Time-outs must be called at least two minutes (2:00) before their next Match’s starting time. The time-out begins at the time their Match was going to start."
+                            ]
+                        },
+                        {
+                            "title":"<C11>",
+                            "content":[
+                                "If no member of the Drive Team is present in the Alliance Station at the start of a Match, that Team is declared a “no-show”. If a Robot cannot report for a Match, at least one member of the Drive Team should report to the Playing Field for their scheduled Match to receive credit for the Match."
+                            ]
+                        },
+                        {
+                            "title":"<C12>",
+                            "content":[
+                                "No Team, Team member, or Competition attendee can set up their own Wi-Fi 802.11 (2.4GHz or 5GHz) wireless communication in the venue. Non-allowed wireless communications include, but are not limited to:",
+                                "a. Cellular hot spots (for example, cell phones, tablets, MiFi).",
+                                "b. Ad-hoc networks.",
+                                "c. Communication between portable Nintendo consoles.",
+                                "d. Bluetooth communication with Robots in the Competition Area.",
+                                "No Team, Team member, or Competition attendee shall interfere with a Team’s Wi-Fi communication with their own Robot.",
+                                "The Penalty for violating rule <C12> is disqualification of the entire Team from the Competition and their removal from the venue property. Teams may not appeal the Penalty and no refunds will be given for registration fees, prepaid meals, etc. FIRST may conduct a post-Competition review and decide if any added Penalties will be imposed on the offending Team.",
+                                "Teams are encouraged to report wireless security vulnerabilities to the field technical advisor (FTA) at a Tournament. Teams should always keep in mind Gracious Professionalism®, and therefore only report valid and verifiable violations of this rule. After the field technical advisor is alerted of a potential rule violation, he or she will confer with the head referee. The field technical advisor and head referee will further explore the potential violation of this rule. The head referee will work with FIRST Headquarters staff to determine if rule <C12> has been violated, and to disqualify the offending Team."
+                            ]
+                        },
+                        {
+                            "title":"<C13>",
+                            "content":[
+                                "Wi-Fi connectivity between the Android Devices used as the Robot Controller and the Driver Station is allowed. Additionally, in the pits only, Wi-Fi connectivity between the same Android Devices and a computing device (phone, tablet, or computer) is allowed for Robot programming purposes only. No other wireless communication is allowed.",
+                                "The Penalty for violating rule <C13> is disqualification of the entire Team from the Competition and their removal from the venue property. The head referee will work with FIRST Headquarters staff to determine if rule <C13> has been violated, and to disqualify the offending Team. Teams may not appeal the Penalty and no refunds will be given for registration fees, prepaid meals, etc. FIRST may conduct a post-Tournament review and determine if any additional Penalties are to be imposed on the offending Team."
+                            ]
+                        },
+                        {
+                            "title":"<C14>",
+                            "content":[
+                                "Team members may be asked by the Competition director to use a specific Wi-Fi channel on the Tournament day. Teams that refuse to comply with this request will receive a yellow card."
+                            ]
+                        },
+                        {
+                            "title":"<C15>",
+                            "content":[
+                                "All Team members, coaches, and their guests must wear ANSI Z87.1 certified safety glasses while in the Pit or Competition Area. Prescription glasses with ANSI Z87.1 approved Commercial Off-The-Shelf (COTS) side shields are also allowed.",
+                                "Note: FIRST requires all Teams to bring and supply ANSI-approved safety glasses for its Team members, mentors, and guests for each Competition. Tinted lenses are allowed if Competition personnel can see the volunteer’s, spectators, or Team member’s eyes through the safety glasses. Sunglasses or deeply shaded safety glasses used in an indoor Competition environment are not acceptable."
+                            ]
+                        },
+                        {
+                            "title":"<C16>",
+                            "content":[
+                                "Batteries must be charged in an open, well-ventilated area."
+                            ]
+                        },
+                        {
+                            "title":"<C17>",
+                            "content":[
+                                "Open-toed or open-backed shoes are not allowed in the Pit Area or in the Competition Area."                            
+                            ]
+                        },
+                        {
+                            "title":"<C18>",
+                            "content":[
+                                "There is no running, skateboarding, roller skating, ‘hover boards’, and/or flying drones are not allowed at any Competition. These can create safety hazards to the Teams, spectators, or volunteers attending the Competition."
+                            ]
+                        },
+                        {
+                            "title":"<C19>",
+                            "content":[
+                                "No live bands are allowed in the audience or Pit. No loud music, audio systems, whistles, banging sticks, blow horns, etc. are allowed. They prevent Teams from hearing important announcements. Power may be shut off and/or noisemakers confiscated."
+                            ]
+                        },
+                        {
+                            "title":"<C20>",
+                            "content":[
+                                "Painting or applying harmful products, sprays, or aerosols are not allowed anywhere at the Competition. This includes the Pit, Competition, and spectator areas.",
+                                "Note: Teams may apply antistatic spray to their Robot if done outside the venue."
+                            ]
+                        },
+                        {
+                            "title":"<C21>",
+                            "content":[
+                                "Team Pit Areas may not exceed 10 ft. (3.05 m) x 10 ft. (3.05 m) x 10 ft. (3.05 m), or a limit set by the tournament director, whichever is less. Teams may not extend or store material beyond their allocated Team Pit Area."
+                            ]
+                        },
+                        {
+                            "title":"<C22>",
+                            "content":[
+                                "Teams are not allowed to use two-way radios/walkie-talkies anywhere in the venue."
+                            ]
+                        },
+                        {
+                            "title":"<C23>",
+                            "content":[
+                                "Teams are not allowed to save seating space as there is often not enough seating to hold everyone. Repeated offenses could be considered egregious, and Teams could face consequences for violating this rule."
+                            ]
+                        },
+                        {
+                            "title":"<C24>",
+                            "content":[
+                                "Soldering, gluing, brazing, or using large power tools is not allowed in the Pit or Competitions Areas unless the tournament director specifically allows it."
+                            ]
+                        },
+                        {
+                            "title":"<C25>",
+                            "content":[
+                                "Because of venue rules or contracts, FIRST cannot allow Teams or individuals to sell items, such as T- shirts, pins, etc., at any Competitions. Fundraising for a cause is allowed with consent of the tournament director; fundraising for a Team is not allowed."
+                            ]
+                        },
+                        {
+                            "title":"<C26>",
+                            "content":[
+                                "Because of venue rules or contracts, some venues will not allow outside food on-site. Teams must check with the tournament director before bringing food or beverages to a Competition."
+                            ]
+                        },
+                        {
+                            "title":"<C27>",
+                            "content":[
+                                "Teams and spectators (whether associated with a Team or not) that block the playing field sightlines, or access reserved areas without credentials will be asked to move. Repeated violations of this rule are considered egregious behavior. Spectators may be removed from the Competition at the discretion of the tournament director, while Teams may receive a yellow or red card, as well as be subject to Competition removal."
+                            ]
+                        },
+                        {
+                            "title":"<C28>",
+                            "content":[
+                                "Teams must comply with government and venue specific requirements (for example, wearing a mask, social distancing, tornado warning procedures, etc.)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Competition Day Outline",
+            "content":[
+                "FIRST Tech Challenge Competitions pack many activities into one day. The main events for Competitions (qualifying Tournament, league Tournament, regional championship Tournament, world championship) are as follows:",
+                "1. Team check-in",
+                "2. Robot and field inspection",
+                "3. Judges’ interviews",
+                "4. Drivers; Meeting",
+                "5. Opening Ceremony",
+                "6. Qualification Matches",
+                "7. Alliance Selection",
+                "8. Elimination Matches",
+                "9. Awards and closing ceremony",
+                "Teams competing in a league and attending meets will only participate in the following activities during the meet:",
+                "1. Team check-in",
+                "2. Robot and field inspection",
+                "3. Driver's meeting",
+                "4. Qualification Matches"
+            ],
+            "subsections":[
+                {
+                    "title":"Competition Schedule",
+                    "content":[
+                        "Competition schedules will be available through the tournament director before or at the Competition. Qualification Match schedules are created on Competition day after all Teams have checked-in and have passed all inspections."
+                    ],
+                    "subsections":[
+
+                    ]
+                },
+                {
+                    "title":"Team Check-In",
+                    "content":[
+
+                    ],
+                    "subsections":[
+                        {
+                            "title":"Consent and Release Forms",
+                            "content":[
+                                "Each student competing at a FIRST Tech Challenge Competition must have a signed consent and release form completed by a parent or legal guardian. Students cannot compete without a signed consent and release form. These forms must be filled out electronically through the FIRST dashboard. A parent or legal guardian of the student can create a youth Team member registration through the FIRST website (https://www.firstinspires.org/resource-library/youth-team-member-consent-and-release-form) and complete the consent and release form online."
+                            ]
+                        },
+                        {
+                            "title":"Team Roster",
+                            "content":[
+                                "The Lead Coach 1 or 2 must bring the Team roster to the event, which shows a list of the students competing and the status of each students consent and release form. The roster will show that each student’s parent or guardian has electronically filled out the consent and release form online with a green checkmark. The roster, printed from the Team registration system must be handed in at event registration."
+                            ]
+                        },
+                        {
+                            "title":"Team Check-In Packets",
+                            "content":[
+                                "Once checked in, the coach will receive their Team packet. Team packets generally include Drive Team badges, a judging schedule, a map of the venue, and other information that is important to the Teams. The Team should review the schedule of events for the day. Teams should set up their Pit Area and get familiar with the venue, including where the practice and Playing Fields are and where judging takes place."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title":"Robot and Field Inspection",
+                    "content":[
+                        "FIRST Tech Challenge Robots are required to pass Robot and field inspections before being allowed to compete. These inspections ensure that all Robot rules are met. A copy of the official FIRST Tech Challenge “Robot Inspection Sheet” and “Field Inspection Sheet” are found in Appendices A and B of this manual. FIRST encourages Teams to use the Robot Inspection Sheet” as a guide to pre-inspect their Robot prior to attending a Tournament."
+                    ],
+                    "subsections":[
+
+                    ]
+                },
+                {
+                    "title":"Judges' Interviews",
+                    "content":[
+                        "At FIRST Tech Challenge Competitions, there are three parts to the judging process: 1) interview with judges; 2) evaluation of performance during the Tournament, and 3) evaluation of the engineering portfolio. Each Team will have a ten to fifteen minute “fact-finding” interview with a panel of two or three judges. At the start of the interview, Teams will have a maximum of 5 minutes to present to the judges. After the Team’s five-minute presentation, the judges will have the opportunity to ask questions about the Team, the Robot, outreach efforts, etc.",
+                        "The judges’ interviews take place before any Qualification Matches so the entire Team may be interviewed. When Teams arrive at the Tournament, the interview schedule should be included in the registration materials. Teams must know when they will be interviewed and arrive to the interview room early. Each Team should have at least two student Team representatives and the Robot available; the entire Team is encouraged to join in. Mentors (no more than two) are welcome to watch the judges’ interview at most Tournaments but cannot take part in the interview.",
+                        "Teams may not opt out of judges’ interviews. Teams may attend their scheduled judges’ interviews if their Robots have not passed inspection."
+                    ],
+                    "subsections":[
+
+                    ]
+                },
+                {
+                    "title":"Drivers' Meeting",
+                    "content":[
+                        "The drivers’ meeting takes place before the start of Qualification Matches and is a time when the Drive Team meets with the referees. During this time, the head referee gives a brief outline of what is expected of Teams. They will provide venue specific information, such as queuing paths, and explains any signals and commands referees will give during Matches."
+                    ],
+                    "subsections":[
+
+                    ]
+                },
+                {
+                    "title":"Practice Time",
+                    "content":[
+                        "At some Competitions, practice fields are available for Teams to practice throughout the Competition. Practice time is offered on a first come, first-served basis. Teams should check with the tournament director if practice time will be allowed on Competition day."
+                    ],
+                    "subsections":[
+
+                    ]
+                },
+                {
+                    "title":"Opening Ceremony",
+                    "content":[
+                        "The opening ceremony is the official kickoff of the Competition for the Teams, volunteers, and spectators. During the opening ceremony, a Competition official or the emcee will welcome the Teams, introduce dignitaries and other special guests, and introduce the judges and the referees. Then the game will be described (usually with a video) and immediately after, the Qualification Matches take place.",
+                        "Teams that are scheduled in the first several Qualification Matches will be asked by volunteers to line up before the opening ceremonies. The Qualification Match schedule will be available before the start of opening ceremony. It is the Team’s responsibility to check the schedule and make sure they are on time for their Matches."
+                    ],
+                    "subsections":[
+
+                    ]
+                },
+                {
+                    "title":"Qualification Matches",
+                    "content":[
+                        "Teams are randomly assigned to Qualification Matches and Alliances. The Qualification Match schedule is available before opening ceremonies on the day of the Competition. This schedule shows Alliance partners, Match pairings, and the Alliance’s color (red or blue). These Matches start immediately after the opening ceremonies and follow the Qualification Match schedule. The queue volunteer crew works with Teams throughout the day maintain the Qualification Match schedule. Teams must pay attention to the Match schedule and listen for announcements throughout the day. Teams need to know when they will compete, find out the number of the last Match before lunch, and find out which Match is the last Match of the Competition day."
+                    ],
+                    "subsections":[
+
+                    ]
+                },
+                {
+                    "title":"Alliance Selection",
+                    "content":[
+                        "The number of Teams in the Elimination Matches is based on the number of Teams in the Competition. If there are 21 or more Teams in the Competition, the Elimination Matches consist of Alliances of 3 Teams each. If there are 20 Teams or less, then the Alliances consist of 2 Teams each. There are four (4) Alliances that will compete in the Elimination Matches.",
+                        "The Alliance Selection consists of several rounds of selections so all Alliance Captains form Elimination Match Alliances. These Alliances participate in a ladder-type Competition to decide the Competition’s winning Alliance. The Alliance Selection is as follows:",
+                        "- Each Team chooses one student to act as the Team’s representative. These representatives will continue to the Competition Area at the appointed time to represent their Teams in the Alliance Selection.",
+                        "    - Teams can bring their scouting documents or communicate by phone with other teammates in the venue to aid them with their Alliance choices. Teams must remember that if they are communicating with teammates by phone, they must be gracious and considerate and not hold up Alliance Selection.",
+                        "- The top four ranked Teams are called to the floor first. The student representative of the highest ranked Team is asked to step forward as the Alliance Captain to invite another available Team to join their Alliance.",
+                        "- A Team is available if they are not already part of an Alliance or has not already declined an Alliance invitation. If a Team accepts, they are moved into that Alliance. If a Team declines, they CANNOT be invited to another Alliance, but are still available to select their own Alliance if the opportunity arises. If a Team declines, the Alliance Captain from the inviting Team must extend an invitation to another Team.",
+                        "- The selection continues until all four Alliance Captains have been appointed and chosen one Alliance partner.",
+                        "- If there are more than 20 Teams, the same method is used for each Alliance Captain’s second choice (also known as the third member of each Alliance) from highest seed to lowest seed (that is, 1 → 2 → 3 → 4). Any Teams remaining after the lowest seeded Captain makes their choice do not compete in the Elimination Matches."
+                    ],
+                    "subsections":[
+
+                    ]
+                },
+                {
+                    "title":"Elimination Matches",
+                    "content":[
+                        "The Elimination Matches are when the Alliances compete to decide who the winning Alliance is. The Matches are played in a seeded format where the #1 seed goes up against the #4 seed, and the #2 seed goes up against the # 3 seed. Alliance colors are assigned as follows:",
+                        "- Semi Finals",
+                        "    - Seed #1 and seed #4 compete against each other in the semi-finals 1; seed #1 is assigned as the red Alliance and seed #4 is assigned as the blue Alliance.",
+                        "    - Seed #2 and seed #3 compete against each other in the semi-finals 2; seed #2 is assigned as the red Alliance and seed #3 is assigned as the blue Alliance.",
+                        "- Finals",
+                        "    - The winner of semi-finals 1 is assigned to the red Alliance",
+                        "    - The winner of semi-finals 2 is assigned as the blue Alliance",
+                        "In the Elimination Matches, Teams do not get Ranking Points; they get a win, loss, or tie. Within each bracket (semi-finals or finals) of the elimination, Matches are played to decide which Alliance advances. The advancing Alliance is the first Team to win two Matches. Any tied Matches are replayed until one Alliance has two wins and advances. An example Competition bracket appears here: (See Img)",
+                        "IMG:https://i.imgur.com/x1KdEVS.png",
+                        "During the Elimination Matches, two Teams from an Alliance compete on the Playing Field. If the Alliance has three Teams, the Team that sits out the first Match must play in the second Match, with no exceptions. If the Alliances play more than two Matches in any bracket, any combination of two Alliance Robots may be used. The Alliance Captain is not required to compete in every Match. No special accommodations are made for Robots that fail during the semi-final and final Matches. Teams should consider the robustness of the Robots when picking Alliance partners.",
+                        "If a Team is disqualified during an Elimination Match, the entire Alliance is disqualified. The Match is then recorded as a loss. Before each Elimination Match, the Alliance Captain must let the referee know which two Teams are playing in the next Match two (2) minutes before the start of the Match.",
+                        "All questions about a Match or scores must be brought forward to the referees by using the referee question box located in the Competition Area. Only one student from an Alliance can enter the question box. A Team must enter the referee question box to dispute a Match before the start of the next Match played by the Alliance, regardless of if the Team is participating in the next Match. The next Match played could involve different Alliances. Questions about the last Match of the finals must be brought to the question box no later than 5 minutes after the announcement of the Match score."
+                    ],
+                    "subsections":[
+
+                    ]
+                },
+                {
+                    "title":"Awards and Closing Ceremony",
+                    "content":[
+                        "The awards and closing ceremony celebrate the Teams and their accomplishments throughout the Competition, as well as the volunteers who helped make the Competition possible. At the awards and closing ceremony, the finalists and winners of each award are announced."
+                    ],
+                    "subsections":[
+
+                    ]
+                },
+                {
+                    "title":"Team Spirit & Styling",
+                    "content":[
+                        "Competing as a Team is exciting as well as rewarding. Part of the fun and reward of being a Team member is the way the Team styles itself with Team t-shirts, trading buttons, hats, cheers, and costumes.",
+                        "When deciding on a Team name or acronym, consider how to work a theme around it to make the Team more fun and recognizable. Refer to the marketing and outreach section of the website for information about FIRST and FIRST Tech Challenge logo use requirements: https://www.firstinspires.org/brand"
+                    ],
+                    "subsections":[
+
+                    ]
+                },
+                {
+                    "title":"Banners and Flags",
+                    "content":[
+                        "Sponsors provide FIRST with banners to display in specified areas as a way of thanking them for their generosity. We encourage Teams to bring Team flags or sponsor banners, but we ask that you adhere to the following:",
+                        "- Do not use banners or flags to section off seating. Saving group seats is not allowed.",
+                        "- Hang banners in pit stations only, not on the pit walls.",
+                        "- Teams may bring banners to the Competition Area, but please do not hang them there. This area is designated for official FIRST sponsors’ banners."
+                    ],
+                    "subsections":[
+
+                    ]
+                },
+                {
+                    "title":"Spectators and Etiquette",
+                    "content":[
+                        "Teams are allowed to have two (2) student drivers and one (1) coach at the Playing Field during their scheduled Matches. Spectators are not allowed in the designated Competition Area. Some Competitions may provide media passes for one additional Team member to gain access to a designated “media area”. Access to this area is only allowed with a media pass and only while the media representative’s Team is on the Playing Field. Spectators blocking the sidelines or accessing the media area without a pass will be asked to move. Repeated violations of this rule are considered egregious behavior."
+                    ],
+                    "subsections":[
+
+                    ]
+                },
+                {
+                    "title":"Scouting",
+                    "content":[
+                        "During the Qualification Matches, the scoring system selects each Team’s ally and opponents for each Match. In Elimination Matches, top ranking Teams can choose their own Alliance partners. Teams should select Alliance partners with abilities that complement their own strengths. Scouting during the Qualification Matches is a good way to learn the abilities and limits of the Teams and Robots competing at the Competition.",
+                        "The following scouting approach has been provided by FIRST Robotics Competition Team #365, the Miracle Workerz.",
+                        "Teams use different methods to record information about other Teams – paper, computer, tablets, etc. Use whatever method is most comfortable for your Team. Scouting is important to find out how you complement other Teams in your Alliance and how you Match up against your opponents. No matter how you record it, focus on information which will be useful to your Team when you meet your Alliance partners to discuss strategy.",
+                        "Some possible areas to gather information include:",
+                        "- Capabilities – what can the Robot/Team do and what does it not do?",
+                        "- Strategies – what does the Robot/Team do during the Match? How does the Team play the game?",
+                        "- Performance – how well does the Robot/Team do what it attempts? What are the Robot’s strengths and weaknesses?",
+                        "- Autonomous – what does the Robot do in autonomous mode? Does the Team have multiple program options?",
+                        "The more data points you can collect on strategies and performance, the better understanding you will have of a given Team. Information on a Team’s capabilities can be obtained by visiting the Team in the Pit Area or watching Match play."
+                    ],
+                    "subsections":[
+
+                    ]
+                }
+            ]
+
+        },
+        {
+            "title":"Calculating Scores and Ranking",
+            "table":[
+                "5.0 Calculating Scores and Ranking",
+                "5.1 Competition Ranking Calculation",
+                "5.2 Penalties",
+                "5.3 League Tournament Ranking Calculation"
+            ],
+            "content":[
+
+            ],
+            "subsections":[
+                {
+                    "title":"Competition Ranking Calculation",
+                    "table":[
+
+                    ],
+                    "content":[
+                        "Each Team at a Competition is ranked according to the following sort order:",
+                        "1. Total Ranking Points; highest to lowest, then",
+                        "2. Total TieBreaker Points (TBP1); highest to lowest, then",
+                        "3. Total TieBreaker Points (TBP2); highest to lowest, then",
+                        "4. Random electronic selection",
+                        "Teams may be required to play a Surrogate Match, which is an extra Match marked by an asterisk on a Team’s Match schedule. The added Surrogate Match does not count towards their standings during the Competition.",
+                        "Ranking Points and TieBreaker Points are awarded at the end of each Match."
+                    ],
+                    "subsections":[
+
+                    ]
+                },
+                {
+                    "title":"Penalties",
+                    "table":[
+
+                    ],
+                    "content":[
+                        "Penalty points are subtracted from the Team’s Score at the end of the Match. A Team’s score will go negative if the Penalties incurred are more than the points they have earned in a Match. However, any negative score will be recorded as zero (0) at the end of the Match."
+                    ],
+                    "subsections":[
+
+                    ]
+                },
+                {
+                    "title":"League Tournament Ranking Calculation",
+                    "table":[
+
+                    ],
+                    "content":[
+                        "League Tournament rankings are based on the top ten (10) Matches from all previous league meets plus the top five (5) Matches from the league Tournament. The ten (10) league meet Matches are selected using the sort order from Section 5.1. Teams with fewer than fifteen (15) total Matches after the Qualification Matches at the league Tournament have been played will only be ranked on the Matches that they have played."
+                    ],
+                    "subsections":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Advancement Criteria",
+            "table":[
+                "6.0 Advancement Criteria",
+                "6.1 Eligibility for Advancement",
+                "6.1.1 Inspire Award Eligibility",
+                "6.2 Order of Advancement"
+
+            ],
+            "content":[
+
+            ],
+            "subsections":[
+                {
+                    "title":"Eligibility for Advancement",
+                    "table":[
+                        "6.1 Eligibility for Advancement",
+                        "6.1.1 Inspire Award Eligibility"
+                    ],
+                    "content":[
+                        "Teams are eligible to advance from any one of the first three Tournaments they participate in at any of the following levels, regardless of the region. This applies to both Teams in North America, and Teams outside of North America",
+                        "- League Tournament",
+                        "- Qualifying Tournament",
+                        "- Super Qualifying Tournament",
+                        "- Regional Championship Tournament",
+                        "A Team can only earn a spot to one championship event each season.",
+                        "IMG:https://i.imgur.com/6y3dLTm.png"
+                    ],
+                    "subsections":[
+                        {
+                            "title":"Inspire Award Eligibility",
+                            "content":[
+                                "Teams that have won the inspire award at another event of the same level, regardless of the region, cannot be considered for the inspire award or as an inspire award finalist at subsequent Tournaments at that level. The levels include:",
+                                "1. Qualifying Tournament/League Tournament",
+                                "2. Super Qualifying Tournament",
+                                "3. Regional Championship Tournament.",
+                                "For example, if a Team has won the Inspire award at a qualifying tournament in their own region, they cannot win the inspire award at any other qualifying tournament or league tournament in any other region.",
+                                "All Teams are eligible to be considered for all judged awards at a world championship."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title":"Order of Advancement",
+                    "table":[
+
+                    ],
+                    "content":[
+                        "If the Team listed has already advanced or there is no Team fitting that description (as in 2nd Team selected at smaller Tournaments, or 3rd place award finalists at smaller Tournaments), the advancement will continue in order.",
+                        "1. Optional – Qualifier host Team (Note: Each region’s Program Delivery Partner decides if this advancement opportunity is offered. The Team MUST compete at one other Tournament within the region and must meet the criteria set forth by the Program Delivery Partner in the agreement. This advancement applies to qualifying Tournament hosts only, and does NOT apply to host Teams of meets, league Tournaments, or championship Tournaments).",
+                        "2. Inspire Award Winner",
+                        "3. Winning Alliance Captain",
+                        "4. Inspire Award 2nd place",
+                        "5. Winning Alliance, 1st Team selected",
+                        "6. Inspire Award 3rd place.",
+                        "7. Winning Alliance, 2nd Team selected",
+                        "8. Think Award Winner",
+                        "9. Finalist Alliance Captain",
+                        "10. Connect Award Winner",
+                        "11. Finalist Alliance, 1st Team selected.",
+                        "12. Innovate Award sponsored by Raytheon Technologies Winner",
+                        "13. Finalist Alliance, 2nd Team selected.",
+                        "14. Control Award sponsored by Arm, Inc. Winner",
+                        "15. Motivate Award Winner",
+                        "16. Design Award Winner",
+                        "17. Highest Ranked Team* not previously advanced, from the Winning Division.",
+                        "18. Think Award 2nd Place.",
+                        "19. Highest Ranked Team* not previously advanced, from the Finalist Division.",
+                        "20. Connect Award 2nd Place.",
+                        "21. Highest Ranked Team* not previously advanced, from the Winning Division.",
+                        "22. Innovate Award sponsored by Raytheon Technologies 2nd Place.",
+                        "23. Highest Ranked Team* not previously advanced, from the Finalist Division.",
+                        "24. Control Award sponsored by Arm, Inc. Winner 2nd Place.",
+                        "25. Highest Ranked Team* not previously advanced, from the Winning Division.",
+                        "26. Motivate Award Winner 2nd Place.",
+                        "27. Highest Ranked Team* not previously advanced, from the Finalist Division.",
+                        "28. Design Award 2nd Place",
+                        "29. Highest Ranked Team* not previously advanced, from the Winning Division.",
+                        "30. Think Award 3rd Place.",
+                        "31. Highest Ranked Team* not previously advanced, from the Finalist Division.",
+                        "32. Connect Award 3rd Place.",
+                        "33. Highest Ranked Team* not previously advanced, from the Winning Division.",
+                        "34. Innovate Award sponsored by Raytheon Technologies 3rd Place.",
+                        "35. Highest Ranked Team* not previously advanced, from the Finalist Division.",
+                        "36. Control Award sponsored by Arm, Inc. 3rd Place.",
+                        "37. Highest Ranked Team* not previously advanced, from the Winning Division.",
+                        "38. Motivate Award 3rd Place.",
+                        "39. Highest Ranked Team* not previously advanced, from the Finalist Division.",
+                        "40. Design Award 3rd Place",
+                        "41. Highest Ranked Team* not previously advanced, from the Winning Division.",
+                        "42. Highest Ranked Team* not previously advanced, from the Finalist Division.",
+                        "43. Highest Ranked Team* not previously advanced, from the Winning Division.",
+                        "44. Highest Ranked Team* not previously advanced, from the Finalist Division.",
+                        "45. Highest Ranked Team* not previously advanced, from the Winning Division.",
+                        "46. Highest Ranked Team* not previously advanced, from the Finalist Division.",
+                        "47. Highest Ranked Team* not previously advanced, from the Winning Division.",
+                        "48. Highest Ranked Team* not previously advanced, from the Finalist Division.",
+                        "49. Highest Ranked Team* not previously advanced, from the Winning Division.",
+                        "50. Highest Ranked Team* not previously advanced, from the Finalist Division.",
+                        "51. Highest Ranked Team* not previously advanced, from the Winning Division.",
+                        "52. Highest Ranked Team* not previously advanced, from the Finalist Division.",
+                        "*Refers to Qualification Match ranking. These advancements are in order. There is no normalizing of rank between divisions.",
+                        "**Events with 20 or less Teams may select an award winner, and a single award finalist, rather than a 2nd and 3rd place winner.",
+                        "**For semi-final matches, at events with 20 or less Team select one Alliance partner, rather than the two that are selected at events with 21 or more Teams."
+                    ],
+                    "subsections":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"The Robot",
+            "table":[
+                "7.0 The Robot",
+                "7.1 Overview",
+                "7.2 Robot Control System",
+                "7.2.1 Robot Technology Definitions",
+                "7.3 Robot Rules",
+                "7.3.1 General Robot Rules",
+                "7.3.2 Robot Mechanical Parts and Materials Rules",
+                "7.3.3 Robot Electrical Parts and Materials Rules",
+                "7.3.4 Driver Station Rules",
+                "7.3.5 Robot Software Rules",
+                "7.4 Team Scoring Element"
+            ],
+            "content":[
+
+            ],
+            "subsections":[
+                {
+                    "title":"Overview",
+                    "table":[
+
+                    ],
+                    "content":[
+                        "A FIRST Tech Challenge Robot is a remotely operated vehicle designed and built by a registered FIRST Tech Challenge Team to perform specific tasks when competing in the annual game challenge. This section provides rules and requirements for the design and construction of a Robot. Teams should be familiar with the Robot and game rules before beginning Robot design."
+                    ],
+                    "subsections":[
+
+                    ]
+                },
+                {
+                    "title":"Robot Control System",
+                    "table":[
+                        "7.2.1 Robot Technology Definitions"
+                    ],
+                    "content":[
+                        "A FIRST Tech Challenge Robot is controlled by an Android-based platform. Teams will use two (2) Android Devices to control their Robot. One Android Device is mounted directly onto the Robot and acts as a Robot Controller. The other Android Device is connected to one or two gamepads to make up the Driver Station.",
+                        "For more information, tutorials, and to access our Android Technology forum, please visit:",
+                        "https://www.firstinspires.org/resource-library/ftc/robot-building-resources"
+                    ],
+                    "subsections":[
+                        {
+                            "title":"Robot Technology Definitions",
+                            "content":[
+                                "**Android Device** – An electronic device running the Android operating system. See rules <RE07> and <RS03> for a list of allowed devices and operating system versions.",
+                                "**Driver Station** – Hardware and software used by a Drive Team to control their Robot during a Match.",
+                                "**Logic Level Converter** – An electronic device that allows an encoder or sensor, that operates using 5V logic levels, to work with the REV Expansion Hub and/or REV Control Hub, which operates using 3.3V logic levels. This device may contain a step-up voltage converter (from 3.3V to 5V) and a dual channel, bidirectional logic level converter. This device may be used directly with a 5V digital sensor or with an I2C Sensor Adaptor Cable to a 5V I2C sensor.",
+                                "**I2C Sensor Adapter Cable** – An adapter to change the pin orientation of the REV Robotics Logic Level Converter to match a Modern Robotics compatible I2C sensor.",
+                                "**Mini USB to OTG (On-The-Go) Micro Cable** – The connection between the Android Device Robot Controller and the REV Expansion Hub.",
+                                "**Op Mode** – An Op Mode (short for 'operational mode') is software that is used to customize the behavior of a Competition Robot. The Robot Controller executes a selected Op Mode to perform certain tasks during a Match.",
+                                "**OTG Micro Adapter** – Connects a USB hub to Micro USB OTG (On-The-Go) port on a smartphone Driver Station Android device.",
+                                "**REV Control Hub** – An integrated Android device with four (4) DC motor channels, six (6) servo channels, eight (8) digital I/O channels, four (4) analog input channels, and four (4) independent I2C buses.",
+                                "**REV Driver Hub** - A compact mobile Android Device designed specifically for use as part of the Driver Station.",
+                                "**REV Expansion Hub** – An integrated electronic device with four (4) DC motor channels, six (6) servo channels, eight (8) digital I/O channels, four (4) analog input channels, and four (4) independent I2C buses.",
+                                "**REV SPARK Mini Motor Controller** - An electronic device that accepts a PWM control signal (from a servo controller) and supplies 12V power to a DC motor.",
+                                "**REV Servo Power Module** – An electronic device that boosts the power supplied to 3-wire servos. A REV Servo Power Module has 6 input servo ports and 6 matching output ports. It draws power from a 12V source"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title":"Robot Rules",
+                    "table":[
+                        "7.3.1 General Robot Rules",
+                        "7.3.2 Robot Mechanical Parts and Materials Rules",
+                        "7.3.3 Robot Electrical Parts and Materials Rules",
+                        "7.3.4 Driver Station Rules",
+                        "7.3.5 Robot Software Rules"
+                    ],
+                    "content":[
+                        "Anyone that has attended a FIRST Tech Challenge Competition knows that Teams think outside the kit-of- parts to create unique and creative Robots. The intent of the Robot construction rules is to create a level playing field and a framework for Teams to build Robots that safely play the annual game challenge. Teams should read all the Robot rules before building their Robot. Teams can also reference our Legal and Illegal Parts List (https://www.firstinspires.org/resource-library/ftc/volunteer-resources) on our website for common legal and illegal Robot parts. Some suppliers’ websites may claim that a part is FIRST Tech Challenge approved. The only official references for the legality of parts and materials are the Game Manual Part 1, the Legal and Illegal Parts List (https://www.firstinspires.org/resource-library/ftc/volunteer-resources), and the Official Game Q&A Forum (https://ftc-qa.firstinspires.org/)."
+                    ],
+                    "subsections":[
+                        {
+                            "title":"General Robot Rules",
+                            "content":[
+                                "It is the intent of FIRST to encourage creativity in design as long as it does not present a safety hazard or unfairly affect the opportunities of any Teams to compete. Although there is significant creative freedom allowed in the Robot design rules, Teams should consider the adverse effects of any design decisions that they make. When considering your Robot design and your game strategy, ask yourself the following questions. If the answer to any of these questions is yes, the design part is not allowed:",
+                                "- Could it damage or disable another Robot?",
+                                "- Could it damage the Playing Field?",
+                                "- Could it injure a participant or volunteer?",
+                                "- Is there already a rule that restricts this?",
+                                "- If everybody did this, would the gameplay be impossible?",
+                                "**<RG01>** Illegal Parts - The following types of mechanisms and parts are not allowed:",
+                                "a. Those used in a Robot drive system that could potentially damage the Playing Field and/or Scoring Elements such as high traction wheels (for example, AndyMark am-2256) and high grip tread (for example, Roughtop, AndyMark am-3309).",
+                                "b. Those that could potentially damage or flip other competing Robots.",
+                                "c. Those that contain hazardous materials such as mercury switches, lead, or lead containing compounds, or lithium polymer batteries (except for the Android Devices’ internal batteries).",
+                                "d. Those that pose an unnecessary risk of entanglement.",
+                                "e. Those that contain sharp edges or corners.",
+                                "f. Those that contain animal-based materials (because of health and safety concerns).",
+                                "g. Those that contain liquid or gel materials.",
+                                "h. Those that contain materials that would cause a delay of game if released (for example, loose ball bearings, coffee beans, etc.).",
+                                "i. Those that are designed to electrically ground the Robot frame to the Playing Field.",
+                                "j. Closed gas devices (for example, gas storage vessel, gas spring, compressors, etc.).",
+                                "k. Hydraulic devices.",
+                                "l. Vacuum based mechanisms.",
+                                "**<RG02>** Maximum Starting Size - The maximum size of the Robot for starting a Match is 18 inches (45.72 cm) wide by 18 inches (45.72 cm) long by 18 inches (45.72 cm) high. A Robot Sizing Tool will be used as the official gauge to make sure Robots comply with this rule. To pass inspection a Robot must fit within the sizing tool while in its Match start configuration without exerting force on the sides or top of the sizing tool. Robots may expand beyond the starting size constraint after the start of the Match. Preloaded game elements may extend outside the starting volume constraint.",
+                                "The Robot must be self-supporting while in the Robot Sizing Tool by either:",
+                                "a. A mechanical means with the Robot in a power-OFF condition. Any restraints used to maintain starting size (that is, zip ties, rubber bands, string, etc.) must remain attached to the Robot for the entire Match.",
+                                "b. A Robot Initialization Routine in the Autonomous Op Mode that may pre-position the servo motors, with the Robot powered on, to the desired stationary position.",
+                                "If the Robot Initialization routine moves the servos when a program is executed, there must be an indication label on the Robot. A warning label placed near the Robot’s main power switch is required. Attach the image (“WARNING! - Robot moves on Initialization”) to your Robot near the Robot main power switch if servos are commanded to move during the initialization routine. To be easily seen by field personnel the label should be at least 1 in x 2.63 in (2.54 cm x 6.68 cm, Avery Label # 5160) and placed on a flat surface (not wrapped around corners or cylinders).:",
+                                "IMG:https://i.imgur.com/mcKkGhc.png",
+                                "**<RG03>** Robot Controller Mount – It is recommended that the Robot Controller be accessible and visible by field personnel. If a Team’s Robot Controller is not accessible or visible to field personnel, the Team may not receive adequate support from the field personnel.",
+                                "The Robot Controller Android Device should be mounted so the display screen (if it is equipped with one) is protected from contact with the Playing Field elements and other Robots. This and other electrical parts (for example, batteries, motor and servo controllers, switches, sensors, wires) make poor bumpers and are unlikely to survive Robot-to-Robot contact during gameplay.",
+                                "**Important Note**: The Robot Controller contains a built-in wireless radio that communicates with the Android Device in the Driver Station. The Robot Controller should not be obscured by metal or other material that could block or absorb the radio signals from the Robot Controller.",
+                                "**<RG04>** Team Number Display - Robots must prominently display their Team number (numerals only, for example “12345”) on two separate signs.",
+                                "a. The judges, referees, and announcers must be able to easily identify Robots by Team number from at least 12 feet (3.66 meters) away.",
+                                "b. Team number must be visible from at least two opposite sides of the Robot (180 degrees apart).",
+                                "c. The numerals must each be at least 2.5 inches (6.35 cm) high and in a contrasting color from their background.",
+                                "d. Team numbers must be robust enough to withstand the rigors of Match play. Example robust materials include: 1) self-adhesive numbers (mailbox or vinyl numbers) mounted on polycarbonate sheet, wood panel, metal plate, etc. or 2) Ink jet or laser printed numbers on paper and laminated.",
+                                "**<RG05>** Alliance Marker – Robots must include a Team supplied, Alliance specific marker on two opposite sides of the Robot to easily identify which Alliance a Robot is assigned to. The Alliance marker must be displayed on the same side of the Robot as the Team number, within a 3” inch (7.62 cm) distance of the number. The Alliance marker must be visible to the referees during a Match.",
+                                "a. The red Alliance marker must be a solid red square, 2.5 inches x 2.5 inches (6.35 cm x 6.35 cm) +/- 0.25 inches (0.64 cm).",
+                                "b. The blue Alliance marker must be a solid blue circle, 2.5 inches (6.35 cm) +/- 0.25 inches (0.64 cm) in diameter.",
+                                "c. Both Alliance markers must be removeable in order to swap them between Matches.",
+                                "d. The Alliance marker must be robust enough to withstand the rigors of Match play. Example robust materials include: 1) Alliance marker template printed and laminated; 2) painted or gaff tape covered polycarbonate sheet, wood panel, metal plate, etc.",
+                                "The intent of this rule is to allow easy identification of the Robot and their Alliance to field personnel. A template for Teams is located on our website (https://www.firstinspires.org/resource-library/ftc/game-and-season-info).",
+                                "**<RG06>** Allowed Energy Sources - Energy used by FIRST Tech Challenge Robots (that is, stored at the start of a Match), shall come only from the following sources:",
+                                "a. Electrical energy drawn from approved batteries.",
+                                "b. A change in the position of the Robot center of gravity.",
+                                "c. Storage achieved by deformation of Robot parts. Teams must be careful when incorporating spring-like mechanisms or other items to store energy on their Robot by means of part or material deformation.",
+                                "**<RG07>** Launching Robot Parts - Parts of the Robot itself may not be launched (i.e., able to move independently of the Robot), even if the part that is launched is still connected to the Robot by a tether (for example, wire, rope, or cable).",
+                                "**<RG08>** Launching Game Scoring Elements – Robots can launch (i.e., able to move independently of the Robot) scoring elements through the air unless limited by a game specific rule. Teams must only launch the elements with enough velocity to score. Launching elements with excessive velocity could create a safety hazard for other Teams and field personnel. If the referees feel that a Robot is launching scoring elements with excessive velocity, the Robot must be re-inspected. Robots must then show that a launched scoring element cannot travel in the air more than a 16 ft. (4.88 m) distance or more than 5 ft. (1.52 m) in elevation."
+                            ]
+                        },
+                        {
+                            "title":"Robot Mechanical Parts and Materials Rules",
+                            "content":[
+                                "**<RM01>** Allowed Materials - Teams may use raw and post-processed materials to build their Robots, provided these materials are readily available to all Teams (for example, McMaster-Carr, Home Depot, Grainger, AndyMark, TETRIX/PITSCO, MATRIX/Modern Robotics, REV Robotics, etc.).",
+                                "Examples of allowed raw materials are:",
+                                "- Sheet goods",
+                                "- Extruded shapes",
+                                "- Metals, plastics, wood, rubber, etc.",
+                                "- Magnets",
+                                "Examples of allowed post-processed materials are:",
+                                "- Perforated sheet and diamond plate",
+                                "- Injection molded parts",
+                                "- 3D printed parts",
+                                "- Cable, string, rope, filament, etc.",
+                                "Springs of all types: compression, extension, torsion, surgical tubing, etc.",
+                                "**<RM02>** Commercial Off-The-Shelf Parts - Teams may use Commercial Off-The-Shelf (COTS) mechanical parts that have a single degree of freedom. For the FIRST Tech Challenge, a single degree of freedom part uses a single input to create a single output. The following are examples of single degree of freedom parts:",                 
+                                "- Linear Actuator: a single rotary input results in a single direction linear output",
+                                "- Pully: rotates around a single axis",
+                                "- Single Speed Gearbox: a single rotary input results in a single rotary output",
+                                "It is the intent of FIRST to encourage Teams to design their own mechanisms rather than buying pre-designed and pre-manufactured solutions to achieve the game challenge. Purchased mechanism kits (for example, grippers) that violate the single degree of freedom rule, either assembled or requiring assembly, are not allowed. COTS drive chassis (for example, AndyMark TileRunner, REV Robotics Build Kit) are allowed provided none of the individual parts violate any other rules. Holonomic wheels (omni or mechanum) are allowed.",
+                                "Examples of allowed COTS parts:",
+                                "- Linear Slide Kit",
+                                "- Linear Actuator Kit",
+                                "- Single Speed (non-shifting) Gearboxes",
+                                "- Pulley",
+                                "- Lazy Susan",
+                                "- Lead Screws",
+                                "Examples of illegal multiple degrees of freedom COTS parts:",
+                                "- Gripper Assemblies or Kits",
+                                "- Ratcheting Wrenches",
+                                "**<RM03>** Modifying Materials and COTS Parts - Allowed materials and legal COTS parts may be modified (drilled, cut, painted, etc.), as long as no other rules are violated.",
+                                "**<RM04>** Allowed Assembly Methods - Welding, brazing, soldering, and fasteners of any type are legal methods for assembling a Robot.",
+                                "**<RM05>** Lubricant - Any COTS lubricant is allowed, if it does not contaminate the Playing Field, scoring elements or other Robots.",
+                                "**<RM06>** Current Season Game Elements - COTS game elements used in the current season’s game are not allowed for Robot construction."
+                            ]
+                        },
+                        {
+                            "title":"Robot Electrical Parts and Materials Rules",
+                            "content":[
+                                "There are many possible ways to build and wire a Robot. These rules provide specific requirements on what is and is not allowed. Teams must ensure that electrical and electronic devices are used consistently with manufacturer's requirements and specifications. Teams are encouraged to review the FIRST Tech Challenge Robot Wiring Guide (https://www.firstinspires.org/resource-library/ftc/robot-building-resources) for suggestions on how to build a Robot with safe and reliable wiring.",
+                                "**<RE01>** Main Power Switch - The Robot Main Power Switch must control all power provided by the Robot main battery pack. FIRST requires Teams to use either the TETRIX (part # W39129), MATRIX (part # 50- 0030), or REV (REV-31-1387) power switch. This is the safest method for Teams and field personnel to shut down a Robot.",
+                                "The Robot main power switch must be mounted or positioned to be readily accessible and visible to field personnel. A Main Robot Power label must be placed near the Main Power Switch of the Robot. Attach the image (“POWER BUTTON”) to your Robot near the Main Power Switch. To be easily seen by field personnel the label should be at least 1 in x 2.63 in (2.54 cm x 6.68 cm, Avery Label # 5160) and placed on a flat surface (not wrapped around corners or cylinders).",
+                                "IMG:https://i.imgur.com/h8kTHL3.png",
+                                "The robot main power switch should be mounted on the Robot so it is protected from Robot-to-Robot contact to avoid inadvertent actuation or damage",
+                                "**<RE02>** Battery Mount - Batteries must be securely attached (for example, VELCRO, zip tie, rubber band) to the Robot in a location where they will not make direct contact with other Robots or the Playing Field. Batteries should be protected from contact with sharp edges and protrusions (screw heads, screw ends, etc.)",
+                                "**<RE03>** Robot Main Battery – All Robot power is provided by exactly one (1) 12V Robot main battery. Only one (1) of the approved battery packs is allowed on the Robot.",
+                                "The only allowed Robot main power battery packs are:",
+                                "a. TETRIX (W39057, formally 739023) 12V DC battery pack",
+                                "b. Modern Robotics/MATRIX (14-0014) 12V DC battery pack",
+                                "c. REV Robotics (REV-31-1302) 12V DC Slim Battery pack",
+                                "Note: There are similar looking batteries available from multiple sources, but the ONLY legal batteries are those listed above.",
+                                "**<RE04>** Fuses - Fuses must not be replaced with fuses of higher rating than originally installed or according to manufacturer's specifications; fuses may not be shorted out. Fuses must not exceed the rating of those closer to the battery. If necessary, a fuse may be replaced with a smaller rating. Replaceable fuses must be single use only; self-resetting fuses (breakers) are not allowed.",
+                                "**<RE05>** Robot Power - Robot power is constrained by the following:",
+                                "a. Allowed electronic devices may only be powered by power ports on the REV Expansion Hub or REV Control Hub except as follows:",
+                                "i. The REV Control Hub is powered by the Robot main battery.",
+                                "ii. The REV Expansion Hub, REV Servo Power Module, and REV SPARK Mini Motor Controllers are powered by the Robot main battery or by a REV Control or Expansion Hub XT30 port.",
+                                "iii. Allowed sensors are powered by the REV Expansion Hub or REV Control Hub: analog, digital, encoder, or I2C ports.",
+                                "iv. Light sources per <RE13>.",
+                                "v. Video cameras per <RE14>.",
+                                "b. The smartphone Robot Controller Android Device must be powered by its own internal battery or by the built-in charging feature of the REV Expansion Hub; external power is not allowed.",
+                                "**<RE06>** Robot Controller – Exactly one (1) Robot Controller is required. An optional REV Expansion Hub may also be added.",
+                                "**<RE07>** Android Devices - The following Android Devices are allowed: Smartphones:",
+                                "a. Motorola Moto G 2nd Generation",
+                                "b. Motorola Moto G 3rd Generation",
+                                "c. Motorola Moto G4 Play (4th Generation)/Motorola Moto G4 Play*",
+                                "d. Motorola Moto G5",
+                                "e. Motorola Moto G5 Plus",
+                                "f. Motorola Moto E4 (USA versions only, includes SKUs XT1765, XT1765PP, XT1766, and XT1767)",
+                                "g. Motorola Moto E5 (XT1920)",
+                                "h. Motorola Moto E5 Play (XT1921)",
+                                "Other:",
+                                "i. REV Driver Hub**",
+                                "j. REV Control Hub***",
+                                "No other Android Devices may be used as Robot Controllers or Driver Stations. See Rule <RS03> for the approved list of Android Operating System versions.",
+                                "A smartphone Android Device Robot Controller USB interface may only connect to a REV Expansion Hub, or a USB hub.",
+                                "*The Motorola Moto G4 Play may be sold as either Motorola Moto G Play (4th gen)”, or “Motorola Moto G4 Play”. Either phone is acceptable however FIRST Tech Challenge highly recommends that Teams purchase either model number XT1607 or XT1609, as these are the US versions and have been tested and are fully compatible with the FIRST Tech Challenge software. Teams that have purchased phones with model numbers XT1601, XT1602, XT1603, or XT1604 may continue to use these phones as legal, however there is a potential for issues with these phones not being fully compatible with the software or the approved gamepads.",
+                                "**The REV Driver Hub may only be used as part of the Driver Station and not as the Robot Controller. ***The REV Control Hub may only be used as part of the Robot Controller and not as the Driver Station.", 
+                                "<RE08> Control Module Quantities - The control module consists of one of the following:",
+                                "a. A REV Control Hub; or",
+                                "b. An allowed smartphone Android Device connected to a REV Expansion Hub",
+                                "In addition to “a” or “b” above, a Robot may also contain:",
+                                "c. No more than one additional REV Expansion Hub",
+                                "d. Any quantity of REV SPARK Mini Motor Controllers",
+                                "e. Any quantity of REV Servo Power Modules",
+                                "**<RE09>** Motor and Servo Controllers – The only allowed motor and servo controllers are: REV Expansion Hub, REV Control Hub, REV Servo Power Module, REV SPARK Mini Motor Controller, and VEX Motor Controller 29.",
+                                "**<RE10>** DC Motors – A maximum of eight (8) DC motors are allowed in any combination. The only allowed motors are:",
+                                "a. TETRIX 12V DC Motor",
+                                "b. AndyMark NeveRest series 12V DC Motors",
+                                "c. Modern Robotics/MATRIX 12V DC Motors",
+                                "d. REV Robotics HD Hex 12V DC Motor",
+                                "e. REV Robotics Core Hex 12V DC Motor",
+                                "No other DC motors are allowed.",
+                                "**<RE11>** Servos – A maximum of twelve (12) servos are allowed. Any servo that is compatible with the attached servo controller is allowed. Servos may only be controlled and powered by a REV Expansion Hub, REV Control Hub, or REV Servo Power Module. Servos may be rotary or linear but are limited to 6V or less and must have the three-wire servo connector.",
+                                "The VEX EDR 393 motor is considered a servo. It must be used in conjunction with a VEX Motor Controller 29 and a REV Servo Power Module. A maximum of two (2) VEX EDR 393 Motors per REV Servo Power Module is allowed.",
+                                "**<RE12>** Sensors - Sensors are subject to the following constraints:",
+                                "a. Compatible sensors from any manufacturer may only be connected to the I2C, digital I/O, encoder, and",
+                                "analog ports of the REV Expansion Hub or REV Control Hub.",
+                                "b. Compatible sensors from any manufacturer may be connected to the Logic Level Converter and/or the I2C Sensor Adapter Cable. Refer to Rule <RE15.j> for details on the use of Logic Level Converter and the I2C Sensor Adapter Cable.",
+                                "c. Passive electronics may be used as recommended by sensor manufacturers at the interfaces to the sensors.",
+                                "d. Voltage sensors are allowed; except on an output port of a motor or servo controller.",
+                                "e. Current sensors are allowed; except on an output port of a motor or servo controller.",
+                                "f. Simple I2C multiplexers are allowed, and they may only be connected to and powered from the I2C connections available on REV Expansion Hub or REV Control Hub.",
+                                "g. Voltage and/or current sensors are also allowed to connect between the battery pack and the REV Expansion Hub or REV Control Hub.",
+                                "**<RE13>** Light Sources - Functional and/or decorative light sources (including LEDs) are allowed with the following constraints:",
+                                "a. Focused or directed light sources (for example: lasers and mirrors) are not allowed except for the REV Robotics 2m Distance sensor (REV-31-1505).",
+                                "b. Light-source control by compatible ports on the REV Expansion Hub or REV Control Hub is allowed.",
+                                "c. Commercial Off the Shelf (COTS) interface modules (without user programmable microprocessors) are",
+                                "allowed between the light source and the components listed in <RE13>b.",
+                                "d. The only approved power sources for lights are as follows:",
+                                "i. Internal (as supplied by the Commercial Off the Shelf manufacturer) battery pack or battery holder.",
+                                "ii. REV Expansion Hub or REV Control Hub Motor-control ports, XT30 ports, 5V auxiliary power ports, and I2C sensor ports.",
+                                "The common rates to trigger seizures is between 3 and 30 hertz (flashes per second) but varies from person to person. While some people are sensitive to frequencies up to 60 hertz, sensitivity under 3 hertz is not common. Please keep in mind that event attendees could have sensitivities to flashing lights. 1",
+                                "Teams that choose to install flashing lights should ensure the lights can be turned either completely off or on (not flashing). Tournament directors have the discretion of asking Teams to turn their lights to either state if an event attendee or participant has a sensitivity to flashing lights.",
+                                "Teams may still use LED lights to signal events provided the flash rate is approximately 1 hertz or less (in other words, cannot change states more frequently than approximately once a second). For example:",
+                                "- Teams may signal via LED light that they have a scoring element ready.",
+                                "See https://www.epilepsysociety.org.uk/photosensitive-epilepsy#.XuJbwy2ZPsE",
+                                "**<RE14>** Video Cameras",
+                                "a. Self-contained video recording devices (GoPro or similar) are allowed providing they are used only for non-functional post-Match viewing and the wireless capability is turned off. Approved self-contained video cameras must be powered by an internal battery (as supplied by the manufacturer).",
+                                "b. COTS UVC Compatible Cameras are allowed for computer vision-related tasks. UVC Compatible Cameras must be connected directly to a REV Control Hub, or to the Robot control system through a powered USB hub.",
+                                "**<RE15>** Robot Wiring - Robot wiring is constrained as follows:",
+                                "a. USB surge protectors connected to USB cables are allowed.",
+                                "b. Ferrite chokes (beads) on wires and cables are allowed.",
+                                "c. A Mini USB to OTG (On-The-Go) Micro Cable or any combination of a Mini USB cable, a USB hub, and an OTG Micro Adapter may be used to connect the smartphone Robot Controller Android Device to the Robot electronics. Note that the OTG Micro Adapter may be integrated into the USB hub. These devices may connect to the Robot electronics in the following ways:",
+                                "i. Built-in USB input port of the REV Expansion Hub or",
+                                "ii. A USB hub that connects to the built-in USB input port of the REV Expansion Hub. If a powered hub is used, it must draw its energy from either",
+                                "i. A commercial USB battery pack, or",
+                                "ii. A 5V auxiliary power port on a REV Expansion Hub or REV Control Hub.",
+                                "d. Anderson Powerpole, XT30, and similar crimp or quick-connect style connectors are recommended for joining electrical wires throughout the Robot. Power distribution splitters are recommended where appropriate to reduce wiring congestion. All connectors and distribution splitters should be appropriately insulated.",
+                                "e. Installed connectors (such as battery-pack connectors, battery charger connectors) may be replaced with Anderson Powerpole, XT30 or any compatible connector.",
+                                "f. Power and motor control wires must use consistent color-coding with different colors used for the positive (red, white, brown, or black with a stripe) and negative/common (black or blue) wires.",
+                                "g. Wire and cable management products of any type are permitted (for example, cable ties, cord clips, sleeving, etc.).",
+                                "h. Wire insulation materials of any type are permitted when used to insulate electrical wires or secure motor control wires to motors (for example, electrical tape, heat shrink, etc.).",
+                                "i. Power, motor control, servo, encoder, and sensor wires and their connectors may be extended, modified, custom made, or COTS subject to the following constraints:",
+                                "i. Power wires are 18 AWG or larger diameter (for example, 16 AWG wire has a larger diameter than 18 AWG wire).",
+                                "ii. Motor control wires as follows:",
+                                "i. 22 AWG or larger diameter for TETRIX Max 12V DC motors and REV Robotics Core Hex (REV-41-1300) 12V DC motors",
+                                "ii. 18 AWG or larger diameter for all other 12V DC motors",
+                                "iii. PWM (servo) wires are 22 AWG or larger diameter.",
+                                "iv. Sensorwiresshouldbethesamesizeorlargerdiameterthantheoriginalwiringorasspecified by the manufacturer.",
+                                "Teams should be prepared during Robot inspection to show documenation confirming the wire gauges used; particularly for multi-conductor cables.",
+                                "j. Logic Level Converters – Logic Level Converters that are used to connect a REV Expansion Hub or REV Control Hub to a 5V-compatible I2C sensor or a 5V-compatible digital sensor are allowed. Exactly one Logic Level Converter per I2C device and one Logic Level Converter per digital sensor are allowed. A Logic Level Converter should only draw power from the REV Expansion Hub or REV Control Hub.",
+                                "k. Electrically grounding the Control System electronics to the frame of the Robot is recommended and only permitted using a FIRST-approved, commercially manufactured Resistive Grounding Strap. The only Resistive Grounding Strap approved for use is the REV Robotics Resistive Grounding Strap (REV- 31-1269). Teams that have electronics with Powerpole-style connectors must use the REV",
+                                "Robotics Anderson Powerpole to XT30 Adapter (REV-31-1385) in conjunction with the REV Robotics Resistive Grounding Strap. No other grounding straps or adapters are permitted. For additional details on installation of the grounding strap or adapter, please see the Robot Wiring Guide (https://www.firstinspires.org/resource-library/ftc/robot-building-resources).",
+                                "**<RE16>** Modifying Electronics - Approved electrical and electronic devices may be modified to make them more usable; they may not be modified internally or in any way that affects their safety.",
+                                "Examples of modifications that are allowed:",
+                                "- Shortening or extending wires",
+                                "- Replacing or adding connectors on wires",
+                                "- Shortening motor shafts",
+                                "- Replacing gearboxes and/or changing gears",
+                                "Examples of modifications that are not allowed:",
+                                "- Replacing an H-Bridge in a motor controller",
+                                "- Rewinding a motor",
+                                "- Replacing a fuse with a higher value than specified by the manufacturer",
+                                "- Shorting out a fuse",
+                                "**<RE17>** Additional Electronics – Electronic devices that are not specifically addressed in the preceding rules are not allowed. A partial list of electronics that are not allowed includes: Arduino boards, Raspberry Pi, relays, and custom circuits."
+                            ]
+                        },
+                        {
+                            "title":"Driver Station Rules",
+                            "content":[
+                                "Teams provide their own Driver Station, and it must comply with the following constraints:",
+                                "**<DS01>** Driver Station Controller – The Driver Station must consist of no more than one (1) of the following options:",
+                                "a. One (1) smartphone Android Device listed in rule <RE07>, or",
+                                "b. One (1) REV Driver Hub.",
+                                "**<DS02>** Driver Station Controller Touch Screen - The touch display screen of the Driver Station Controller",
+                                "must be accessible and visible by field personnel.",
+                                "**<DS03>** Gamepad – The Driver Station must contain no more than two (2) of the following gamepads in any combination:",
+                                "a. Logitech F310 gamepad (Part# 940-00010)",
+                                "b. Xbox 360 Controller for Windows (Part# 52A-00004)",
+                                "c. Sony DualShock 4 Wireless Controller for PS4 (ASIN # B01LWVX2RG) operating in wired mode only (i.e., connected through USB 2.0 Type A to Type B Micro cable with Bluetooth turned off)",
+                                "d. Etpark Wired Controller for PS4 (ASIN # B07NYVK9BT).",
+                                "**<DS04>** USB Hub – No more than one (1) external battery powered or unpowered USB hub is allowed.",
+                                "**<DS05>** Charging the Driver Station Controller at the Playing Field – One (1) optional COTS USB external battery is allowed to charge the Driver Station Controller. The USB battery connects to the Driver Station Controller only by these methods:",
+                                "a. Through the built-in USB-C port on the REV Driver Hub.",
+                                "b. Through a USB Hub connected to the smartphone Android Device.",
+                                "**<DS06>** Smartphone Android Device (if used) Additional Constraints –",
+                                "a. One (1) OTG Cable is required",
+                                "b. The Driver Station smartphone Android Device USB interface may only connect to either:",
+                                "i. A Mini USB to OTG (On-The-Go) cable or combination of cables connected to a USB Hub, or",
+                                "ii. One (1) gamepad, USB cable, and an OTG Micro Adapter.",
+                                "**<DS07>** Driver Station Carrier – The Driver Station carrier’s intended use is for organizing and transporting Driver Station components. Driver Station carrier constraints are as follows:",
+                                "a. Driver Station carrier may not damage Competition provided equipment, the Playing Field, or the venue floor.",
+                                "b. Decorative electronics (including LEDs) are allowed, and they must be powered by a 12V or lower COTS DC battery. The smartphone Android Device and REV Driver Hub may not power or control decorative electronics.",
+                                "c. Non-decorative electronics are not allowed.",
+                                "d. The Driver Station carrier must not be a distraction to gameplay, field personnel, Teams, or spectators.",
+                                "The intent of this rule is to allow Teams to use a container to store, organize, and transport the Driver Station components. The Driver Station carrier rule is not intended to allow carriers that function as or replace a Competition provided Driver Station stand, table, etc.",
+                                "**Important Note**: The Driver Station is a wireless device with a built-in wireless radio. During a Match, the Driver Station should not be obscured by metal or other material that could block or absorb the radio signals from the Driver Station."
+                            ]
+                        },
+                        {
+                            "title":"Robot Software Rules",
+                            "content":[
+                                "For software resources and troubleshooting guides, please visit our website: https://www.firstinspires.org/resource-library/ftc/technology-information-and-resources.",
+                                "**<RS01>** Android Device Names - Each Team MUST “name” their Robot Controller Android device Wi-Fi name with their official FIRST Tech Challenge Team number and –RC (for example, “12345-RC”). Each Team MUST “name” their Driver Station Android device with their official Team number and –DS (for example, 12345-DS). Teams with more than one Driver Station or Robot Controller Android Device must name these devices with the Team number followed by a hyphen then a letter designation beginning with “A” (for example, “12345-A-RC”, “12345-B-RC”).",
+                                "**<RS02>** Recommended Programming Tools – Java is the recommended programming language for the Robot Controller. The following tools are recommended for use in the FIRST Tech Challenge:",
+                                "a. FTC Blocks Development tool – a visual, blocks-based programming tool hosted by the Robot Controller.",
+                                "b. FTC OnBot Java Programming tool – a text-based integrated development environment hosted by the Robot Controller.",
+                                "c. Android Studio – a text-based integrated development environment.",
+                                "d. Java Native Interface (JNI) & Android Native Development Kit (NDK) – Teams can incorporate native code libraries into their apps using the JNI framework and the Android NDK.",
+                                "**<RS03>** Allowed Software System Versions - The following table lists the Android Devices, minimum Android versions, minimum operating system and firmware versions, and minimum FTC software versions allowed per device.",
+                                "IMG:https://i.imgur.com/YlATe1N.png",
+                                "**IMPORTANT**: Rules <RS02> or <RS03> do not require that Teams upgrade to the latest version of the software. A mandatory upgrade (announced by FIRST) would only be required if FIRST determined there was a critical software fix that must be adopted by Teams. Teams must install the upgrade before the time of Competition. Additionally, beta versions of the software are allowed at official tournaments. Mandatory upgrades will be communicated in the following ways:",
+                                "- Via Team Blast (http://firstinspires.org/resource-library/ftc/team-email-blasts) – The mandatory upgrade and version number will be communicated to Teams on the Team Blast, which will also show the date the required upgrade must be made.",
+                                "- Online – the minimally required software will be listed on our Technology Resources (http://firstinspires.org/resource-library/ftc/technology-information-and-resources) page, with the date Teams are required to make the mandatory software upgrade.",
+                                "- Forum – The minimally required software will be listed in the Technology Forum (http://ftcforum.usfirst.org/forumdisplay.php?156-FTC-Technology&__hstc=212927755.8c47fe5c332447859bfe583000c1f507.1466607298723.1466607298723.1466607298723.1&__hssc=212927755.4.1466607298724&__hsfp=2853653097) page, with the date Teams are required to make the mandatory software upgrade.",
+                                "Templates for all programming choices are available through the links located at http://www.firstinspires.org/node/5181.",
+                                "**<RS04>** Autonomous to Driver-Controlled Transition - Teams that expect to operate their Robot during the Autonomous period must demonstrate during Field Inspection the Driver Station switches the Robot Controller between Autonomous mode and Driver-Controlled mode.",
+                                "**<RS05>** Robot Controller App - The Robot Controller smartphone Android Device (if used) must have a designated “FTC Robot Controller” app that is the default application for the REV Expansion Hub. The Robot Controller app must not be installed on the Driver Station Android Device.",
+                                "**<RS06>** Driver Station App – Teams must install the official “FTC Driver Station” app onto their Driver Station Android Device or REV Driver Hub and use this app to control their Robot during a Match. The Driver Station FTC software version number must match the version number of the Robot Controller app. The Driver Station App must not be installed on the Robot Controller Android Device.",
+                                "**IMPORTANT**: Rules <RS05> or <RS06> may require initial installation of the software, or updates throughout the season. Teams receiving the Driver Hub or Control Hub for the first time should install the most recent version of the software.",
+                                "For initial installation or to install the most current version the software, please visit the following link: https://docs.revrobotics.com/control-hub/managing-the-control-system/rev-hardware-client",
+                                "If updates to the SDK software are required, Teams will be notified in the following ways:",
+                                "- Via Team Blast (http://firstinspires.org/resource-library/ftc/team-email-blasts) – The mandatory upgrade and version number will be communicated to Teams on the Team Blast, which will also show the date the required upgrade must be made.",
+                                "- Online – the minimally required software will be listed on our Technology Resources (http://firstinspires.org/resource-library/ftc/technology-information-and-resources) page, with the date Teams are required to make the mandatory software upgrade.",
+                                "- Forum – The minimally required software will be listed in the Technology Forum (http://ftcforum.usfirst.org/forumdisplay.php?156-FTC-Technology&__hstc=212927755.8c47fe5c332447859bfe583000c1f507.1466607298723.1466607298723.1466607298723.1&__hssc=212927755.4.1466607298724&__hsfp=2853653097) page, with the date Teams are required to make the mandatory software upgrade.",
+                                "**<RS07>** Android Device, REV Driver Hub, and REV Control Hub Operating System Settings - The Robot Controller and Driver Station must be set to:",
+                                "a. Airplane mode must be turned on (does not apply to the REV Control Hub and REV Driver Hub).",
+                                "b. Bluetooth must be turned off.",
+                                "c. Wi-Fi must be turned on.",
+                                "d. REV Control Hub password must be different than the factory default value of “password.”",
+                                "**<RS08>** Software Modification –",
+                                "a. Teams are not allowed to modify the FIRST Tech Challenge Driver Station app in any fashion.",
+                                "b. Teams are required to use the FIRST Robot Controller SDK, and are not allowed to remove, replace, or modify the portions of the SDK which are distributed as binary .AAR files.",
+                                "The intent of this rule is for Teams to download the official version of the SDK from FIRST and make modifications to add Team created code.",
+                                "Reengineered, reverse engineered, or modified versions of the official FIRST SDK are not allowed.",
+                                "**<RS09>** Driver Station Communication - Communication between the Robot and Driver Station is only allowed via the Robot Controller and Driver Station applications.",
+                                "Communication between the Robot Controller and the Driver Station is limited to the unmodified mechanisms provided by the official FIRST Tech Challenge (FTC) software, which consists of the official FTC Software Development Kit (SDK), the FTC Robot Controller app, and the FTC Driver Station app. Teams are not permitted to stream audio, video or other data using third-party software or modified versions of the FTC software. Teams may only use the unmodified telemetry feature included with the FTC software to transfer additional data between the Robot Controller and the Driver Station. Software that is preinstalled by an approved smartphone’s manufacturer and cannot be disabled is exempt from this constraint.",
+                                "During a Match, a Team’s Robot Controller and a Team’s Driver Station are not allowed to be connected wirelessly to any other device besides each other."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title":"Team Scoring Element",
+                    "table":[
+
+                    ],
+                    "content":[
+                        "The Team Scoring Element is a Team designed and manufactured scoring element that will be used in the Freight FrenzySM game. The Team Scoring Element must pass inspection before it allowed to be used in a Match.",
+                        "The Team Scoring Element for Freight FrenzySM is called the Team Shipping Element.",
+                        "**<TE01>** Material Constraints - The Team Scoring Element is subject to the Robot Mechanical Parts and Materials Rules in section 7.3.2.",
+                        "**<TE02>** Size Constraints - The maximum size of the Team Scoring Element is 4 inches (10.16 cm) by 4 inches (10.16 cm) by 8 inches (20.32 cm). The minimum size of the Team Scoring Element is 3 inches (7.62 cm) by 3 inches (7.62 cm) by 4 inches (10.16 cm).",
+                        "**<TE03>** Team Number - Team Scoring Elements must be labeled with their Team number (numerals only, for example “12345”) The letters must be legible when viewed from a distance of 12 inches (30.48 cm) away. The Team number needs to appear only once on the Team Scoring Element.",
+                        "**<TE04>** Illegal Parts - The following types of mechanisms and parts are not allowed:", 
+                        "a. Electronics.",
+                        "b. Any other part or material that violates Robot construction rules outlined in section 7.3.",
+                        "c. COTS game elements used in the current season’s game.",
+                        "**<TE05>** COTS Scoring Elements – The Team Scoring Element may not resemble any current season’s game COTS scoring elements."
+                    ],
+                    "subsections":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Robot Inspection",
+            "table":[
+                "8.1 Overview",
+                "8.2 Description",
+                "8.3 Definitions",
+                "8.4 Inspection Rules"
+            ],
+            "content":[
+
+            ],
+            "subsections":[
+                {
+                    "title":"Overview",
+                    "table":[
+
+                    ],
+                    "content":[
+                        "This section describes Robot Inspection for the FIRST Tech Challenge Competition. It also lists the inspection definitions and inspection rules."
+                    ],
+                    "subsections":[
+
+                    ]
+                },
+                {
+                    "title":"Description",
+                    "table":[
+                        "8.2.1 Team Self-Inspection"
+                    ],
+                    "content":[
+                        "The FIRST Tech Challenge Robot will be required to pass Robot and Field inspections before being cleared to compete. These inspections will ensure that all Robot rules and regulations are met. Initial inspections will take place during Team check-in/practice time. The official “Robot Inspection Checklists” are in Appendices B and C."
+                    ],
+                    "subsections":[
+                        {
+                            "title":"Team Self-Inspection",
+                            "content":[
+                                "Teams are highly recommended to conduct a self-inspection of their Robot. Teams should go through each checklist at least a week before the Competition to make sure their Robot is made up of legal parts."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title":"Definitions",
+                    "table":[
+
+                    ],
+                    "content":[
+                        "Robot Initialization Routine – A set of programming instructions that runs after Init is pressed on the Driver Station, but before Start for both Driver-Controlled and Autonomous periods.",
+                        "Robot Sizing Tool – A sturdily constructed device with the interior dimensions: 18 inches (45.72 cm) wide by 18 inches (45.72 cm) long by 18 inches (45.72 cm) high. The Sizing Tool is used for Robot Inspection as outlined in section 7.3.1."
+                    ],
+                    "subsections":[
+
+                    ]
+                },
+                {
+                    "title":"Inspection Rules",
+                    "table":[
+
+                    ],
+                    "content":[
+                        "**<I01>** Inspection - Every Robot is required to pass a full inspection before being cleared to compete. This inspection ensures that all FIRST Tech Challenge Robot rules are met.",
+                        "All Robot configurations must be inspected before being used in Competition.",
+                        "a. If significant changes are made to a Robot after passing initial inspection, it must be re-inspected",
+                        "before it can compete.",
+                        "b. Referees or inspectors may request the re-inspection of a Robot. The Robot cannot participate in a Match until it passes re-inspection. Refusal to submit to re-inspection will result in Team disqualification from the Competition.",
+                        "c. A Robot may be rejected at inspection if the lead inspector considers it unsafe.",
+                        "**<I02>** Practice Matches - FIRST Tech Challenge Teams must submit their Robot for inspection before participating in Practice Matches., A Robot may be allowed to participate in Practice Matches before passing inspection if allowed by the lead robot inspector.",
+                        "**<I03>** Qualification Matches - The Team’s Robot must pass all inspections before participating in Qualification Matches. Refusal to follow any Robot design, construction rule, or programming rules may result in disqualification of the Team at a FIRST Tech Challenge Competition.",
+                        "**<I04>** Re-Inspection – Physical changes to a Robot that improve performance or add capability must pass re- inspection prior to being eligible to play in the next Match. <I04> Safety - It is the inspector’s responsibility to evaluate Robots to ensure each Robot is designed to operate safely. Section 7 of this manual, and Game Manual Part 2, section 4.6.1 outlines the safety rules and limits that apply to the design and construction of all Robots.",
+                        "**<I05>** Passing Inspection - Robot inspection is a Pass or Fail process. A Robot has passed inspection when all requirements listed on the official FIRST Tech Challenge “Robot and Field Inspection” are successfully met and recorded as passed by an inspector.",
+                        "**<I06>** All Mechanisms are Inspected - For Inspection, the Robot must be presented with all mechanisms (including all parts of each, configurations, and decorations that will be used on the Robot during the Competition. Robots are allowed to play Matches with a subset of the mechanisms that were present during inspection. Only mechanisms that were present during inspection may be added, removed, or reconfigured between Matches. The Robot should be assembled in a typical configuration used for Matches play when reporting for inspection.",
+                        "a. Robot and all mechanisms must be inspected in every starting configuration.",
+                        "b. If mechanisms are swapped out between Matches, the reconfigured Robot must still meet all Robot and inspection rules.",
+                        "c. The total of all electronics (motors, servos, Android devices, etc.) used to build all mechanisms and base Robot, whether they are used on the Robot at the same time or not, may not exceed the constraints specified in the Robot rules.",
+                        "**<I07>** Wheel or Tread Playing Field Damage Test - Robot inspectors have the authority to ask that a Team test their wheels or treads that they feel might cause damage to the Playing Field. Not every tread or wheel can be evaluated and posted as a legal or illegal part. Therefore, the tread test is a quick way to find out if a Team’s wheels or treads are Competition legal.",
+                        "The robot inspector should place the Robot on top of a field tile and against an immovable surface (wall) and run the wheels at full power for 15 seconds. If there is any physical damage to the floor tile, the wheels will not be allowed. Discoloration or black marks alone are not considered field damage. The test must be made with the Robot at the weight it will be at during the Competition since this will affect the degree of damage."
+                    ],
+                    "subsections":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Judging and Award Criteria",
+            "table":[
+                "9.1 Overview",
+                "9.2 Engineering Notebook",
+                "9.3 Engineering Portfolio",
+                "9.4 Judging Process, Schedule, and Team Preparation",
+                "9.5 Award Categories"
+            ],
+            "content":[
+
+            ],
+            "subsections":[
+                {
+                    "title":"Overview",
+                    "table":[
+
+                    ],
+                    "content":[
+                        "This section provides descriptions of:",
+                        "- Engineering notebook recommendations",
+                        "- Engineering portfolio requirements and recommendations",
+                        "- How judging works",
+                        "- FIRST Tech Challenge award criteria",
+                        "Teams have spent a significant number of hours designing, building, programming their Robot, and learning what it takes to be part of a Team. For many Teams, the event is the reward for all their hard work throughout the season. While there are several types of events, they all offer a fun and exciting way for Teams to show the results of their efforts.",
+                        "The judged awards give us the opportunity to recognize Teams who embody important values like Gracious Professionalism®, teamwork, creativity, innovation, and the value of the engineering design process. These judging guidelines are a part of the road map to success.",
+                        "FIRST Tech Challenge provides judging feedback for Team who submit a completed judging feedback request form. When receiving feedback, Team should note the judging is a subjective process; and students are encouraged to learn the important life skill of self-evaluation to help them prepare for their judged interview. This helps students prepare for professional interviews while developing other real-world life skills. For a copy of the FIRST Tech Challenge Team Judging Session Self-Reflection Sheet please visit the website: http://www.firstinspires.org/node/5226"
+                    ],
+                    "subsections":[
+
+                    ]
+                },
+                {
+                    "title":"Engineering Notebook",
+                    "table":[
+                        "9.2.1 Overview",
+                        "9.2.2 What is an Engineering Notebook?",
+                        "9.2.3 Engineering Notebook Formats",
+                        "9.2.4 Engineering Notebook Recommendations"
+                    ],
+                    "content":[
+
+                    ],
+                    "subsections":[
+                        {
+                            "title":"Overview",
+                            "content":[
+                                "This section describes the engineering notebook."
+                            ]
+                        },
+                        {
+                            "title":"What is an Engineering Notebook?",
+                            "content":[
+                                "One of the goals of FIRST and FIRST Tech Challenge is to recognize the engineering design process and “the journey” that a Team makes in the phases of creating their Robot, including:",
+                                "- Problem definition",
+                                "- Information gathering",
+                                "- Brainstorming solutions",
+                                "- Concept design",
+                                "- System level design",
+                                "- Testing",
+                                "- Design improvement",
+                                "- Production",
+                                "- Promotion",
+                                "- Budgeting",
+                                "- Planning",
+                                "- Outreach",
+                                "Throughout the process of building and designing a Robot, Teams will draw ideas on paper, encounter obstacles, and learn valuable lessons. This is where Teams will use an engineering notebook. These notebooks follow the Team from the end of the prior season throughout the Competitions.",
+                                "The engineering notebook is an optional item but is a fundamental source of information for the Team to use to be able to create the engineering portfolio.",
+                                "Judges may ask the Team to provide specific information from their engineering notebook to better understand the journey, design, and Team and to get more details and background than would be in the Team’s engineering portfolio.",
+                                "The engineering notebook is the documentation repository of the Team, outreach and fund-raising efforts, Team plans, and the Robot design. This documentation can include sketches, discussions and Team meetings, design evolution, processes, obstacles, and each Team member’s thoughts throughout the journey for the entire season.",
+                                "In the FIRST Tech Challenge, engineering notebooks can include business planning, outreach goals and achievement, and a Team’s insights into what it is to be a FIRST Tech Challenge Team.",
+                                "**Teams should be careful to include only the first name of Team members in their engineering notebook. A new notebook and portfolio must be created for each new season.** Teams may consider their new season as beginning after their final event for the previous season."
+                            ]
+                        },
+                        {
+                            "title":"Engineering Notebook Formats",
+                            "content":[
+                                "Teams may record their season with either handwritten or electronic documents. There is no distinction made between handwritten and electronic engineering notebooks during judging; each format is equally acceptable.",
+                                "a) Electronic: Teams may use electronic programs to create their engineering notebook.",
+                                "b) Handwritten: Teams may add handwritten text, drawings, or cad drawings, but recognize that the Team",
+                                "may need to scan (or take a picture) of each page.",
+                                "For judging at a remote event, Teams should create an electronic copy of their engineering notebook. During the second interview, Judges may ask the Team to share specific pages from the engineering notebook. Teams will not upload their engineering notebook to the FTC Scoring System.",
+                                "For judging purposes at a traditional event, Teams should have a physical copy of their engineering notebook available in the Team’s Pit Area for judges to look at as needed. Judges may ask to see specific content from the engineering notebook during pit interviews. Engineering notebooks will not be collected by the event organizer or the event judges."
+                            ]
+                        },
+                        {
+                            "title":"Engineering Notebook Recommendations",
+                            "content":[
+                                "We strongly recommend that a one-page summary be included in the notebook near the front that connects the information from the engineering portfolio to the relevant section or pages in the engineering notebook. This will help the Team quickly find specific content to share with Judges.",
+                                "The engineering notebook could include:",
+                                "a. Engineering content that includes the Robot design processes.",
+                                "b. Team information that includes information about the Team and outreach activities.",
+                                "c. A Team plan. This could be a business plan, a fund-raising plan, a strategic plan, a sustainability plan, or a skills development plan.",
+                                "Judges may not need to reference your Team’s engineering notebook. We expect that the higher the quality of information in the engineering portfolio, the less likely judges will need to reference the Team’s notebook."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title":"Engineering Portfolio",
+                    "table":[
+                        "9.3.1 Overview",
+                        "9.3.2 What is an Engineering Portfolio?",
+                        "9.3.3 Engineering Portfolio Formats",
+                        "9.3.4 Engineering Portfolio Requirements",
+                        "9.3.5 Engineering Portfolio Recommendations",
+                        "9.3.6 Engineering Portfolio Requirements by Award"
+                    ],
+                    "content":[
+
+                    ],
+                    "subsections":[
+                        {
+                            "title":"Overview",
+                            "content":[
+                                "This section describes the requirements for creating the engineering portfolio, including formatting guidelines."
+                            ]
+                        },
+                        {
+                            "title":"What is an Engineering Portfolio?",
+                            "content":[
+                                "An engineering portfolio is a short and concise summary of the content collected within the Team’s engineering notebook.",
+                                "The engineering notebook is a complete documentation of the Team, outreach and fund-raising efforts, Team plans, and the Robot design. The engineering portfolio should include sample sketches, discussions and Team meetings, design evolution, processes, obstacles, goals and plans to learn new skills, and each Team member’s concise thoughts throughout the journey for the season. The engineering portfolio is like the Team’s cover letter or resume. Teams should be careful to include only the first name of Team members in their engineering portfolio."
+                            ]
+                        },
+                        {
+                            "title":"Engineering Portfolio Formats",
+                            "content":[
+                                "Teams may document their summary portfolio with either handwritten or electronic documents. There is no distinction made between handwritten and electronic engineering portfolios during judging; each format is equally acceptable.",
+                                "a) Electronic: Teams may use any electronic programs to create their engineering portfolio. For remote event judging, Teams must create a single file that is a sharable, online, non-editable version (such as a PDF) of their engineering portfolio. For traditional events, Teams must print their engineering portfolio.",
+                                "b) Handwritten: Teams may create a handwritten version but for remote judging events, this is discouraged due to difficulties in scanning into a readable, sharable, online version."
+                            ]
+                        },
+                        {
+                            "title":"Engineering Portfolio Requirements",
+                            "content":[
+                                "a) To be considered for judged awards, a Team must submit an engineering portfolio.",
+                                "b) The total number of pages for an engineering portfolio must not exceed 15 pages, plus a cover sheet.",
+                                "i. Pages must be the equivalent of standard A sized paper (US 8.5 x 11) or Standard A4 sized paper (EU 210 x 297 mm).",
+                                "ii. Fonts used must be a minimum of 10 points.",
+                                "c) The engineering portfolio must not include links to other documents, videos, or any other additional content.",
+                                "i. Please note that judges will not review linked content in the engineering portfolio, including web sites, or videos.",
+                                "d) The Control Award Submission Form is not a part of the engineering portfolio and is not included in the total engineering portfolio page count.",
+                                "A Team number on the top of every page makes it easy for Judges to know who created the engineering portfolio they are reviewing. The Team number on the front page is a required component of the engineering portfolio."
+                            ]
+                        },
+                        {
+                            "title":"Engineering Portfolio Recommendations",
+                            "content":[
+                                "a) We strongly recommend the Team number is at the top of each page.",
+                                "b) The engineering portfolio could include:",
+                                "i. Summary of the engineering content that includes the Robot design processes.",
+                                "ii. Summary of the Team information that includes information about the Team and outreach activities.",
+                                "iii. Summary of the Team plan and information about the Team overall. The Team plan could be a business plan, a fund-raising plan, a strategic plan, a sustainability plan, or a plan for the development of new skills.",
+                                "Teams can use the Self-Assessment sheet (coming soon!) to be sure their engineering portfolio provides answers for each of the requirements for specific awards.",
+                                "It is a good idea to connect the award criteria to specific content in your engineering portfolio!"
+                            ]
+                        },
+                        {
+                            "title":"Engineering Portfolio Requirements by Award",
+                            "content":[
+                                "**Inspire Award**",
+                                "- Team must submit an engineering portfolio. The engineering portfolio must include summary information about the Robot design, information about the Team, and a Team plan. The entire engineering portfolio must be high quality, thoughtful, thorough, concise, and well-organized. The Team should have an engineering notebook available for the judges to review that provides the specific, detailed information to support the information in the portfolio.",
+                                "**Think Award**",
+                                "- Engineering portfolio must have engineering content. The engineering content could include entries describing examples of the underlying science, mathematics, and game strategies in a summary fashion.",
+                                "- The engineering portfolio must provide examples that show the Team has a clear understanding of the engineering design process including an example of lessons learned.",
+                                "- The portfolio could inspire the judges to want to see the specific, detailed engineering content in the engineering notebook.",
+                                "- Portfolio format is less important but enables the judges to understand the Team’s design maturity, organizational capabilities, and overall Team structure.",
+                                "- Portfolio could reference specific experiences and lessons learned but should capture the summary of the status of the Team and their Robot design.",
+                                "- Portfolio could summarize experiences and lessons learned from outreach with concise tables of outcomes.",
+                                "- Portfolio could summarize how they acquired new mentors and/or acquired new knowledge and expertise from their mentors.",
+                                "- Portfolio could contain a summary of overall Team plan.",
+                                "- Portfolio could contain information about the plans to develop skills for Team members.",
+                                "- Portfolio could be organized in a logical manner.",
+                                "**Connect Award**",
+                                "- Team must submit an engineering portfolio.",
+                                "- Portfolio must include a Team plan. The Team plan could the Team’s goals for the development of Team member skills, and the steps the Team has or will take to reach those goals. Other examples of what the plan could include are timelines, outreach to science, engineering, and math communities, and training courses.",
+                                "- Portfolio must include a summary of how they acquired new mentors or acquired new knowledge and expertise from their mentors.",
+                                "**Innovate Award**",
+                                "- Team must submit an engineering portfolio.",
+                                "- The engineering portfolio must include examples of the Team’s engineering content that illustrate how the Team arrived at their design solution.",
+                                "- The portfolio could inspire the judges to want to see the specific, detailed engineering content in the engineering notebook.",
+                                "**Control Award sponsored by Arm, Inc.**",
+                                "- The Team must submit an engineering portfolio. The engineering portfolio must include engineering content that documents the control components.",
+                                "- The Team must submit a control award submission form as a separate document. Teams should identify the control aspects of their Robot that they are most proud of and may not exceed 2 pages.",
+                                "**Motivate Award**",
+                                "- Team must submit an engineering portfolio.",
+                                "- The engineering portfolio must include a Team organization plan, which could describe their future goals and the steps they will take to reach those goals. Other examples of what the plan could include are Team identity, fund-raising goals, sustainability goals, timelines, outreach to non-technical groups, finances, and community service goals.",
+                                "- The Team is an ambassador for FIRST programs.",
+                                "- Team can explain the individual contributions of each Team member, and how these apply to the overall success of the Team.",
+                                "**Design Award**",
+                                "- Team must submit an engineering portfolio that includes examples of Robot CAD images or detailed Robot design drawings.",
+                                "- The portfolio could inspire the judges to want to see the specific, detailed design content and design journey in the engineering notebook."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title":"Judging Process, Schedule, and Team Preparation",
+                    "table":[
+                        "9.4.1 How Judging Works",
+                        "9.4.2 Judging Schedule",
+                        "9.4.3 Team Preparation",
+                        "9.4.4 Coaches Involvement in Interviews",
+                        "9.4.5 Video Award Submission Guidelines for Compass and Promote Awards"
+                    ],
+                    "content":[
+                        "The schedules at the FIRST Tech Challenge Competitions may vary from event to event. At traditional events, judging interviews are scheduled for before the start of match play. For remote events, judging will take place during a pre-determined window of time. Exact times for both the matches and meeting with judges cannot be given within this manual. All Teams receive the schedule before or during check-in at the Competition, or in advance of their scheduled remote interview."
+                    ],
+                    "subsections":[
+                        {
+                            "title":"How Judging Works",
+                            "content":[
+                                "At FIRST Tech Challenge Competitions, there will be four parts to the judging process: 1. Interview with the judges.",
+                                "a. Teams take part in scheduled, private interviews with a panel of two or more judges.",
+                                "b. Teams are asked to bring their Robot to the judge interview. This is the best chance for Teams to explain and show their Robot design to the judges in a quiet and relaxed environment. For remote events, Teams may show photos of their Robot to the judges as a part of their remote interview.",
+                                "**All Teams, regardless of if they have a Robot or a working Robot, are eligible to receive their judges’ interview and can be considered for all judged awards.**",
+                                "i. Teams who have not built a Robot or have a Robot that has not passed Robot inspection are permitted to participate in judging and are eligible for consideration for all awards.",
+                                "c. The interview will last at least 10 minutes.",
+                                "d. During the first 5 minutes of the interview, Teams can present to the judges, without interruption.",
+                                "i. Teams are not required to prepare a presentation and will not be penalized if they do not have a prepared presentation.",
+                                "ii. Teams will not receive more than 5 minutes for their uninterrupted presentation.",
+                                "iii. Teams may not pre-record their presentation.",
+                                "e. At the five-minute mark, the judges will begin to ask questions of the Team.",
+                                "2. Match observations by judges (traditional events only).",
+                                "a. Judges observe the Robot, student interactions, and the Gracious Professionalism® of the entire Team.",
+                                "3. Judges follow up with additional interviews in the pits during Competition. For remote events, this second interview will be pre-scheduled.",
+                                "4. Evaluation of the engineering portfolio.",
+                                "No awards will be decided based on the judges' interview or engineering portfolio alone. Judges use the guidelines provided in this section to assess each Team.",
+                                "Teams should present their engineering portfolio, their control award submission form, and their judging feedback request form to the judges at the start of their interview unless otherwise directed by the Competition officials. In remote events, the Team coach, as the team admin, is designated to upload these materials to the FTC Scoring System.",
+                                "After the judges review the submitted engineering portfolio, complete the scheduled Team interviews, and evaluate the team and Robot performance on the field, they meet to review their assessments and create a list of top candidates for the various judged awards. Judges may require more discussion with Teams.",
+                                "**9.4.1.1 Feedback to Teams**",
+                                "Teams who wish to receive feedback from judges must submit a completed judging feedback request form (https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/judging-feedback-request-form.pdf).",
+                                "Judges will conduct the Team interview and review the documentation submitted by the Team. After the event, the lead coach/mentor 1 for the Team will receive access to the judging feedback form which has been completed by the event judges.",
+                                "The feedback form is completed by the judges immediately following the formal interview.",
+                                "The feedback form is not used by the judges during their deliberation process.",
+                                "**9.4.1.2 Teams Without a Robot**",
+                                "Teams who have not built a Robot or have a Robot that has not passed Robot inspection are permitted to participate in judging and are eligible for award consideration."
+                            ]
+                        },
+                        {
+                            "title":"Judging Schedule",
+                            "content":[
+                                "The judging interviews take place in a separate area or room away from other Teams as well as the noise of the Competition and pit. Teams follow the schedule that outlines Team interview times and locations. Sometimes, Teams may receive this information in advance, but more often, Teams will receive this information when they check-in on the morning of the event. For remote events, Team coaches will receive the Team’s judging schedule in advance of the event.",
+                                "As much as possible, Teams should familiarize themselves with where and how judging will occur and allow enough time to get there. We expect that all Teams arrive at the judge queuing area five minutes before their scheduled judging interview. This helps us keep the event running on time."
+                            ]
+                        },
+                        {
+                            "title":"Team Preparation",
+                            "content":[
+                                "Teams are encouraged to read and understand the award requirements for each award to assess where they are within an award category and help them establish higher goals. These guidelines are the same ones used by the judges during each Competition, and at the FIRST Tech Challenge world championships. Please see the Award Categories section of this manual for award requirements and look over the Engineering Portfolio Requirements by Award to ensure the Team’s engineering portfolio meets the criteria by award. Teams should attend judging workshops and judging practice days if they are available in their region. Practice makes for a better presentation, and practice in front of others could help a Team identify gaps in their presentation. Judging self-reflection sheets are another tool that Teams can use to prepare for their judging interview.",
+                                "During the Team’s interview, the judges want to know highlights about the Team; what the Team learned during the Competition season; and the experiences that were gained. Team representatives’ abilities to answer the questions or elaborate on Robot design functions or qualities are evaluated during the Team interview."
+                            ]
+                        },
+                        {
+                            "title":"Coaches Involvement in Interviews",
+                            "content":[
+                                "Check with the tournament director to see if mentors and coaches can watch the Team interview. Mentors and coaches may not contribute to the judging interviews. Mentors and coaches should always keep in mind that FIRST Tech Challenge is a student-centered activity. It is about giving the students a unique and stimulating experience in all aspects of the program.",
+                                "**9.4.4.1 Coaches Involvement in Interviews Exceptions**",
+                                "FIRST Tech Challenge will make exceptions for coaches who are needed to translate for students, for coaches of students with different abilities, and other exceptional circumstances. Please let the tournament director know in advance if your Team would like to be considered for an exception"
+                            ]
+                        },
+                        {
+                            "title":"Video Award Submission Guidelines for Compass and Promote Awards",
+                            "content":[
+                                "The submission process for this award may vary by Competition. The compass and promote awards are not offered at all events. Please check with the tournament director for details. Winning videos will be submitted to FIRST and used to promote the higher values of FIRST Tech Challenge. Teams can also send their promote videos directly to FIRST; however, these submissions will not be formally judged. If you would like to send your promote video to FIRST, please email ftcteams@firstinsires.org with the subject line “Promote Award Video”.",
+                                "- The video must be submitted at least one week before Competition day. Instructions for submitting videos may vary from Competition to Competition. Please check with the tournament director for details.",
+                                "- Videos must be submitted in AVI, WMV, MOV or better format. Submission through use of a streaming service such as YouTube is not acceptable. Remember the winning video may be shown on a large screen during the awards ceremony. Teams should use the best resolution available for the final version.",
+                                "- Only one video submission per Team will be considered. Teams may submit new or updated videos at each Competition.",
+                                "- Teams must have permission from the copyright owners for music used in the video and indicate this in their video."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title":"Award Categories",
+                    "table":[
+                        "9.5.1 Inspire Award",
+                        "9.5.2 Think Award",
+                        "9.5.3 Connect Award",
+                        "9.5.4 Innovate Award sponsored by Raytheon Technologies",
+                        "9.5.5 Control Awawrd by Arm Inc.",
+                        "9.5.6 Motivate Award",
+                        "9.5.7 Design Award",
+                        "9.5.8 Promote Award (Optional)",
+                        "9.5.9 Compass Award (Optional)",
+                        "9.5.10 Judges' Choice Award",
+                        "9.5.11 Winning Alliance Award",
+                        "9.5.12 Finalist Alliance Award"
+                    ],
+                    "content":[
+                        "Each award listed below has a list of non-negotiable requirements. Please note that each award has a set of required criteria. Gracious Professionalism® is listed as the first criteria for every award. This is a mandatory requirement for every FIRST Tech Challenge award. Teams who behave in an ungracious way are not eligible for consideration for any award at the event."
+                    ],
+                    "subsections":[
+                        {
+                            "title":"Inspire Award",
+                            "content":[
+                                "This judged award is given to the Team that best embodies the ‘challenge’ of the FIRST Tech Challenge program. The Team that receives this award is a strong ambassador for FIRST programs and a role model FIRST Team. This Team is a top contender for many other judged awards and is a gracious competitor. The inspire award winner is an inspiration to other Teams, acting with Gracious Professionalism® both on and off the Playing Field. This Team shares their experiences, enthusiasm and knowledge with other Team, sponsors, their community, and the judges. Working as a unit, this Team will have showed success in performing the task of designing and building a Robot.",
+                                "Required criteria for the Inspire Award:",
+                                "- Team shows respect and Gracious Professionalism® to everyone they meet at a FIRST Tech Challenge event.",
+                                "- Team is a strong contender for several other judged awards. The Inspire Award celebrates the strongest qualities of all the judged awards.",
+                                "- The Team is an ambassador for FIRST programs. They demonstrate and document their work in their community.",
+                                "- Team is positive and inclusive, and each Team member contributes to the success of the Team.",
+                                "- Team must submit an engineering portfolio. The engineering portfolio must include engineering content, Team information and a Team plan. The entire engineering portfolio must be high quality, thoughtful, thorough, concise, and well-organized.",
+                                "- Robot design is creative and innovative, and the Robot performs reliably on the field. The Team communicates clearly about their Robot design and strategy to the judges.",
+                                "- Team interview session is professional and engaging.",
+                                "**The judges do not use Dean’s List or the FIRST Innovation Challenge Awards in their consideration of any other FIRST Tech Challenge Awards.**",
+                                "Strongly suggested criteria for the Inspire Award:",
+                                "- The Team should have an engineering notebook available for the judges to review that provides the detailed information to support the information in the portfolio."
+                            ]
+                        },
+                        {
+                            "title":"Think Award",
+                            "content":[
+                                "Removing engineering obstacles through creative thinking.",
+                                "This judged award is given to the Team that best reflects the journey the Team took as they experienced the engineering design process during the build season. The engineering content within the portfolio is the key reference for judges to help identify the most deserving Team. The Team’s engineering content must focus on the design and build stage of the Team’s Robot.",
+                                "Additional detailed information that is helpful for the judges would be in the Team’s engineering notebook and would include descriptions of the underlying science and mathematics of the Robot design and game strategies, the designs, redesigns, successes, and opportunities for improvement. A Team is not a candidate for this award if their portfolio does not include engineering content.",
+                                "Required criteria for the Think Award:",
+                                "- Team shows respect and Gracious Professionalism® to everyone they meet at a FIRST Tech Challenge event.",
+                                "- Engineering portfolio must have engineering content. The engineering content could include entries describing examples of the underlying science, mathematics, and game strategies in a summary fashion.",
+                                "- The engineering portfolio must provide examples that show the Team has a clear understanding of the engineering design process including examples of lessons learned.",
+                                "- The portfolio should inspire the judges to want to see the specific detailed engineering content in the engineering notebook.",
+                                "- Portfolio format is less important but enables the judges to understand the Team’s design maturity, organizational capabilities, and overall Team structure.",
+                                "- Portfolio could reference specific experiences and lessons learned but should capture the summary of the status of the Team and their Robot design.",
+                                "- Portfolio could also summarize experiences and lessons learned from outreach with concise tables of outcomes.",
+                                "Strongly suggested criteria for the Think Award:",
+                                "- Team’s engineering notebook should include specific engineering content to support entries in the engineering portfolio.",
+                                "o Judgesmayasktoseespecificcontentfromtheengineeringnotebookduringthesecond,orpit interview.",
+                                "- Engineering portfolio could summarize how the Team acquired new mentors or acquired new knowledge and expertise from their mentors.",
+                                "- Engineering portfolio could contain summary of overall Team plan.",
+                                "- Engineering portfolio could contain information about the plans to develop skills for Team members."
+                            ]
+                        },
+                        {
+                            "title":"Connect Award",
+                            "content":[
+                                "Connecting the dots between community, FIRST, and the diversity of the engineering world.",
+                                "This judged award is given to the Team that most connects with their local science, technology, engineering, and math (STEM) community. A true FIRST Team is more than a sum of its parts and recognizes that engaging their local STEM community plays an essential part in their success. The recipient of this award is recognized for helping the community understand FIRST, the FIRST Tech Challenge, and the Team itself. The Team that wins the connect award actively seeks and recruits engineers and explores the opportunities available in the world of engineering, science, and technology. This Team has a clear Team plan and has identified steps to achieve their goals.",
+                                "Required criteria for the Connect Award:",
+                                "- Team shows respect and Gracious Professionalism® to everyone they meet at a FIRST Tech Challenge event.",
+                                "- Team must submit an engineering portfolio.",
+                                "- Portfolio must include a Team plan that covers the Team’s goals for the development of Team member skills, and the steps the Team has taken or will take to reach those goals. Examples of what the plan could include are timelines, outreach to science, engineering, and math communities, and training courses.",
+                                "- Portfolio must include a summary of how the Team acquired new mentors or acquired new knowledge and expertise from a mentor. Working with mentors from FIRST’s mentor matching site is an acceptable way to learn from mentors.",
+                                "Strongly suggested criteria for the Connect Award:",
+                                "- Team provides clear examples of developing in person or virtual connections with individuals in the engineering, science, or technology community.",
+                                "- Team actively engages with the engineering community to help them understand FIRST, the FIRST Tech Challenge, and the Team itself."
+                            ]
+                        },
+                        {
+                            "title":"Innovate Award sponsored by Raytheon Technologies",
+                            "content":[
+                                "Bringing great ideas from concept to reality.",
+                                "The Innovate Award celebrates a Team that thinks outside the box and has the ingenuity, creativity, and inventiveness to make their designs come to life. This judged award is given to the Team that has the most innovative and creative Robot design solution to any specific components in the FIRST Tech Challenge game. Elements of this award include elegant design, robustness, and ‘out of the box’ thinking related to design. This award may address the design of the whole Robot or of a sub-assembly attached to the Robot. The creative component must work consistently, but a Robot does not have to work all the time during Matches to be considered for this award. The Team’s engineering portfolio must include a summary of the design of the component or components and the Team’s Robot to be eligible for this award. Entries must describe how the Team arrived at their solution.",
+                                "Required criteria for the Innovate Award:",
+                                "- Team shows respect and Gracious Professionalism® to everyone they meet at a FIRST Tech Challenge event.",
+                                "- Team must submit an engineering portfolio.",
+                                "- The engineering portfolio must include examples of the Team’s engineering content that",
+                                "illustrate how the Team arrived at their design solution.",
+                                "- Robot or Robot sub-assembly must be creative, elegant, and unique in its design.",
+                                "- Creative component must be stable, robust, and work reliably.",
+                                "Strongly suggested criteria for the Innovate Award:",
+                                "- The portfolio should inspire the judges to want to see the specific detailed engineering content in the engineering notebook."
+                            ]
+                        },
+                        {
+                            "title":"Control Award sponsored by Arm Inc.",
+                            "content":[
+                                "Mastering robot intelligence.",
+                                "The Control Award celebrates a Team that uses sensors and software to increase the Robot’s functionality in the field. This award is given to the Team that demonstrates innovative thinking to solve game challenges such as autonomous operation, improving mechanical systems with intelligent control, or using sensors to achieve better results. The control component should work consistently in the field. The Team’s engineering portfolio must contain a summary of the software, sensors, and mechanical control, but would not include copies of the code itself.",
+                                "Required criteria for the Control Award sponsored by Arm, Inc.:",
+                                "- Team shows respect and Gracious Professionalism® to everyone they meet at a FIRST Tech Challenge event.",
+                                "- Team must apply for the control award by filling out the control award submission form, located in Appendix E. The Control Award Submission Form should not exceed 2 pages.",
+                                "- The Team must submit an engineering portfolio. The engineering portfolio must include engineering content that documents the control components.",
+                                "- Control components must enhance the functionality of the Robot on the Playing Field. Strongly suggested criteria for the Control Award sponsored by Arm, Inc.:",
+                                "- Advanced software techniques and algorithms are encouraged.",
+                                "- Control components should work reliably.",
+                                "- Additional detailed information can be included in the Team’s engineering notebook.",
+                                "- Learnings from the Team about what they tried and what did not work with regards to sensors, hardware, algorithms, and code",
+                                "The control award is different from other awards because Team must apply for this award. A Team applying for this award must turn in their control award submission form to the judges at the event. This award focuses on a Team’s ability to program a Robot that can reliably and efficiently carry out tasks during Match play, in a way that improves their ability to score during a match.",
+                                "**Documenting the learning from failure – what did not work – and understanding how to improve the Team’s design process is what we are assessing.**",
+                                "The judges should look for:",
+                                "- What sensors and hardware the Team is using on the Robot; what worked, what did not, and why.",
+                                "- What algorithm or code the Team has programmed their Robot with; what worked, what did not, and why.",
+                                "- The judges should pay attention to the program and design process. The design process is more critical than the code itself.",
+                                "Teams must fill out and turn in the control award submission form to be considered for the control award. A control award binder or notebook is not an acceptable submission. Additional control information should be in the engineering notebook.",
+                                "The control award submission may not be longer than 2 pages and may not contain links to additional content or code. Judges are instructed to ignore links to additional content.",
+                                "For remote event types, the control award submission should include a link to a short (less than 2 minute) video of the Robot that highlights the control aspects that they have described in their control award submission form."
+
+                            ]
+                        },
+                        {
+                            "title":"Motivate Award",
+                            "content":[
+                                "Sparking others to embrace the culture of FIRST!",
+                                "This Team embraces the culture of FIRST and clearly shows what it means to be a Team. This judged award celebrates the Team that represents the essence of the FIRST Tech Challenge Competition through Gracious Professionalism and general enthusiasm for the overall philosophy of FIRST and what it means to be a FIRST Tech Challenge Team. This is a Team who makes a collective effort to make FIRST known throughout their school and community, and sparks others to embrace the culture of FIRST.",
+                                "**When doing community outreach, Teams should be prepared to talk about FIRST, and spread awareness of the program**",
+                                "Required criteria for the Motivate Award:",
+                                "- Team shows respect and Gracious Professionalism® to everyone they meet at a FIRST Tech Challenge event.",
+                                "- Teammustsubmitanengineeringportfolio.Theengineeringportfolio must include a Team organization plan, which could describe their future goals and the steps they will take to reach those goals. Examples of what the plan could include are Team identity, fund- raising goals, sustainability goals, timelines, outreach, finances, and community service goals.",
+                                "- The Team is an ambassador for FIRST programs.",
+                                "- Team can explain the individual contributions of each Team member, and how these apply to the overall success of the Team.",
+                                "Strongly suggested criteria for the Motivate Award:",
+                                "- Team takes part in their presentation, and actively engage with the judges.",
+                                "- Team shows a creative approach to materials that market their Team and FIRST.",
+                                "- Team can clearly show the successful recruitment of people who were not already active within the STEM community.",
+                                "- Team could also summarize experiences and lessons learned from outreach."
+                            ]
+                        },
+                        {
+                            "title":"Design Award",
+                            "content":[
+                                "Industrial design at its best.",
+                                "This judged award recognizes design elements of the Robot that are both functional and aesthetic. The design award is presented to Teams that incorporate industrial design elements into their solution. These design elements could simplify the Robot’s appearance by giving it a clean look, be decorative in nature, or otherwise express the creativity of the Team. The Robot should be durable, efficiently designed, and effectively address the game challenge.",
+                                "Required criteria for the Design Award:",
+                                "- Team shows respect and Gracious Professionalism® to everyone they meet at a FIRST Tech Challenge event.",
+                                "- Team must submit an engineering portfolio with an engineering content which could be CAD images or Robot drawings of the Team’s overall design and/or components.",
+                                "- Team also documents and implements strong industrial design principles, striking a balance between form, function, and aesthetics.",
+                                "Strongly suggested criteria for the Design Award:",
+                                "- Robot distinguishes itself from others by its aesthetic and functional design.",
+                                "- Basis for the design is well considered (that is inspiration, function, etc.).",
+                                "- Robot design is effective and consistent with Team plan and strategy.",
+                                "- The engineering portfolio should inspire the judges to want to see the specific detailed design content and design journey in the engineering notebook."
+                            ]
+                        },
+                        {
+                            "title":"Promote Award (Optional)",
+                            "content":[
+                                "This judged award is optional and may not be given at all Competitions. Your judge advisor will have information about the judging for this award.",
+                                "The promote award is given to the Team that is most successful in creating a compelling video message for the public designed to change our culture and celebrate science, technology, engineering, and math. Teams must submit a one-minute-long public service announcement (PSA) video based on the PSA subject for the season.",
+                                "Team may win the promote award only once at a championship level event and only once at a qualifying level event.",
+                                "PSA Subject for 2021-2022 season:",
+                                "**If there was one thing I would tell my younger self about FIRST, it would be...**",
+                                "Required criteria for the Promote Award:",
+                                "- Video must meet the following criteria:",
+                                "o Video must follow FIRST branding and design standards.",
+                                "o Video cannot be longer than 60 seconds.",
+                                "o Video must be of a high quality, as submissions may be used later to promote FIRST.",
+                                "o Team must have rights to music used in the video.",
+                                "o Music and permissions must be listed in video credits.",
+                                "o Video must have strong production value.",
+                                "o Video must be submitted by the deadline given by the tournament director.",
+                                "- Team must present a thoughtful and impactful video which appeals to the public.",
+                                "- Creativity in interpreting the yearly theme is required.",
+                                "- Follow video award submission guidelines."
+                            ]
+                        },
+                        {
+                            "title":"Compass Award (Optional)",
+                            "content":[
+                                "A beacon and leader in the journey of the FIRST Tech Challenge.",
+                                "This judged award is optional and may not be given at all Competitions. Your judge advisor will have information about the judging for this award.",
+                                "The compass award recognizes an adult coach or mentor who has given outstanding guidance and support to a Team throughout the year and demonstrates to the Team what it means to be a Gracious Professional. The winner of the compass award will be chosen from candidates nominated by FIRST Tech Challenge student Team members, via a 40-60 second video submission. The video must highlight how their mentor has helped them become an inspirational Team. We want to hear what sets the mentor apart.",
+                                "Required criteria for the Compass Award:",
+                                "- Video must meet the following criteria:",
+                                "o Video must follow FIRST branding and design standards.",
+                                "o Video cannot be longer than 60 seconds.",
+                                "o Video must be of a high quality, as submissions may be used later to promote FIRST. o Team must have permission from the copyright owners for music used in the video. o Musicandpermissionsmustbelistedinvideocredits.",
+                                "o Video must be submitted by the deadline given by the tournament director.",
+                                "- Video highlights the mentor’s contribution to the Team and demonstrates what sets the mentor apart.",
+                                "- Follow video award submission guidelines."
+                            ]
+                        },
+                        {
+                            "title":"Judges' Choice Award",
+                            "content":[
+                                "This award is optional and may not be given at all Competitions.",
+                                "During the Competition, the judging panel may meet a Team whose unique efforts, performance, or dynamics merit recognition, but does not fit into any of the existing award categories. To recognize these unique Teams, FIRST offers a customizable Judges Choice Award. The judging panel may select a Team to be honored, as well as the name of the Judges Choice Award. The Judges Choice Award recognizes a Team for their outstanding efforts but does not factor into the advancement criteria."
+                            ]
+                        },
+                        {
+                            "title":"Winning Alliance Award",
+                            "content":[
+                                "This award will be given to the winning Alliance represented in the final Match."
+                            ]
+                        },
+                        {
+                            "title":"Finalist Alliance Award",
+                            "content":[
+                                "This award will be given to the finalist Alliance represented in the final Match."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Dean's List Award",
+            "table":[
+                "10.1 Eligibility",
+                "10.2 Criteria",
+                "10.3 Dean's List Nominations"
+            ],
+            "content":[
+                "In an effort to recognize the leadership and dedication of FIRST’s most outstanding secondary school students, the Kamen family sponsors an award for selected 10th and 11th grade students known as the FIRST Robotics Competition and FIRST Tech Challenge Dean’s List.",
+                "Similar to the very prestigious National Merit Scholarship Award winners, there are three (3) “categories” of FIRST Dean’s List Award students:",
+                "1. **FIRST Dean’s List Semi-finalists** – comprised of the two (2) students in their 10th or 11th grade school year nominated by each Team.",
+                "2. **FIRST Dean’s List Finalists** – comprised of the students (2, 3, or 4, depending on the region) selected at each Regional Championship.",
+                "3. **FIRST Dean’s List Winners** – comprised of the ten (10) FIRST Robotics Competition and ten (10) FIRST Tech Challenge students selected from the applicable FIRST Dean’s List Finalists at the FIRST Championship.",
+                "The students who earn FIRST Dean’s List Award status as a Semi-finalists, Finalist or Winner, are great examples of student leaders who have led their Teams and communities to increased awareness for FIRST and its mission. These students have also achieved personal technical expertise and accomplishment. It is FIRST’s that these individuals will continue, post-award, as great leaders, student alumni, and advocates of FIRST.",
+                "Prestigious colleges have expressed great interest in meeting FIRST Dean’s List’s Award winners and FIRST hopes that each Team will take advantage of the opportunity to nominate the most qualified students as FIRST Dean’s List Nominees!",
+                "For more information on the Dean’s List Award, and to see past FIRST Tech Challenge winners, please visit our website! http://www.firstinspires.org/Robotics/ftc/deans-list"
+            ],
+            "subsections":[
+                {
+                    "title":"Eligibility",
+                    "content":[
+                        "Every registered FIRST Tech Challenge Team can submit up to two (2) students as FIRST Dean’s List Award Semi-Finalists.",
+                        "- Students must be a sophomore (grade 10) or junior (grade 11) to be eligible for this award.",
+                        "Note: For regions of the world that do not use grade levels such as this to identify years of schooling: This award is intended for students who are two (2) to three (3) years away from entering college or university. Students that would be attending college or university in the next academic year are not eligible. Mentors will be asked for the year of graduation during the nomination process.",
+                        "- The coach or mentor nominating the student(s) must submit an essay explaining why the student should receive this award. The essay must be 4,000 characters or less."
+                    ],
+                    "subsections":[
+
+                    ]
+                },
+                {
+                    "title":"Criteria",
+                    "content":[
+                        "Criteria for selection of the FIRST Dean's List shall include, but not be limited to a student's:",
+                        "- Demonstrated leadership and commitment to FIRST Core Values",
+                        "- Effectiveness at increasing awareness of FIRST in their school and community",
+                        "- Interest in and passion for a long-term commitment to FIRST",
+                        "- Overall individual contribution to their Team",
+                        "- Technical expertise and passion",
+                        "- Entrepreneurship and creativity",
+                        "- Ability to motivate and lead fellow Team members"
+                    ],
+                    "subsections":[
+                        
+                    ]
+                },
+                {
+                    "title":"Dean's List Nominations",
+                    "content":[
+                        "There are specific instructions on how to submit Dean’s List Nominations. There are two sets of instructions, The Dean’s List Nomination Guide – US, and the Dean’s List Nomination Guide – International. Please visit our website (https://www.firstinspires.org/robotics/ftc/deans-list) for a copy of the guides, which provides in depth information about the Dean’s List, and step by step visual aids to complete the nominations."
+                    ],
+                    "subsections":[
+                        
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,753 @@
+{
+    "Competition":{
+        "C01":[
+            "Egregious behavior by any Team, Team member, or other representative of the Team is not tolerated at a FIRST Tech Challenge Competition. Violations of this rule result in Penalties to the Team, and/or the issuance of a yellow or red card. Egregious behavior includes, but is not limited to, repeated and/or flagrant violation of game rules, unsafe behavior or actions, or uncivil behavior towards volunteers, Teams, Competition personnel, or Competition attendees."
+
+        ],
+        "C02":[
+            "Referees have final gameplay and scoring authority during the Competition. Their rulings are final.",
+            "a. The referees will not review any recorded Match replays or photographs.",
+            "b. All questions about a Match or scores must be brought forward to the referees by using the referee question box located in the Competition Area. Only one student from an Alliance can enter the question box. All questions must be brought forward within the outlined time:",
+            "i. Qualification Matches: A Team must enter the question box to dispute a Match within a period of three (3) Matches following the disputed Match. Teams participating in the final two Qualification Matches must report to the question box within 5 minutes after the announcement of the Match score.",
+            "ii. Elimination Matches: A Team must enter the referee question box to dispute a Match before the start of the next Match played by the Alliance, regardless of if the Team is playing in the next Match. The next Match played could involve different Alliances. Questions about the last Match of the finals must be brought to the question box no later than 5 minutes after the announcement of the Match score.",
+            "Students must support their questions by referencing specific rules or posts to the Q&A section of the official FIRST Tech Challenge Forum (https://ftc-qa.firstinspires.org/). Team members must ask their questions in a gracious and respectful manner."
+        ],
+        "C03":[
+            "Yellow cards and red cards are used in the FIRST Tech Challenge to manage Team and Robot behavior that does not align with the mission of FIRST (http://firstinspires.org/about/vision-and-mission). Yellow and red cards are not limited to just the Competition Area.",
+            "Egregious or repeated (3 or more) Robot or Team member behavior at a Competition can result in a yellow and/or red card. Yellow cards are additive, meaning that a second yellow card is automatically converted to a red card. A Team is issued a red card for any subsequent incident in which they receive an additional yellow card, for example, earning a second yellow card during a single Match.",
+            "**Yellow and Red Cards at the Competition Field**",
+            "The head referee may assign a yellow card as a warning, or a red card for disqualification in a Match. A yellow card or red card is signaled by the head referee standing in front of the Team’s Alliance Station and holding a yellow card and/or red card in the air.",
+            "To issue the second yellow card, the head referee will stand in front of the Team’s Alliance Station and hold a yellow card and red card. The head referee will signal the second yellow card after the Match has ended.",
+            "A Team that has received either a yellow card or a red card carries a yellow card into following Matches, except as noted below. A red card results in Match disqualification. Multiple red cards may lead to Competition disqualification. Once a Team receives a yellow card or red card, the Team number is presented with a yellow background on the audience screen for all following Matches. This is a reminder to the Team, referees, and audience the Team carries a yellow card.",
+            "Yellow cards do not carry over from the Qualification Matches to the Elimination Matches. For regions that compete in league meet formats which carry Qualification Match scores from meet to meet, yellow and red cards do not carry from one meet to the next meet or to a league Tournament. During the Elimination Matches, yellow and red cards count against the entire Alliance, not to a specific Team. If a Team receives a yellow card or red card, it results in the entire Alliance receiving the yellow card or red card for that Match. If two different Teams on the same Alliance are issued yellow cards, the entire Alliance is issued a red card. A red card results in zero (0) points for that Match, and the Alliance loses the Match. If both Alliances receive red cards, the Alliance which committed the action earning the red card first chronologically loses the Match.",
+            "**Yellow and Red Cards off the Competition Field**",
+            "Teams can incur yellow and red cards for their actions off the Competition field. Egregious behavior off the Competition field should be reported to the tournament director. The tournament director will first consult with the coach of the Team about the behavior of the Team or its members, explain the ways in which the behavior is considered egregious, and give a warning to discontinue this behavior. If the behavior persists, the tournament director will work with FIRST Headquarters to assess whether the behavior exhibited by the Team is considered egregious and if a yellow and/or red card should be issued. If it is determined that the Team should receive a yellow and/or red card, the tournament director will report to the head referee. The yellow and/or red card will be recorded into the scoring software based on the next Match played by the Team during Qualification Matches. If a Team competing in Elimination Matches receives a yellow or red card between the Qualification Matches and Elimination Matches, the card will be applied to the first Elimination Match. If a Team receives a yellow or red card during the Elimination Matches for off field behavior, the yellow or red card applies to the current or just completed Elimination Match."
+        ],
+        "C04":[
+            "A Team may not encourage another Team to purposely lose a Match or to play beneath its ability. Likewise, a Team may not let another Team coerce them into purposely lose a Match or playing beneath their own ability. FIRST considers the action of a Team influencing another Team to purposely lose a Match, to deliberately miss scoring objectives, etc. incompatible with FIRST values and not a strategy any Team should employ. Violations of this rule are likely to escalate rapidly to yellow or red cards and may lead to dismissal from the Competition. The following examples violate rule <C04>.",
+            "Example 1: A Match is being played by Alliance partner Teams A and B in which Team B is encouraged by Team C to underperform/not score during a Match. Team C’s motivation for this behavior is to negatively affect Team A’s ranking.",
+            "Example 2: A Match is being played by Alliance partner Teams A and B in which Team A is assigned to participate as a Surrogate. Team C encourages Team A to not fully participate in the Match so that Team C gains ranking position over Team B.",
+            "Example 3: A Match is being played by Alliance partner Teams A and B in which Team A is assigned to participate as a Surrogate. Team A accepts Team C’s request not to fully participate in the Match so that Team C gains ranking position over Team B.",
+            "NOTE: This rule is not intended to prevent an Alliance from planning and/or executing its own good faith strategy in a specific Match in which all the Teams are members of the same Alliance."
+        
+        ],
+        "C05":[
+            "Each registered Team may enter only one Robot (a Robot built to play the current season’s game challenge) into the FIRST Tech Challenge Competition. It is expected that Teams will make changes to their Robot throughout the season and at Competitions.",
+            "a. It is against this rule to compete with one Robot while a second is being adjusted or assembled at a Competition.",
+            "b. It is against this rule to switch back and forth between multiple Robots at a Competition.",
+            "c. It is against this rule to register and attend concurrent Competitions with a second Robot.",
+            "d. It is against this rule to use a Robot built by another Team at a Competition.",
+            "Violations of this rule will immediately be considered deliberate and egregious."
+        
+        ],
+        "C06":[
+            "Only three Team representatives are allowed in the Competition Area; two (2) student drivers and one (1) coach are identified by badges labeled ‘driver’ or ‘coach’. These badges are interchangeable within a Team between Matches. Only student Team members wearing a badge labeled as ‘driver’ may drive the Robot during the Match. Team representatives beyond the two student drivers and one coach will be asked to leave the Competition Area immediately."
+
+        ],
+        "C07":[
+            "Teams competing in a meet, league Tournament, qualifying Tournament, and regional championship Tournament will compete in no fewer than five (5) Qualification Matches, and no more than six (6) Qualification Matches. Teams competing remotely will have a total of six (6) Qualification Matches."
+
+        ],
+        "C08":[
+            "Teams playing in consecutive Matches will receive a minimum of five minutes (5:00) between the time a referee signals the Field to be reset and when the Robot is placed onto the Field for the next Match."
+
+        ],
+        "C09":[
+            "The state of the field (game and scoring elements) is recorded as the Match is played by the scoring referees. Scores may not be announced to Teams until sometime after the Match is complete. At some Competitions, live scoring software may be used to show the status of the Match as it is played, with the final, official score displayed following the end of the Match."
+
+        ],
+        "C10":[
+            "Time-Outs",
+            "a. There are no Team requested time-outs during the Qualification Matches.",
+            "b. During the Elimination Matches, each Alliance will be allotted one (1) time-out of no more than three minutes (3:00). Time-outs must be called at least two minutes (2:00) before their next Match’s starting time. The time-out begins at the time their Match was going to start."
+        ],
+        "C11":[
+            "If no member of the Drive Team is present in the Alliance Station at the start of a Match, that Team is declared a “no-show”. If a Robot cannot report for a Match, at least one member of the Drive Team should report to the Playing Field for their scheduled Match to receive credit for the Match."
+        ],
+        "C12":[
+            "No Team, Team member, or Competition attendee can set up their own Wi-Fi 802.11 (2.4GHz or 5GHz) wireless communication in the venue. Non-allowed wireless communications include, but are not limited to:",
+            "a. Cellular hot spots (for example, cell phones, tablets, MiFi).",
+            "b. Ad-hoc networks.",
+            "c. Communication between portable Nintendo consoles.",
+            "d. Bluetooth communication with Robots in the Competition Area.",
+            "No Team, Team member, or Competition attendee shall interfere with a Team’s Wi-Fi communication with their own Robot.",
+            "The Penalty for violating rule <C12> is disqualification of the entire Team from the Competition and their removal from the venue property. Teams may not appeal the Penalty and no refunds will be given for registration fees, prepaid meals, etc. FIRST may conduct a post-Competition review and decide if any added Penalties will be imposed on the offending Team.",
+            "Teams are encouraged to report wireless security vulnerabilities to the field technical advisor (FTA) at a Tournament. Teams should always keep in mind Gracious Professionalism®, and therefore only report valid and verifiable violations of this rule. After the field technical advisor is alerted of a potential rule violation, he or she will confer with the head referee. The field technical advisor and head referee will further explore the potential violation of this rule. The head referee will work with FIRST Headquarters staff to determine if rule <C12> has been violated, and to disqualify the offending Team."
+        
+        ],
+        "C13":[
+            "Wi-Fi connectivity between the Android Devices used as the Robot Controller and the Driver Station is allowed. Additionally, in the pits only, Wi-Fi connectivity between the same Android Devices and a computing device (phone, tablet, or computer) is allowed for Robot programming purposes only. No other wireless communication is allowed.",
+            "The Penalty for violating rule <C13> is disqualification of the entire Team from the Competition and their removal from the venue property. The head referee will work with FIRST Headquarters staff to determine if rule <C13> has been violated, and to disqualify the offending Team. Teams may not appeal the Penalty and no refunds will be given for registration fees, prepaid meals, etc. FIRST may conduct a post-Tournament review and determine if any additional Penalties are to be imposed on the offending Team."
+        ],
+        "C14":[
+            "Team members may be asked by the Competition director to use a specific Wi-Fi channel on the Tournament day. Teams that refuse to comply with this request will receive a yellow card."
+        ],
+        "C15":[
+            "All Team members, coaches, and their guests must wear ANSI Z87.1 certified safety glasses while in the Pit or Competition Area. Prescription glasses with ANSI Z87.1 approved Commercial Off-The-Shelf (COTS) side shields are also allowed.",
+            "Note: FIRST requires all Teams to bring and supply ANSI-approved safety glasses for its Team members, mentors, and guests for each Competition. Tinted lenses are allowed if Competition personnel can see the volunteer’s, spectators, or Team member’s eyes through the safety glasses. Sunglasses or deeply shaded safety glasses used in an indoor Competition environment are not acceptable."
+        
+        ],
+        "C16":[
+            "Batteries must be charged in an open, well-ventilated area."
+
+        ],
+        "C17":[
+            "Open-toed or open-backed shoes are not allowed in the Pit Area or in the Competition Area."                            
+
+        ],
+        "C18":[
+            "There is no running, skateboarding, roller skating, ‘hover boards’, and/or flying drones are not allowed at any Competition. These can create safety hazards to the Teams, spectators, or volunteers attending the Competition."
+
+        ],
+        "C19":[
+            "No live bands are allowed in the audience or Pit. No loud music, audio systems, whistles, banging sticks, blow horns, etc. are allowed. They prevent Teams from hearing important announcements. Power may be shut off and/or noisemakers confiscated."
+        ],
+        "C20":[
+            "Painting or applying harmful products, sprays, or aerosols are not allowed anywhere at the Competition. This includes the Pit, Competition, and spectator areas.",
+            "Note: Teams may apply antistatic spray to their Robot if done outside the venue."
+        
+        ],
+        "C21":[
+            "Team Pit Areas may not exceed 10 ft. (3.05 m) x 10 ft. (3.05 m) x 10 ft. (3.05 m), or a limit set by the tournament director, whichever is less. Teams may not extend or store material beyond their allocated Team Pit Area."
+
+        ],
+        "C22":[
+            "Teams are not allowed to use two-way radios/walkie-talkies anywhere in the venue."
+
+        ],
+        "C23":[
+            "Teams are not allowed to save seating space as there is often not enough seating to hold everyone. Repeated offenses could be considered egregious, and Teams could face consequences for violating this rule."
+
+        ],
+        "C24":[
+            "Soldering, gluing, brazing, or using large power tools is not allowed in the Pit or Competitions Areas unless the tournament director specifically allows it."
+
+        ],
+        "C25":[
+            "Because of venue rules or contracts, FIRST cannot allow Teams or individuals to sell items, such as T- shirts, pins, etc., at any Competitions. Fundraising for a cause is allowed with consent of the tournament director; fundraising for a Team is not allowed."
+
+        ],
+        "C26":[
+            "Because of venue rules or contracts, some venues will not allow outside food on-site. Teams must check with the tournament director before bringing food or beverages to a Competition."
+
+        ],
+        "C27":[
+            "Teams and spectators (whether associated with a Team or not) that block the playing field sightlines, or access reserved areas without credentials will be asked to move. Repeated violations of this rule are considered egregious behavior. Spectators may be removed from the Competition at the discretion of the tournament director, while Teams may receive a yellow or red card, as well as be subject to Competition removal."
+
+        ],
+        "C28":[
+            "Teams must comply with government and venue specific requirements (for example, wearing a mask, social distancing, tornado warning procedures, etc.)."
+
+        ]
+    },
+    "General Robot":{
+        "RG01":[
+            "Illegal Parts - The following types of mechanisms and parts are not allowed:",
+            "a. Those used in a Robot drive system that could potentially damage the Playing Field and/or Scoring Elements such as high traction wheels (for example, AndyMark am-2256) and high grip tread (for example, Roughtop, AndyMark am-3309).",
+            "b. Those that could potentially damage or flip other competing Robots.",
+            "c. Those that contain hazardous materials such as mercury switches, lead, or lead containing compounds, or lithium polymer batteries (except for the Android Devices’ internal batteries).",
+            "d. Those that pose an unnecessary risk of entanglement.",
+            "e. Those that contain sharp edges or corners.",
+            "f. Those that contain animal-based materials (because of health and safety concerns).",
+            "g. Those that contain liquid or gel materials.",
+            "h. Those that contain materials that would cause a delay of game if released (for example, loose ball bearings, coffee beans, etc.).",
+            "i. Those that are designed to electrically ground the Robot frame to the Playing Field.",
+            "j. Closed gas devices (for example, gas storage vessel, gas spring, compressors, etc.).",
+            "k. Hydraulic devices.",
+            "l. Vacuum based mechanisms."
+        ],
+        "RG02":[
+            "Maximum Starting Size - The maximum size of the Robot for starting a Match is 18 inches (45.72 cm) wide by 18 inches (45.72 cm) long by 18 inches (45.72 cm) high. A Robot Sizing Tool will be used as the official gauge to make sure Robots comply with this rule. To pass inspection a Robot must fit within the sizing tool while in its Match start configuration without exerting force on the sides or top of the sizing tool. Robots may expand beyond the starting size constraint after the start of the Match. Preloaded game elements may extend outside the starting volume constraint.",
+            "The Robot must be self-supporting while in the Robot Sizing Tool by either:",
+            "a. A mechanical means with the Robot in a power-OFF condition. Any restraints used to maintain starting size (that is, zip ties, rubber bands, string, etc.) must remain attached to the Robot for the entire Match.",
+            "b. A Robot Initialization Routine in the Autonomous Op Mode that may pre-position the servo motors, with the Robot powered on, to the desired stationary position.",
+            "If the Robot Initialization routine moves the servos when a program is executed, there must be an indication label on the Robot. A warning label placed near the Robot’s main power switch is required. Attach the image (“WARNING! - Robot moves on Initialization”) to your Robot near the Robot main power switch if servos are commanded to move during the initialization routine. To be easily seen by field personnel the label should be at least 1 in x 2.63 in (2.54 cm x 6.68 cm, Avery Label # 5160) and placed on a flat surface (not wrapped around corners or cylinders).:",
+            "IMG:https://i.imgur.com/mcKkGhc.png"
+        ],
+        "RG03":[
+            "Robot Controller Mount – It is recommended that the Robot Controller be accessible and visible by field personnel. If a Team’s Robot Controller is not accessible or visible to field personnel, the Team may not receive adequate support from the field personnel.",
+            "The Robot Controller Android Device should be mounted so the display screen (if it is equipped with one) is protected from contact with the Playing Field elements and other Robots. This and other electrical parts (for example, batteries, motor and servo controllers, switches, sensors, wires) make poor bumpers and are unlikely to survive Robot-to-Robot contact during gameplay.",
+            "**Important Note**: The Robot Controller contains a built-in wireless radio that communicates with the Android Device in the Driver Station. The Robot Controller should not be obscured by metal or other material that could block or absorb the radio signals from the Robot Controller."
+        ],
+        "RG04":[
+            "Team Number Display - Robots must prominently display their Team number (numerals only, for example “12345”) on two separate signs.",
+            "a. The judges, referees, and announcers must be able to easily identify Robots by Team number from at least 12 feet (3.66 meters) away.",
+            "b. Team number must be visible from at least two opposite sides of the Robot (180 degrees apart).",
+            "c. The numerals must each be at least 2.5 inches (6.35 cm) high and in a contrasting color from their background.",
+            "d. Team numbers must be robust enough to withstand the rigors of Match play. Example robust materials include: 1) self-adhesive numbers (mailbox or vinyl numbers) mounted on polycarbonate sheet, wood panel, metal plate, etc. or 2) Ink jet or laser printed numbers on paper and laminated."
+        ],
+        "RG05":[
+            "Alliance Marker – Robots must include a Team supplied, Alliance specific marker on two opposite sides of the Robot to easily identify which Alliance a Robot is assigned to. The Alliance marker must be displayed on the same side of the Robot as the Team number, within a 3” inch (7.62 cm) distance of the number. The Alliance marker must be visible to the referees during a Match.",
+            "a. The red Alliance marker must be a solid red square, 2.5 inches x 2.5 inches (6.35 cm x 6.35 cm) +/- 0.25 inches (0.64 cm).",
+            "b. The blue Alliance marker must be a solid blue circle, 2.5 inches (6.35 cm) +/- 0.25 inches (0.64 cm) in diameter.",
+            "c. Both Alliance markers must be removeable in order to swap them between Matches.",
+            "d. The Alliance marker must be robust enough to withstand the rigors of Match play. Example robust materials include: 1) Alliance marker template printed and laminated; 2) painted or gaff tape covered polycarbonate sheet, wood panel, metal plate, etc.",
+            "The intent of this rule is to allow easy identification of the Robot and their Alliance to field personnel. A template for Teams is located on our website (https://www.firstinspires.org/resource-library/ftc/game-and-season-info)."
+        ],
+        "RG06":[
+            "Allowed Energy Sources - Energy used by FIRST Tech Challenge Robots (that is, stored at the start of a Match), shall come only from the following sources:",
+            "a. Electrical energy drawn from approved batteries.",
+            "b. A change in the position of the Robot center of gravity.",
+            "c. Storage achieved by deformation of Robot parts. Teams must be careful when incorporating spring-like mechanisms or other items to store energy on their Robot by means of part or material deformation."
+        ],
+        "RG07":[
+            "Launching Robot Parts - Parts of the Robot itself may not be launched (i.e., able to move independently of the Robot), even if the part that is launched is still connected to the Robot by a tether (for example, wire, rope, or cable)."
+        ],
+        "RG08":[
+            "Launching Game Scoring Elements – Robots can launch (i.e., able to move independently of the Robot) scoring elements through the air unless limited by a game specific rule. Teams must only launch the elements with enough velocity to score. Launching elements with excessive velocity could create a safety hazard for other Teams and field personnel. If the referees feel that a Robot is launching scoring elements with excessive velocity, the Robot must be re-inspected. Robots must then show that a launched scoring element cannot travel in the air more than a 16 ft. (4.88 m) distance or more than 5 ft. (1.52 m) in elevation."
+        ]
+    },
+    "Robot Mechanical":{
+        "RM01":[
+            "Allowed Materials - Teams may use raw and post-processed materials to build their Robots, provided these materials are readily available to all Teams (for example, McMaster-Carr, Home Depot, Grainger, AndyMark, TETRIX/PITSCO, MATRIX/Modern Robotics, REV Robotics, etc.).",
+            "Examples of allowed raw materials are:",
+            "- Sheet goods",
+            "- Extruded shapes",
+            "- Metals, plastics, wood, rubber, etc.",
+            "- Magnets",
+            "Examples of allowed post-processed materials are:",
+            "- Perforated sheet and diamond plate",
+            "- Injection molded parts",
+            "- 3D printed parts",
+            "- Cable, string, rope, filament, etc.",
+            "Springs of all types: compression, extension, torsion, surgical tubing, etc."
+        ],
+        "RM02":[
+            "Commercial Off-The-Shelf Parts - Teams may use Commercial Off-The-Shelf (COTS) mechanical parts that have a single degree of freedom. For the FIRST Tech Challenge, a single degree of freedom part uses a single input to create a single output. The following are examples of single degree of freedom parts:",                 
+            "- Linear Actuator: a single rotary input results in a single direction linear output",
+            "- Pully: rotates around a single axis",
+            "- Single Speed Gearbox: a single rotary input results in a single rotary output",
+            "It is the intent of FIRST to encourage Teams to design their own mechanisms rather than buying pre-designed and pre-manufactured solutions to achieve the game challenge. Purchased mechanism kits (for example, grippers) that violate the single degree of freedom rule, either assembled or requiring assembly, are not allowed. COTS drive chassis (for example, AndyMark TileRunner, REV Robotics Build Kit) are allowed provided none of the individual parts violate any other rules. Holonomic wheels (omni or mechanum) are allowed.",
+            "Examples of allowed COTS parts:",
+            "- Linear Slide Kit",
+            "- Linear Actuator Kit",
+            "- Single Speed (non-shifting) Gearboxes",
+            "- Pulley",
+            "- Lazy Susan",
+            "- Lead Screws",
+            "Examples of illegal multiple degrees of freedom COTS parts:",
+            "- Gripper Assemblies or Kits",
+            "- Ratcheting Wrenches"
+        ],
+        "RM03":[
+            "Modifying Materials and COTS Parts - Allowed materials and legal COTS parts may be modified (drilled, cut, painted, etc.), as long as no other rules are violated."
+        ],
+        "RM04":[
+            "Allowed Assembly Methods - Welding, brazing, soldering, and fasteners of any type are legal methods for assembling a Robot."
+        ],
+        "RM05":[
+            "Lubricant - Any COTS lubricant is allowed, if it does not contaminate the Playing Field, scoring elements or other Robots."
+        ],
+        "RM06":[
+            "Current Season Game Elements - COTS game elements used in the current season’s game are not allowed for Robot construction."
+        ]
+    },
+    "Robot Electrical":{
+        "RE01":[
+            "Main Power Switch - The Robot Main Power Switch must control all power provided by the Robot main battery pack. FIRST requires Teams to use either the TETRIX (part # W39129), MATRIX (part # 50- 0030), or REV (REV-31-1387) power switch. This is the safest method for Teams and field personnel to shut down a Robot.",
+            "The Robot main power switch must be mounted or positioned to be readily accessible and visible to field personnel. A Main Robot Power label must be placed near the Main Power Switch of the Robot. Attach the image (“POWER BUTTON”) to your Robot near the Main Power Switch. To be easily seen by field personnel the label should be at least 1 in x 2.63 in (2.54 cm x 6.68 cm, Avery Label # 5160) and placed on a flat surface (not wrapped around corners or cylinders).",
+            "IMG:https://i.imgur.com/h8kTHL3.png",
+            "The robot main power switch should be mounted on the Robot so it is protected from Robot-to-Robot contact to avoid inadvertent actuation or damage"
+        ],
+        "RE02":[
+            "Battery Mount - Batteries must be securely attached (for example, VELCRO, zip tie, rubber band) to the Robot in a location where they will not make direct contact with other Robots or the Playing Field. Batteries should be protected from contact with sharp edges and protrusions (screw heads, screw ends, etc.)"
+        ],
+        "RE03":[
+            "Robot Main Battery – All Robot power is provided by exactly one (1) 12V Robot main battery. Only one (1) of the approved battery packs is allowed on the Robot.",
+            "The only allowed Robot main power battery packs are:",
+            "a. TETRIX (W39057, formally 739023) 12V DC battery pack",
+            "b. Modern Robotics/MATRIX (14-0014) 12V DC battery pack",
+            "c. REV Robotics (REV-31-1302) 12V DC Slim Battery pack",
+            "Note: There are similar looking batteries available from multiple sources, but the ONLY legal batteries are those listed above."
+        ],
+        "RE04":[
+            "Fuses - Fuses must not be replaced with fuses of higher rating than originally installed or according to manufacturer's specifications; fuses may not be shorted out. Fuses must not exceed the rating of those closer to the battery. If necessary, a fuse may be replaced with a smaller rating. Replaceable fuses must be single use only; self-resetting fuses (breakers) are not allowed."
+        ],
+        "RE05":[
+            "Robot Power - Robot power is constrained by the following:",
+            "a. Allowed electronic devices may only be powered by power ports on the REV Expansion Hub or REV Control Hub except as follows:",
+            "i. The REV Control Hub is powered by the Robot main battery.",
+            "ii. The REV Expansion Hub, REV Servo Power Module, and REV SPARK Mini Motor Controllers are powered by the Robot main battery or by a REV Control or Expansion Hub XT30 port.",
+            "iii. Allowed sensors are powered by the REV Expansion Hub or REV Control Hub: analog, digital, encoder, or I2C ports.",
+            "iv. Light sources per <RE13>.",
+            "v. Video cameras per <RE14>.",
+            "b. The smartphone Robot Controller Android Device must be powered by its own internal battery or by the built-in charging feature of the REV Expansion Hub; external power is not allowed."
+        ],
+        "RE06":[
+            "Robot Controller – Exactly one (1) Robot Controller is required. An optional REV Expansion Hub may also be added."
+        ],
+        "RE07":[
+            "Android Devices - The following Android Devices are allowed: Smartphones:",
+            "a. Motorola Moto G 2nd Generation",
+            "b. Motorola Moto G 3rd Generation",
+            "c. Motorola Moto G4 Play (4th Generation)/Motorola Moto G4 Play*",
+            "d. Motorola Moto G5",
+            "e. Motorola Moto G5 Plus",
+            "f. Motorola Moto E4 (USA versions only, includes SKUs XT1765, XT1765PP, XT1766, and XT1767)",
+            "g. Motorola Moto E5 (XT1920)",
+            "h. Motorola Moto E5 Play (XT1921)",
+            "Other:",
+            "i. REV Driver Hub**",
+            "j. REV Control Hub***",
+            "No other Android Devices may be used as Robot Controllers or Driver Stations. See Rule <RS03> for the approved list of Android Operating System versions.",
+            "A smartphone Android Device Robot Controller USB interface may only connect to a REV Expansion Hub, or a USB hub.",
+            "*The Motorola Moto G4 Play may be sold as either Motorola Moto G Play (4th gen)”, or “Motorola Moto G4 Play”. Either phone is acceptable however FIRST Tech Challenge highly recommends that Teams purchase either model number XT1607 or XT1609, as these are the US versions and have been tested and are fully compatible with the FIRST Tech Challenge software. Teams that have purchased phones with model numbers XT1601, XT1602, XT1603, or XT1604 may continue to use these phones as legal, however there is a potential for issues with these phones not being fully compatible with the software or the approved gamepads.",
+            "**The REV Driver Hub may only be used as part of the Driver Station and not as the Robot Controller. ***The REV Control Hub may only be used as part of the Robot Controller and not as the Driver Station."
+        ],
+        "RE08":[
+            "Control Module Quantities - The control module consists of one of the following:",
+            "a. A REV Control Hub; or",
+            "b. An allowed smartphone Android Device connected to a REV Expansion Hub",
+            "In addition to “a” or “b” above, a Robot may also contain:",
+            "c. No more than one additional REV Expansion Hub",
+            "d. Any quantity of REV SPARK Mini Motor Controllers",
+            "e. Any quantity of REV Servo Power Modules"
+        ],
+        "RE09":[
+            "Motor and Servo Controllers – The only allowed motor and servo controllers are: REV Expansion Hub, REV Control Hub, REV Servo Power Module, REV SPARK Mini Motor Controller, and VEX Motor Controller 29."
+        ],
+        "RE10":[
+            "DC Motors – A maximum of eight (8) DC motors are allowed in any combination. The only allowed motors are:",
+            "a. TETRIX 12V DC Motor",
+            "b. AndyMark NeveRest series 12V DC Motors",
+            "c. Modern Robotics/MATRIX 12V DC Motors",
+            "d. REV Robotics HD Hex 12V DC Motor",
+            "e. REV Robotics Core Hex 12V DC Motor",
+            "No other DC motors are allowed."
+        ],
+        "RE11":[
+            "Servos – A maximum of twelve (12) servos are allowed. Any servo that is compatible with the attached servo controller is allowed. Servos may only be controlled and powered by a REV Expansion Hub, REV Control Hub, or REV Servo Power Module. Servos may be rotary or linear but are limited to 6V or less and must have the three-wire servo connector.",
+            "The VEX EDR 393 motor is considered a servo. It must be used in conjunction with a VEX Motor Controller 29 and a REV Servo Power Module. A maximum of two (2) VEX EDR 393 Motors per REV Servo Power Module is allowed."
+        ],
+        "RE12":[
+            "Sensors - Sensors are subject to the following constraints:",
+            "a. Compatible sensors from any manufacturer may only be connected to the I2C, digital I/O, encoder, and",
+            "analog ports of the REV Expansion Hub or REV Control Hub.",
+            "b. Compatible sensors from any manufacturer may be connected to the Logic Level Converter and/or the I2C Sensor Adapter Cable. Refer to Rule <RE15.j> for details on the use of Logic Level Converter and the I2C Sensor Adapter Cable.",
+            "c. Passive electronics may be used as recommended by sensor manufacturers at the interfaces to the sensors.",
+            "d. Voltage sensors are allowed; except on an output port of a motor or servo controller.",
+            "e. Current sensors are allowed; except on an output port of a motor or servo controller.",
+            "f. Simple I2C multiplexers are allowed, and they may only be connected to and powered from the I2C connections available on REV Expansion Hub or REV Control Hub.",
+            "g. Voltage and/or current sensors are also allowed to connect between the battery pack and the REV Expansion Hub or REV Control Hub."
+        ],
+        "RE13":[
+            "Light Sources - Functional and/or decorative light sources (including LEDs) are allowed with the following constraints:",
+            "a. Focused or directed light sources (for example: lasers and mirrors) are not allowed except for the REV Robotics 2m Distance sensor (REV-31-1505).",
+            "b. Light-source control by compatible ports on the REV Expansion Hub or REV Control Hub is allowed.",
+            "c. Commercial Off the Shelf (COTS) interface modules (without user programmable microprocessors) are",
+            "allowed between the light source and the components listed in <RE13>b.",
+            "d. The only approved power sources for lights are as follows:",
+            "i. Internal (as supplied by the Commercial Off the Shelf manufacturer) battery pack or battery holder.",
+            "ii. REV Expansion Hub or REV Control Hub Motor-control ports, XT30 ports, 5V auxiliary power ports, and I2C sensor ports.",
+            "The common rates to trigger seizures is between 3 and 30 hertz (flashes per second) but varies from person to person. While some people are sensitive to frequencies up to 60 hertz, sensitivity under 3 hertz is not common. Please keep in mind that event attendees could have sensitivities to flashing lights. 1",
+            "Teams that choose to install flashing lights should ensure the lights can be turned either completely off or on (not flashing). Tournament directors have the discretion of asking Teams to turn their lights to either state if an event attendee or participant has a sensitivity to flashing lights.",
+            "Teams may still use LED lights to signal events provided the flash rate is approximately 1 hertz or less (in other words, cannot change states more frequently than approximately once a second). For example:",
+            "- Teams may signal via LED light that they have a scoring element ready.",
+            "See https://www.epilepsysociety.org.uk/photosensitive-epilepsy#.XuJbwy2ZPsE"
+        ],
+        "RE14":[
+            "Video Cameras",
+            "a. Self-contained video recording devices (GoPro or similar) are allowed providing they are used only for non-functional post-Match viewing and the wireless capability is turned off. Approved self-contained video cameras must be powered by an internal battery (as supplied by the manufacturer).",
+            "b. COTS UVC Compatible Cameras are allowed for computer vision-related tasks. UVC Compatible Cameras must be connected directly to a REV Control Hub, or to the Robot control system through a powered USB hub."
+        ],
+        "RE15":[
+            "Robot Wiring - Robot wiring is constrained as follows:",
+            "a. USB surge protectors connected to USB cables are allowed.",
+            "b. Ferrite chokes (beads) on wires and cables are allowed.",
+            "c. A Mini USB to OTG (On-The-Go) Micro Cable or any combination of a Mini USB cable, a USB hub, and an OTG Micro Adapter may be used to connect the smartphone Robot Controller Android Device to the Robot electronics. Note that the OTG Micro Adapter may be integrated into the USB hub. These devices may connect to the Robot electronics in the following ways:",
+            "i. Built-in USB input port of the REV Expansion Hub or",
+            "ii. A USB hub that connects to the built-in USB input port of the REV Expansion Hub. If a powered hub is used, it must draw its energy from either",
+            "i. A commercial USB battery pack, or",
+            "ii. A 5V auxiliary power port on a REV Expansion Hub or REV Control Hub.",
+            "d. Anderson Powerpole, XT30, and similar crimp or quick-connect style connectors are recommended for joining electrical wires throughout the Robot. Power distribution splitters are recommended where appropriate to reduce wiring congestion. All connectors and distribution splitters should be appropriately insulated.",
+            "e. Installed connectors (such as battery-pack connectors, battery charger connectors) may be replaced with Anderson Powerpole, XT30 or any compatible connector.",
+            "f. Power and motor control wires must use consistent color-coding with different colors used for the positive (red, white, brown, or black with a stripe) and negative/common (black or blue) wires.",
+            "g. Wire and cable management products of any type are permitted (for example, cable ties, cord clips, sleeving, etc.).",
+            "h. Wire insulation materials of any type are permitted when used to insulate electrical wires or secure motor control wires to motors (for example, electrical tape, heat shrink, etc.).",
+            "i. Power, motor control, servo, encoder, and sensor wires and their connectors may be extended, modified, custom made, or COTS subject to the following constraints:",
+            "i. Power wires are 18 AWG or larger diameter (for example, 16 AWG wire has a larger diameter than 18 AWG wire).",
+            "ii. Motor control wires as follows:",
+            "i. 22 AWG or larger diameter for TETRIX Max 12V DC motors and REV Robotics Core Hex (REV-41-1300) 12V DC motors",
+            "ii. 18 AWG or larger diameter for all other 12V DC motors",
+            "iii. PWM (servo) wires are 22 AWG or larger diameter.",
+            "iv. Sensorwiresshouldbethesamesizeorlargerdiameterthantheoriginalwiringorasspecified by the manufacturer.",
+            "Teams should be prepared during Robot inspection to show documenation confirming the wire gauges used; particularly for multi-conductor cables.",
+            "j. Logic Level Converters – Logic Level Converters that are used to connect a REV Expansion Hub or REV Control Hub to a 5V-compatible I2C sensor or a 5V-compatible digital sensor are allowed. Exactly one Logic Level Converter per I2C device and one Logic Level Converter per digital sensor are allowed. A Logic Level Converter should only draw power from the REV Expansion Hub or REV Control Hub.",
+            "k. Electrically grounding the Control System electronics to the frame of the Robot is recommended and only permitted using a FIRST-approved, commercially manufactured Resistive Grounding Strap. The only Resistive Grounding Strap approved for use is the REV Robotics Resistive Grounding Strap (REV- 31-1269). Teams that have electronics with Powerpole-style connectors must use the REV",
+            "Robotics Anderson Powerpole to XT30 Adapter (REV-31-1385) in conjunction with the REV Robotics Resistive Grounding Strap. No other grounding straps or adapters are permitted. For additional details on installation of the grounding strap or adapter, please see the Robot Wiring Guide (https://www.firstinspires.org/resource-library/ftc/robot-building-resources)."
+        ],
+        "RE16":[
+            "Modifying Electronics - Approved electrical and electronic devices may be modified to make them more usable; they may not be modified internally or in any way that affects their safety.",
+            "Examples of modifications that are allowed:",
+            "- Shortening or extending wires",
+            "- Replacing or adding connectors on wires",
+            "- Shortening motor shafts",
+            "- Replacing gearboxes and/or changing gears",
+            "Examples of modifications that are not allowed:",
+            "- Replacing an H-Bridge in a motor controller",
+            "- Rewinding a motor",
+            "- Replacing a fuse with a higher value than specified by the manufacturer",
+            "- Shorting out a fuse"
+        ],
+        "RE17":[
+            "Additional Electronics – Electronic devices that are not specifically addressed in the preceding rules are not allowed. A partial list of electronics that are not allowed includes: Arduino boards, Raspberry Pi, relays, and custom circuits."
+        ]
+    },
+    "Driver Station":{
+        "DS01":[
+            "Driver Station Controller – The Driver Station must consist of no more than one (1) of the following options:",
+            "a. One (1) smartphone Android Device listed in rule <RE07>, or",
+            "b. One (1) REV Driver Hub."
+        ],
+        "DS02":[
+            "Driver Station Controller Touch Screen - The touch display screen of the Driver Station Controller",
+            "must be accessible and visible by field personnel."
+        ],
+        "DS03":[
+            "Gamepad – The Driver Station must contain no more than two (2) of the following gamepads in any combination:",
+            "a. Logitech F310 gamepad (Part# 940-00010)",
+            "b. Xbox 360 Controller for Windows (Part# 52A-00004)",
+            "c. Sony DualShock 4 Wireless Controller for PS4 (ASIN # B01LWVX2RG) operating in wired mode only (i.e., connected through USB 2.0 Type A to Type B Micro cable with Bluetooth turned off)",
+            "d. Etpark Wired Controller for PS4 (ASIN # B07NYVK9BT)."
+        ],
+        "DS04":[
+            "USB Hub – No more than one (1) external battery powered or unpowered USB hub is allowed."
+        ],
+        "DS05":[
+            "Charging the Driver Station Controller at the Playing Field – One (1) optional COTS USB external battery is allowed to charge the Driver Station Controller. The USB battery connects to the Driver Station Controller only by these methods:",
+            "a. Through the built-in USB-C port on the REV Driver Hub.",
+                                    "b. Through a USB Hub connected to the smartphone Android Device."
+        ],
+        "DS06":[
+            "Smartphone Android Device (if used) Additional Constraints –",
+            "a. One (1) OTG Cable is required",
+            "b. The Driver Station smartphone Android Device USB interface may only connect to either:",
+            "i. A Mini USB to OTG (On-The-Go) cable or combination of cables connected to a USB Hub, or",
+            "ii. One (1) gamepad, USB cable, and an OTG Micro Adapter."
+        ],
+        "DS07":[
+            "Driver Station Carrier – The Driver Station carrier’s intended use is for organizing and transporting Driver Station components. Driver Station carrier constraints are as follows:",
+            "a. Driver Station carrier may not damage Competition provided equipment, the Playing Field, or the venue floor.",
+            "b. Decorative electronics (including LEDs) are allowed, and they must be powered by a 12V or lower COTS DC battery. The smartphone Android Device and REV Driver Hub may not power or control decorative electronics.",
+            "c. Non-decorative electronics are not allowed.",
+            "d. The Driver Station carrier must not be a distraction to gameplay, field personnel, Teams, or spectators.",
+            "The intent of this rule is to allow Teams to use a container to store, organize, and transport the Driver Station components. The Driver Station carrier rule is not intended to allow carriers that function as or replace a Competition provided Driver Station stand, table, etc.",
+            "**Important Note**: The Driver Station is a wireless device with a built-in wireless radio. During a Match, the Driver Station should not be obscured by metal or other material that could block or absorb the radio signals from the Driver Station."
+        ]
+    },
+    "Robot Software":{
+        "RS01":[
+            "Android Device Names - Each Team MUST “name” their Robot Controller Android device Wi-Fi name with their official FIRST Tech Challenge Team number and –RC (for example, “12345-RC”). Each Team MUST “name” their Driver Station Android device with their official Team number and –DS (for example, 12345-DS). Teams with more than one Driver Station or Robot Controller Android Device must name these devices with the Team number followed by a hyphen then a letter designation beginning with “A” (for example, “12345-A-RC”, “12345-B-RC”)."
+        ],
+        "RS02":[
+            "Recommended Programming Tools – Java is the recommended programming language for the Robot Controller. The following tools are recommended for use in the FIRST Tech Challenge:",
+            "a. FTC Blocks Development tool – a visual, blocks-based programming tool hosted by the Robot Controller.",
+            "b. FTC OnBot Java Programming tool – a text-based integrated development environment hosted by the Robot Controller.",
+            "c. Android Studio – a text-based integrated development environment.",
+            "d. Java Native Interface (JNI) & Android Native Development Kit (NDK) – Teams can incorporate native code libraries into their apps using the JNI framework and the Android NDK."
+        ],
+        "RS03":[
+            "Allowed Software System Versions - The following table lists the Android Devices, minimum Android versions, minimum operating system and firmware versions, and minimum FTC software versions allowed per device.",
+            "IMG:https://i.imgur.com/YlATe1N.png",
+            "**IMPORTANT**: Rules <RS02> or <RS03> do not require that Teams upgrade to the latest version of the software. A mandatory upgrade (announced by FIRST) would only be required if FIRST determined there was a critical software fix that must be adopted by Teams. Teams must install the upgrade before the time of Competition. Additionally, beta versions of the software are allowed at official tournaments. Mandatory upgrades will be communicated in the following ways:",
+            "- Via Team Blast (http://firstinspires.org/resource-library/ftc/team-email-blasts) – The mandatory upgrade and version number will be communicated to Teams on the Team Blast, which will also show the date the required upgrade must be made.",
+            "- Online – the minimally required software will be listed on our Technology Resources (http://firstinspires.org/resource-library/ftc/technology-information-and-resources) page, with the date Teams are required to make the mandatory software upgrade.",
+            "- Forum – The minimally required software will be listed in the Technology Forum (http://ftcforum.usfirst.org/forumdisplay.php?156-FTC-Technology&__hstc=212927755.8c47fe5c332447859bfe583000c1f507.1466607298723.1466607298723.1466607298723.1&__hssc=212927755.4.1466607298724&__hsfp=2853653097) page, with the date Teams are required to make the mandatory software upgrade.",
+            "Templates for all programming choices are available through the links located at http://www.firstinspires.org/node/5181."
+        ],
+        "RS04":[
+            "Autonomous to Driver-Controlled Transition - Teams that expect to operate their Robot during the Autonomous period must demonstrate during Field Inspection the Driver Station switches the Robot Controller between Autonomous mode and Driver-Controlled mode."
+        ],
+        "RS05":[
+            "Robot Controller App - The Robot Controller smartphone Android Device (if used) must have a designated “FTC Robot Controller” app that is the default application for the REV Expansion Hub. The Robot Controller app must not be installed on the Driver Station Android Device."
+        ],
+        "RS06":[
+            "Driver Station App – Teams must install the official “FTC Driver Station” app onto their Driver Station Android Device or REV Driver Hub and use this app to control their Robot during a Match. The Driver Station FTC software version number must match the version number of the Robot Controller app. The Driver Station App must not be installed on the Robot Controller Android Device.",
+            "**IMPORTANT**: Rules <RS05> or <RS06> may require initial installation of the software, or updates throughout the season. Teams receiving the Driver Hub or Control Hub for the first time should install the most recent version of the software.",
+            "For initial installation or to install the most current version the software, please visit the following link: https://docs.revrobotics.com/control-hub/managing-the-control-system/rev-hardware-client",
+            "If updates to the SDK software are required, Teams will be notified in the following ways:",
+            "- Via Team Blast (http://firstinspires.org/resource-library/ftc/team-email-blasts) – The mandatory upgrade and version number will be communicated to Teams on the Team Blast, which will also show the date the required upgrade must be made.",
+            "- Online – the minimally required software will be listed on our Technology Resources (http://firstinspires.org/resource-library/ftc/technology-information-and-resources) page, with the date Teams are required to make the mandatory software upgrade.",
+            "- Forum – The minimally required software will be listed in the Technology Forum (http://ftcforum.usfirst.org/forumdisplay.php?156-FTC-Technology&__hstc=212927755.8c47fe5c332447859bfe583000c1f507.1466607298723.1466607298723.1466607298723.1&__hssc=212927755.4.1466607298724&__hsfp=2853653097) page, with the date Teams are required to make the mandatory software upgrade."
+        ],
+        "RS07":[
+            "Android Device, REV Driver Hub, and REV Control Hub Operating System Settings - The Robot Controller and Driver Station must be set to:",
+            "a. Airplane mode must be turned on (does not apply to the REV Control Hub and REV Driver Hub).",
+            "b. Bluetooth must be turned off.",
+            "c. Wi-Fi must be turned on.",
+            "d. REV Control Hub password must be different than the factory default value of 'password.'"
+        ],
+        "RS08":[
+            "Software Modification –",
+            "a. Teams are not allowed to modify the FIRST Tech Challenge Driver Station app in any fashion.",
+            "b. Teams are required to use the FIRST Robot Controller SDK, and are not allowed to remove, replace, or modify the portions of the SDK which are distributed as binary .AAR files.",
+            "The intent of this rule is for Teams to download the official version of the SDK from FIRST and make modifications to add Team created code.",
+            "Reengineered, reverse engineered, or modified versions of the official FIRST SDK are not allowed."
+        ],
+        "RS09":[
+            "Driver Station Communication - Communication between the Robot and Driver Station is only allowed via the Robot Controller and Driver Station applications.",
+            "Communication between the Robot Controller and the Driver Station is limited to the unmodified mechanisms provided by the official FIRST Tech Challenge (FTC) software, which consists of the official FTC Software Development Kit (SDK), the FTC Robot Controller app, and the FTC Driver Station app. Teams are not permitted to stream audio, video or other data using third-party software or modified versions of the FTC software. Teams may only use the unmodified telemetry feature included with the FTC software to transfer additional data between the Robot Controller and the Driver Station. Software that is preinstalled by an approved smartphone’s manufacturer and cannot be disabled is exempt from this constraint.",
+            "During a Match, a Team’s Robot Controller and a Team’s Driver Station are not allowed to be connected wirelessly to any other device besides each other."
+        ]
+    },
+    "Team Scoring Element":{
+        "TE01":[
+            "Material Constraints - The Team Scoring Element is subject to the Robot Mechanical Parts and Materials Rules in section 7.3.2."
+        ],
+        "TE02":[
+            "Size Constraints - The maximum size of the Team Scoring Element is 4 inches (10.16 cm) by 4 inches (10.16 cm) by 8 inches (20.32 cm). The minimum size of the Team Scoring Element is 3 inches (7.62 cm) by 3 inches (7.62 cm) by 4 inches (10.16 cm)."
+        ],
+        "TE03":[
+            "Team Number - Team Scoring Elements must be labeled with their Team number (numerals only, for example “12345”) The letters must be legible when viewed from a distance of 12 inches (30.48 cm) away. The Team number needs to appear only once on the Team Scoring Element."
+        ],
+        "TE04":[
+            "Illegal Parts - The following types of mechanisms and parts are not allowed:",
+            "a. Electronics.",
+            "b. Any other part or material that violates Robot construction rules outlined in section 7.3.",
+            "c. COTS game elements used in the current season’s game."
+        ],
+        "TE05":[
+            "COTS Scoring Elements – The Team Scoring Element may not resemble any current season’s game COTS scoring elements."
+        ]
+    },
+    "Inspection":{
+        "I01":[
+            "Inspection - Every Robot is required to pass a full inspection before being cleared to compete. This inspection ensures that all FIRST Tech Challenge Robot rules are met.",
+            "All Robot configurations must be inspected before being used in Competition.",
+            "a. If significant changes are made to a Robot after passing initial inspection, it must be re-inspected",
+            "before it can compete.",
+            "b. Referees or inspectors may request the re-inspection of a Robot. The Robot cannot participate in a Match until it passes re-inspection. Refusal to submit to re-inspection will result in Team disqualification from the Competition.",
+            "c. A Robot may be rejected at inspection if the lead inspector considers it unsafe."
+        ],
+        "I02":[
+            "Practice Matches - FIRST Tech Challenge Teams must submit their Robot for inspection before participating in Practice Matches., A Robot may be allowed to participate in Practice Matches before passing inspection if allowed by the lead robot inspector."
+        ],
+        "I03":[
+            "Qualification Matches - The Team’s Robot must pass all inspections before participating in Qualification Matches. Refusal to follow any Robot design, construction rule, or programming rules may result in disqualification of the Team at a FIRST Tech Challenge Competition."
+        ],
+        "I04":[
+            "Re-Inspection – Physical changes to a Robot that improve performance or add capability must pass re- inspection prior to being eligible to play in the next Match. <I04> Safety - It is the inspector’s responsibility to evaluate Robots to ensure each Robot is designed to operate safely. Section 7 of this manual, and Game Manual Part 2, section 4.6.1 outlines the safety rules and limits that apply to the design and construction of all Robots."
+        ],
+        "I05":[
+            "Passing Inspection - Robot inspection is a Pass or Fail process. A Robot has passed inspection when all requirements listed on the official FIRST Tech Challenge “Robot and Field Inspection” are successfully met and recorded as passed by an inspector."
+        ],
+        "I06":[
+            "All Mechanisms are Inspected - For Inspection, the Robot must be presented with all mechanisms (including all parts of each, configurations, and decorations that will be used on the Robot during the Competition. Robots are allowed to play Matches with a subset of the mechanisms that were present during inspection. Only mechanisms that were present during inspection may be added, removed, or reconfigured between Matches. The Robot should be assembled in a typical configuration used for Matches play when reporting for inspection.",
+            "a. Robot and all mechanisms must be inspected in every starting configuration.",
+            "b. If mechanisms are swapped out between Matches, the reconfigured Robot must still meet all Robot and inspection rules.",
+            "c. The total of all electronics (motors, servos, Android devices, etc.) used to build all mechanisms and base Robot, whether they are used on the Robot at the same time or not, may not exceed the constraints specified in the Robot rules."
+        ],
+        "I07":[
+            "Wheel or Tread Playing Field Damage Test - Robot inspectors have the authority to ask that a Team test their wheels or treads that they feel might cause damage to the Playing Field. Not every tread or wheel can be evaluated and posted as a legal or illegal part. Therefore, the tread test is a quick way to find out if a Team’s wheels or treads are Competition legal.",
+            "The robot inspector should place the Robot on top of a field tile and against an immovable surface (wall) and run the wheels at full power for 15 seconds. If there is any physical damage to the floor tile, the wheels will not be allowed. Discoloration or black marks alone are not considered field damage. The test must be made with the Robot at the weight it will be at during the Competition since this will affect the degree of damage."
+        ]
+    },
+    "Safety":{
+        "S1":[
+            "Unsafe Robot or Playing Field Damage – If at any time the Robot operation is deemed unsafe or has damaged the Playing Field or another Robot, by the determination of the referees, the offending Robot may be Disabled, and the Team may be issued a Yellow Card. Re-inspection of the Robot is required before it may play another Match. Damage that requires significant repair and/or delays subsequent Match play is likely to escalate to a Red Card."
+        ],
+        "S2":[
+            "Robot Extension Outside the Playing Field Perimeter – If any portion of the Robot contacts anything Outside the Playing Field Perimeter, the Team will be issued a Yellow Card and it may be Disabled immediately for the remainder of the Match, unless allowed by Game-Specific rule(s) listed in section 4.6.3. See the game definitions in section 4.4 for a complete description of the Playing Field Perimeter.",
+            "The intent of this rule is not to Penalize an Alliance for Inadvertent, safe Robot extension Outside the Playing Field Perimeter. Intentional Robot extension Outside the Playing Field is not permitted."
+        ],
+        "S3":[
+            "Safety Gear – All members of the Drive Team are required to wear approved eye protection and shoes with closed toed and a closed back. If any member of the Drive Team is not wearing these safety items, the referee will issue a Warning to the Team member(s) and if the situation is not remedied within thirty (30) seconds, the offending member(s) of the Drive Team must leave the Competition Area for the remainder of the Match and may not be replaced by another Team member. Failure to comply with a request to leave the Competition Area violates rule **<G30>**. Repeated Team member violations during the competition will escalate to a Team Warning. Following the Team Warning, subsequent violations by any member of the Team will result in a Minor Penalty for the Alliance."
+        ]
+    },
+    "General Game":{
+        "G1":[
+            "Autonomous to Driver-Controlled Period Transition – At the conclusion of the Autonomous Period, Robots will remain in a hands-off state. Field personnel will not enter the field and will not touch Robots on the field during the Autonomous to Driver-Controlled transition. The scoring system display will provide visual and audio cues for Drive Teams to pick up their Driver Stations. Drive Teams will have five (5) seconds to pick up and prepare their Driver Station. After five (5) seconds, there will be a “3-2-1 go” countdown and the Driver- Controlled Period of the Match will begin."
+        ],
+        "G2":[
+            "Score Certification at the End of the Match – Scores will be tracked by field personnel throughout the Autonomous and Driver-Controlled Periods of the Match. At the End of the Match, the final Score will be certified as quickly as possible. A change in state of a Game Element or Robot at the End of the Match after its final Score is recorded will not change an already-recorded Score. Scoring Elements will not be recounted after the End of the Match unless otherwise specified by a Game-Specific rule."
+        ],
+        "G3":[
+            "Forcing an Opponent to Break a Rule – The actions of an Alliance or their Robots shall not cause an opposing Alliance or Robot to break a rule and thus incur Penalties. Any forced rule violations committed by the affected Alliance shall be excused, and no Penalties will be assigned to the affected Alliance."
+        ],
+        "G4":[
+            "Robot Manipulation of Scoring Elements – Scoring Elements that are Controlled or Possessed by a Robot are part of the Robot except when determining the location of the Robot or otherwise specified by a Game-Specific rule.",
+            "For Example: If a Robot Possesses a Scoring Element, and only that Scoring Element breaks the plane of a Scoring Area, the Robot does not receive points for being In that Area."
+        ],
+        "G5":[
+            "Robot or Scoring Elements In Two or More Scoring Areas – Robots or Scoring Elements that are In two or more Scoring Areas earn points only for the highest value achievement. If the achievement values are equal, only one achievement counts as Scored."
+        ],
+        "G6":[
+            "Scoring Elements in Contact with Robots – Scoring Elements in a Scoring Area that are in contact with or Controlled by a Robot on the corresponding Alliance for the Scoring Area have zero Score value."
+        ],
+        "G7":[
+            "Disabled Robot Eligibility - If a referee Disables a Robot, it will not be eligible to Score or earn points for the remainder of the Match. A Disabled Robot (whether referee induced or failure) does not earn Penalties after becoming Disabled."
+        ],
+        "G8":[
+            "Playing Field Tolerances – Competition provided Playing Field and Game Elements will start each Match with tolerances that may vary by as much as +/-1.0 inch (25.4 mm). Teams must design their Robots accordingly.",
+            "Playing Field and Game Elements are expected to be manufactured, assembled, and set up using a high standard for dimensional and location accuracy. The intent of the generous +/- 1.0 inch tolerance is to accommodate unintentional size and location variations that may occur. The tolerance is not an excuse for intentional or imprecise accuracy in construction or setup."
+        ],
+        "G9":[
+            "Match Replay – Matches are replayed at the discretion of the Head Referee only for a failure of a non- Team supplied Game or Field Element or verified Wi-Fi interference that was likely to have impacted which Alliance won the Match.",
+            "Unexpected Robot behavior will not result in a Match replay. Team-induced failures, such as low battery conditions, processor sleep time-outs, Robot mechanical, electrical, software, or communication failures, etc. are NOT valid justifications for a replaying of a Match."
+        ],
+        "G10":[
+            "Inadvertent and Inconsequential - Robot actions that violate a rule may be ruled at the referee’s discretion to be Inconsequential and Inadvertent and will not be Penalized."
+        ],
+        "G11":[
+            "Illegal Match Communication – Electronic communication (cell phone, two-way radio, Wi-Fi, Bluetooth, etc.) by Drive Team members after an Alliance has been called from the queue to the Playing Field for its Match is not allowed. The first instance of violating this rule will result in a Warning, with any following instances during the competition resulting in a Minor Penalty. Items that may be mistaken by a casual observer as being in violation of this rule should not be brought to the Playing Field. The Driver Station is exempt from this rule but must be used only for operating the Robot."
+        ],
+        "G12":[
+            "Playing Field Access - Team members must not enter the Playing Field for any reason other than to place/retrieve their Robots. While placing Robots, Teams may not measure, test, or adjust Game Elements unless allowed by Section 4.5.1. When retrieving Robots, Teams may not verify the Scoring of Game Elements.",
+            "The consequences for violating this rule are:",
+            "a) Minor Penalty for violations during Match setup or following the End of the Match.",
+            "b) Major Penalty for violations that delay the start of the Match.",
+            "c) Violations of this rule outside of normal Match play will result in a Yellow Card.",
+            "If a Team feels the Playing Field is not set up correctly, Teams should notify a referee or field technical advisor prior to the start of the Match."
+        ],
+        "G13":[
+            "Pre-Match Robot Placement – At the beginning of a Match, each Alliance Robot must be set up on the Playing Field according to section 4.5.1 Pre-Match. After Robots are set up on the Playing Field, Drive Teams must stand Inside their respective Alliance Station.",
+            "a) During the Qualification Matches, the blue Alliance Robots are set up on the Playing Field first, unless the red Alliance waives their right to set up on the Playing Field second.",
+            "b) During the Elimination Matches, the 3rd and 4th seeded Alliance Robots are set up on the Playing Field first, unless the higher seeded Alliance waives their right to set up on the Playing Field second. Alliance color doesn’t change the seeding of a Team during the Elimination Matches. If the 4th seed defeats the 1st seed in the Semi-Finals, they will still have to place their Robot on the field first in the finals because their seeding will be lower than the 2nd or 3rd seed.",
+            "c) During Elimination Matches, three Team Alliances may only place two Robots that are intended to compete in that Match. After the Robots are placed, the Alliance cannot swap in the 3rd Alliance’s Robot for a Robot already placed.",
+            "d) Teams may implicitly waive their right to place their Robots on the Playing Field last by placing their Robots on the Playing Field before or with the opposing Alliance. There is no need to tell the referees; Teams waive their right by the act of placing their Robots on the Playing Field.",
+            "e) Teams that unnecessarily delay the beginning of a Match and/or field reset will incur a Minor Penalty for each offense. Significant delays may escalate to a Major Penalty at the discretion of the head referee.",
+            "Drive Teams are expected to stage their Robots for a Match, and remove it from the Playing Field afterwards, safely and swiftly. Drive Team efforts that either intentionally or unintentionally delay the start of a Match or the Playing Field reset are not allowed. Examples include, but are not limited to:",
+            "• Late arrival to the Playing Field.",
+            "• Robot maintenance once on the Playing Field.",
+            "If the field is waiting for the Team, they would be subject to this Penalty."
+        ],
+        "G14":[
+            "Robot Starting Volume – Before the start of a Match, each Robot in its starting location must not exceed a volume of 18 inches (457.2 mm) by 18 inches (457.2 mm) by 18 inches (457.2 mm). A Pre-Loaded Scoring Element may extend Outside the 18-inch (457.2 mm) cube volume constraint. Once a violation has been identified, if the Team cannot fix the violation within thirty (30) seconds, the offending Robot will be removed from the Playing Field. Robots removed from the field are not subject to a delay of game (**<G13>**e) Penalty. The Team remains eligible to earn Ranking and TieBreaker Points if a member of the Drive Team is in their Alliance Station during the Match.",
+            "After the start of a Match, the Robot may extend in any direction unless otherwise specified by the Game-Specific rules detailed in section 4.6.3."
+        ],
+        "G15":[
+            "Robot Setup Alignment – Teams may align their Robots during Pre-Match setup if they do so with legal components that are part of the Robot and can be reset to be within the 18-inch (457.2 mm) cube starting volume constraint. A single member of the Drive Team may also align the Robot by sight if they are next to the Robot and their action does not delay the start of a Match. A Minor Penalty will be assessed to the Alliance for violation of this rule."
+        ],
+        "G16":[
+            "Alliance Stations – During a Match, the Drivers and Coaches must remain In their Stations.",
+            "a) Drive Teams may be anywhere in their respective Alliance Station.",
+            "b) The first instance of leaving the Station will result in a Warning, with any following instances during the Match resulting in a Minor Penalty. Leaving the Station for safety reasons will not result in a Warning or Penalty",
+            "c) Opposing Alliance’s Drive Team members cannot distract and/or interfere with each other nor the off- field Scoring Elements. Violation of this rule will result in an immediate Major Penalty and a possible Yellow Card.",
+            "The intent of this rule is to prevent Drive Team members from leaving their assigned Station during a Match to gain a competitive advantage. For example, moving to another part of the Field for better viewing, reaching into the Field, etc. Simply breaking the plane of the Station during normal Match play is not a Penalty."
+        ],
+        "G17":[
+            "Post-Match Removal of Robots – Robots must be designed to permit easy removal of Game Elements from the Robot after the Match. Robots should also be able to be removed from the Playing Field without unnecessary delay or damaging the Playing Field. A Minor Penalty will be assessed for violations of this rule.",
+            "The intent of this rule is to have timely removal of Robots from the Playing Field following a Match. Drive Teams are expected to stage their Robots for a Match, and remove them from the Playing Field afterwards, safely, and swiftly. Drive Team efforts that either intentionally or unintentionally delay the start of a Match or the Playing Field reset are not allowed. Examples include, but are not limited to:",
+            "1) Failing to exit the Playing Field once instructed by a referee.",
+            "2) Failing to remove Driver Stations in a timely manner."
+        ],
+        "G18":[
+            "Starting Gameplay Early – Robots that start playing the game (Autonomous or Driver-Controlled Period) prior to the start of a Match Period receive a Minor Penalty. Referees have the option of issuing a Major Penalty in place of the Minor Penalty if the early start results in a competitive advantage for the offending Alliance."
+        ],
+        "G19":[
+            "Late Start of the Autonomous Period – A Drive Team that starts their Robot’s Autonomous Op Mode late will receive a Minor Penalty. Referees have the option of issuing a Major Penalty in place of the Minor Penalty if the late start results in a competitive advantage for the offending Alliance."
+        ],
+        "G20":[
+            "Robot Actions at End of the Period –",
+            "a) Robots must Park at the End of the Autonomous and Driver-Controlled Periods. Robots that are not Parked at the conclusion of the “game sound” receive a Minor Penalty and the actions of the Robot do not count towards their Alliance’s Score. Drive Teams should make their best effort to stop gameplay immediately when the End of the Period game sound begins. Referees have the option of issuing a Major Penalty in place of the Minor Penalty if the late stop results in a competitive advantage (other than Scoring) for the offending Alliance.",
+            "b) Scoring achievements that were started (unless disallowed by Game-Specific rules) before the End of the Period are eligible to be counted as Scored.",
+            "c) Robot Scoring achievements that occur after the announced End of the Autonomous Period and before the start of the Driver-Controlled Period do not count towards the Score for the Autonomous or Driver- Controlled Periods."
+        ],
+        "G21":[
+            "Robot Control During Autonomous Period - During the Autonomous Period, Drive Teams may not directly or indirectly control or interact with Robots or Driver Stations. Early stopping of the Robot while running its Autonomous code is not allowed, except in cases of personal or equipment safety, and any achievements earned due to early stoppage will not Score points. A Major Penalty will be assessed for violating this rule. Teams that stop their Robots during the Autonomous Period are allowed to participate in the Driver-Controlled Period provided it can be done safely."
+        ],
+        "G22":[
+            "Drive Team Contact with the Playing Field or Robot – During a Match, the Drive Team is prohibited from making contact with the Playing Field, any Robot, or any Game Element unless allowed by Game-Specific rules. The first instance of contact will result in a Warning, with any following instances during the competition resulting in a Minor Penalty. Contact that affects Scoring and/or gameplay will result in issuance of a Yellow Card at the discretion of the referees. Contact with the Playing Field, a Game Element, or a Robot for safety reasons will not result in a Warning or Penalty.",
+            "For example, a Game Element is Launched from a Robot on the Playing Field and it Inadvertently hits a Team member in the Alliance Station and is deflected back onto the field. The Team would not receive a **<G22>** Penalty because the Team member was protecting themself (safety). However, if that same Game Element is caught and/or directed to a specific location on the Playing Field, the Team may be issued a **<G22>** Penalty."
+        ],
+        "G23":[
+            "Drive Team Coach Driver Station Control – During the Driver-Controlled Period, Robots must be remotely operated only by the Drivers using the Gamepads connected to the Team’s Driver Station and/or by software running on the on-board Robot control system. The first instance of Coach operating a Gamepad will result in a Warning, with any following instances during the competition resulting in a Major Penalty. During the Driver-Controlled Period, Drive Team Coaches and/or Drivers are allowed to hold the Team’s Driver Station Android device and interact with it to select an Op Mode, view information displayed on the screen, and initialize, start, stop, and reset the Robot."
+        ],
+        "G24":[
+            "Robots Deliberately Detaching Parts – Robots may not deliberately detach parts during a Match or leave mechanisms on the Playing Field unless permitted by a Game-Specific rule. Possessed or Controlled Scoring Elements are not considered to be a part of the Robot for the purpose of this rule. The consequence of deliberately detaching a part is a Minor Penalty if it does not Block an opposing Alliance Robot, Alliance Specific Scoring Element or Scoring Area. If a deliberately detached component or mechanism affects gameplay by any Robot, the offending Robot will receive a Major Penalty and will be issued a Yellow Card. Robot parts that are released but remain connected by a tether are considered detached for the purposes of this rule.",
+            "Tethered components that move independently of the main Robot are considered a detached component and are illegal."
+        ],
+        "G25":[
+            "Robots Grasping Game Elements – Robots may not grab, grasp and/or attach to any Game Element, Robot, or structure other than Scoring Elements, unless specifically allowed by Game-Specific rule(s) listed in section 4.6.3. The first instance will result in a Warning with any following violations during the competition resulting in a Major Penalty."
+        ],
+        "G26":[
+            "Destruction, Damage, Tipping, etc. – Robot actions aimed at the destruction, damage, tipping over, or entanglement of Robots or Game Elements are not in the spirit of the FIRST Tech Challenge and are not allowed unless permitted by Game-Specific rules. However, FIRST Tech Challenge games are highly interactive. Robot-to-Robot contact and defensive gameplay should be expected. Some tipping, entanglement, and damage may occur as a part of normal gameplay. If the tipping, entanglement, or damage is ruled to be deliberate or chronic, the offending Team will receive a Major Penalty and a Yellow Card."
+        ],
+        "G27":[
+            "Removing Game Elements from the Playing Field – Robots may not deliberately remove Game Elements from the Playing Field during a Match. Game Elements that Inadvertently fall Outside the Playing Field will be returned to the Playing Field by field personnel at the earliest safe and convenient opportunity at a non-Scoring location approximately where it left the field. Game Elements removed from the Playing Field in an attempt to Score are also not subject to this Penalty. Teams deliberately removing Game Elements from the Playing Field will incur a Minor Penalty per Game Element removed from the Playing Field. Game-Specific rules listed in section 4.6.3 that address the removal of specified Scoring Elements from the Playing Field take precedence over this general game rule."
+        ],
+        "G28":[
+            "Pinning, Trapping, or Blocking Robots – A Robot may not cause an opposing Alliance Robot to become Pinned, Trapped, or Blocked. If a referee determines this rule is violated, the offending Alliance will receive a Minor Penalty for every five seconds that they are in violation. If a referee declares a Pinning, Trapping, or Blocking violation during the Match, the offending Robot must immediately move away at least 3 feet (0.9 m), approximately 1.5 Tiles, from the Pinned, Trapped, or Blocked Robot.",
+            "A Robot cannot incur this type of Penalty during the Autonomous Period unless it is determined by the Referee to be part of a deliberate strategy and will be penalized as described above. If the violation happens during the Autonomous Period, the first action done by the offending Robot during the Driver-Controlled Period must be to move away from the Pinned, Trapped, or Blocked Robot or a Minor Penalty will be assessed immediately and again for every five-seconds that they are in violation. Game-Specific rule(s) listed in section 4.6.3 that further define Pinning, Trapping, or Blocking take precedence over this general game rule.",
+            "The intent of this rule is that Drive Teams begin to immediately move their Robots away and have a five second grace period to move the required distance. The grace period is not permission to intentionally Block for up to five seconds."
+        ],
+        "G29":[
+            "Illegal Usage of Game Elements - Robots may not deliberately use Game Elements to ease or amplify the difficulty of any Scoring or game activity. A Major Penalty will be assessed for violations of this rule. Continued violations of this rule will quickly escalate to a Yellow Card."
+        ],
+        "G30":[
+            "Egregious Behavior – Egregious Robot or Team member behavior at the Playing Field, as determined bythereferees,willresultinaMajorPenaltyandissuanceofaYellowCardand/or RedCard.Subsequent violations will result in Team Disqualification from the competition. Egregious behavior includes, but is not limited to, repeated and/or flagrant violation of game rules, unsafe behavior or actions, and uncivil behavior towards Drive Team, competition personnel, or event attendees."
+        ]
+    },
+    "Game Specific":{
+        "GS1":[
+            "General Rule Exceptions - The following instances of gameplay are Game-specific exceptions to General Game Rules in section 4.6.2:",
+            "a) Drive Teams may interact with Scoring Elements in the Loading Dock at any time during the Match as an exception to rule **<G22>**.",
+            "b) As a part of pre-Match Robot placement or post-Match Robot retrieval, Drive Teams may also place or retrieve their Team Shipping Element as an exception to rule **<G12>**."
+        ],
+        "GS2":[
+            "Descoring - Robots may not remove Freight or Team Shipping Elements On or In the opposing Alliance’s:",
+            "a) Storage Unit Area. Each violation results in a Minor Penalty per Scoring Element.",
+            "b) Carousel. Each violation results in a Minor Penalty per Scoring Element.",
+            "c) Alliance Shipping Hub. Each violation results in a Major Penalty per Scoring Element.",
+            "d) Section of the Shared Shipping Hub. Each violation results in a Major Penalty per Scoring Element.",
+            "The intent of this rule is to prevent Robots from removing Scored Freight to the detriment of the opposing Alliance. Movement of Scored Freight on the Shared Shipping Hub is to be expected during normal Scoring activity. As Alliances attempt to Balance the Shared Shipping Hub in their Alliance’s favor, the expectation is that some elements may shift as more elements are added to each side. Intentional removal of Freight from the opposing Alliance’s side of the Shared Shipping Hub is not allowed. Descoring that affects the Shipping Hub Balance is described in rule **<GS2>**."
+        ],
+        "GS3":[
+            "Shipping Hub Constraints - The following are constraints placed on the Robots with respect to the Shipping Hubs:",
+            "a) Robots may not intentionally relocate their Alliance Shipping Hub. Inadvertent and Inconsequential contact is allowed but intentional movement that affects gameplay is assessed a Major Penalty.",
+            "b) The Shipping Hub Balance shall be determined only by the weight and position of the Shipping Hub, the Scored Freight, and the Scored Team Shipping Elements.",
+            "i. A Robot contacting its own Alliance Shipping Hub at the End of the Match will result in that Shipping Hub being considered Unbalanced.",
+            "ii. Robot Interference at any time that affects the final determination of the opposing Alliance Shipping Hub will result in that Shipping Hub being considered Balanced.",
+            "iii. A Robot interfering with the Shared Shipping Hub at the End of the Match will result in the Shared Shipping Hub being considered Unbalanced in favor of their opponent. If Robots from both Alliances are interfering, then neither Alliance will get the points for the Shared Shipping Hub being Unbalanced.",
+            "c) Robots may not interact with the Shared Shipping Hub during the Autonomous Period. Each violation of this rule will result in a Minor Penalty.",
+            "d) Robots may not intentionally relocate or rotate the Shared Shipping Hub. Inadvertent and Inconsequential contact is allowed but intentional movement that affects gameplay is assessed a Major Penalty.",
+            "e) Robots cannot Interfere or interact with the opposing Alliance Shipping Hub or the opposing Alliance section of the Shared Shipping Hub. Each violation of this rule will result in a Major Penalty."
+        ],
+        "GS4":[
+            "Team Shipping Element Constraints - The following are constraints placed on the Robots with respect to the Team Shipping Elements:",
+            "a) Robots may not intentionally place the Team Shipping Element on the Shared Shipping Hub. Each violation of this rule results in a Major Penalty.",
+            "b) Robots may not Interfere with their opposing Alliance’s Capping attempts. While a Robot has a Possessed Team Shipping Element In the outside edge of the Shipping Hub, it cannot be Interfered with. Each violation will result in a Cap being awarded plus a Minor Penalty to the offending Robot.",
+            "c) Robots may not Control their opposing Alliance’s Team Shipping Elements. Each violation of this rule results in a Major Penalty."
+        ],
+        "GS5":[
+            "Freight Constraints - The following are constraints placed on the Robots with respect to the Freight:",
+            "a) Freight removed from the Warehouse must follow defined Warehouse Operations. Pre-Loaded Freight is considered to be already removed from the Warehouse.",
+            "b) A Robot must be Completely Outside of the Warehouse to Score Freight.",
+            "Each violation of this rule will result in a Minor Penalty."
+        ],
+        "GS6":[
+            "Launching Scoring Elements - Scoring Elements may not be Launched. Ducks or Team Shipping Elements falling from the Carousels are exempt from this rule (depending on the circumstances, rule **<GS9>**b may still apply). Each violation of this rule results in a Minor Penalty."
+        ],
+        "GS7":[
+            "Carousel Constraints – Robots may not:",
+            "a) Intentionally place items On the Carousel. Each violation of this rule results in a Minor Penalty.",
+            "b) Contact the top or bottom surfaces of the Carousel Platform. Robots may only contact the Carousel Rim. An immediate Minor Penalty for each violation and an additional Minor Penalty for every 5 seconds of contact will be assessed.",
+            "c) Contact a Scoring Element On the Carousel. A Minor Penalty is assessed for each violation.",
+            "d) Interact or Interfere with the opposing Alliance’s Carousel. Violations of this rule will result in a Major Penalty per occurrence.",
+            "e) Interact or Interfere with the opposing Alliance’s Robot when it is in contact with the Carousel. Violations of this rule will result in a Major Penalty per occurrence.",
+            "The intent of this rule is that Robots only interact with the Carousel at the Rim, incidental contact with the top or bottom of the Carousel will not be penalized."
+        ],
+        "GS8":[
+            "Control/Possession Limits of Scoring Elements - Robots may Control or Possess a maximum of one (1) Freight and one (1) Team Shipping Element at a time.",
+            "a) Plowing through any quantity of Scoring Elements is allowed but Herding or directing Scoring Elements above the allowed limit to gain a strategic advantage (for example, Scoring, accessibility, defense) is not allowed. The Penalty for Controlling or Possessing more than the allowed quantity is an immediate Minor Penalty for each Scoring Element above the limit plus an additional Minor Penalty per Scoring Element in excess of the limit for each 5-second interval that this situation continues.",
+            "b) A Major Penalty will be assessed for each Scoring Element that is Scored while a Robot Controls or Possesses more than the allowed quantity. Continued violation of this rule will quickly escalate to Yellow Cards.",
+            "c) Freight already Scored in a Robot’s own Alliance Scoring Area does not count towards the Control/Possession limit.",
+            "d) During the Autonomous Period, Robot contact with their Alliance’s Barcodes (Duck or Team Shipping Element) that are On the Playing Field Floor is considered Plowing."
+        ],
+        "GS9":[
+            "Delivery Constraints - The following are constraints placed on the Robots with respect to Delivery:",
+            "a) Delivered Ducks and Team Shipping Elements must contact the floor before a Robot may Control them. Each violation of this rule results in a Minor Penalty. Inadvertent and Inconsequential contact with the Robot will not be penalized.",
+            "b) Once the Match begins, Ducks and Team Shipping Elements may only be introduced onto the Playing Field via Delivery. Each violation of this rule results in a Major Penalty.",
+            "c) Drive Teams may not place or interact with Ducks or Team Shipping Elements On the Carousel during the Autonomous Period. Each violation of this rule results in a Major Penalty.",
+            "d) Ducks or Team Shipping Elements may only be Delivered onto the Playing Field Floor during the Autonomous and End Game Periods of a Match. Each violation of this rule results in a Major Penalty.",
+            "e) Only one (1) Duck or Team Shipping Element is allowed On the Carousel at a time. Each violation of this rule receives a Major Penalty.",
+            "f) Ducks or Team Shipping Elements on the Carousel must be in contact with the Sweeper Plate before a Robot can rotate the Carousel. Each violation of this rule results in a Major Penalty.",
+            "g) Once the Carousel begins to move; the Drive Team can no longer touch a placed Duck or Team Shipping Element unless it falls off on its own outside of the Field. Each violation of this rule results in a Major Penalty. Ducks that fall outside the Field will be placed back in the Loading Dock by the Drive Team or by Field Personnel if out of reach by the Drive Team.",
+            "h) Drive Teams may not interact with the Carousel (for example, touching, placing a Duck or Team Shipping Element) when the Carousel is in motion. Each violation earns a Major Penalty.",
+            "i) Once a Duck or Team Shipping Element is Delivered, it is not eligible to be Delivered again."
+        ],
+        "GS10":[
+            "Autonomous Interference - Robots may not Interfere with the opposing Alliance's Scoring attempts during the Autonomous Period. A Major Penalty will be assessed for each occurrence."
+        ]
+    }
+}

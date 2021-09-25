@@ -1,0 +1,594 @@
+{
+    "last_updated":"09-23-2021",
+    "table":[
+        "1.0 Introduction",
+        "2.0 Gracius Professionalism®",
+        "3.0 How to Use This Document",
+        "4.0 The Game",
+        "4.1 Introduction",
+        "4.2 Game Description",
+        "4.2.1 Game Narrative",
+        "4.2.2 Gameplay Overview",
+        "4.2.3 Gameplay Technology",
+        "4.3 Playing Field Illustrations",
+        "4.4 Game Definitions",
+        "4.5 Gameplay",
+        "4.5.1 Pre-Match",
+        "4.5.2 Autonomous Period",
+        "4.5.3 Driver-Controlled Period",
+        "4.5.4 End Game",
+        "4.5.5 Post Match",
+        "4.5.6 Penalties",
+        "4.5.7 Flowchart of Match Play",
+        "4.6 Rules of Gameplay",
+        "4.6.1 Safety Rules",
+        "4.6.2 General Game Rules",
+        "4.7 Scoring Summary",
+        "4.8 Rule Summary",
+        "Appendix Not Available, Please Go To https://www.firstinspires.org"
+    ],
+    "content":[
+        {
+            "title":"Introduction",
+            "table":[
+                "1.0 Introduction"
+            ],
+            "content":[
+                "**What is FIRST Tech Challenge?**",
+                "FIRST® Tech Challenge is a student-centered program that focuses on giving students a unique and stimulating experience. Each year, teams engage in a new game where they design, build, test, and program autonomous and driver operated robots that must perform a series of tasks. To learn more about FIRST® Tech Challenge and other FIRST® Programs, visit www.firstinspires.org."
+            ],
+            "subsections":[
+                
+            ]
+        },
+        {
+            "title":"Gracious Professionalism®",
+            "table":[
+                "2.0 Gracious Professionalism"
+            ],
+            "content":[
+                "FIRST® uses this term to describe our programs’ intent.",
+                "Gracious Professionalism® is a way of doing things that encourages high-quality work, emphasizes the value of others, and respects individuals and the community.",
+                "Watch Dr. Woodie Flowers explain Gracious Professionalism in this short video (https://www.youtube.com/watch?v=F8ZzoC9tCWg&list=UUkWMXdRQr5yoZRz7gFYyRcw)."
+            ],
+            "subsections":[
+
+            ]
+        },
+        {
+            "title":"How to Use This Document",
+            "table":[
+                "3.0 How to Use This Document"
+            ],
+            "content":[
+                "The Game Manual Part 2 – Traditional Events is a resource for all FIRST® Tech Challenge Teams for information specific to the 2021-2022 season’s game.",
+                "The intent of this manual is that the text means exactly, and only, what it says. Please avoid interpreting the text based on assumptions about intent, implementation of past rules, or how a situation might be in “real life”. There are no hidden requirements or restrictions. If you have read everything, you know everything.",
+                "Key words that have a specific meaning within this document are defined in the Game Definitions section and are indicated with the first letter capitalized, and the entire word in Italics."
+            ],
+            "subsections":[
+
+            ]
+        },
+        {
+            "title":"The Game",
+            "table":[
+                "4.0 The Game",
+                "4.1 Introduction",
+                "4.2 Game Description",
+                "4.2.1 Game Narrative",
+                "4.2.2 Gameplay Overview",
+                "4.2.3 Gameplay Technology",
+                "4.3 Playing Field Illustrations",
+                "4.4 Game Definitions",
+                "4.5 Gameplay",
+                "4.5.1 Pre-Match",
+                "4.5.2 Autonomous Period",
+                "4.5.3 Driver-Controlled Period",
+                "4.5.4 End Game",
+                "4.5.5 Post Match",
+                "4.5.6 Penalties",
+                "4.5.7 Flowchart of Match Play",
+                "4.6 Rules of Gameplay",
+                "4.6.1 Safety Rules",
+                "4.6.2 General Game Rules",
+                "4.7 Scoring Summary",
+                "4.8 Rule Summary"
+            ],
+            "content":[
+
+            ],
+            "subsections":[
+                {
+                    "title":"Introduction",
+                    "table":[
+                        "4.1 Introduction"
+                    ],
+                    "content":[
+                        "This document describes FREIGHT FRENZYSM presented by Raytheon Technologies, the FIRST® Tech Challenge game for the 2021-2022 season. We recommend viewing the game animation prior to reading this manual to gain a general understanding of the game. The animation is not intended as a replacement for official game rules. The animation can be accessed on our website under “Videos and Promotional Materials”: https://www.firstinspires.org/resource-library/ftc/game-and-season-info.",
+                        "Teams must comply with all the rules and requirements stated in this document and in the Game Manual Part 1 - Traditional Events. Clarifications to the game rules are issued on the question & answer section of the forum at https://ftc-qa.firstinspires.org. Forum rulings take precedence over information in the game manuals.",
+                        "Teams should refer to the Game Manual Part 1 – Traditional Events for information about the competition such as how rankings work (Ranking and TieBreaker Points), advancement, judged awards, Robot rules, and general competition rules."
+                    ],
+                    "subsections":[
+        
+                    ]
+                },
+                {
+                    "title":"Game Description",
+                    "table":[
+                        "4.2 Game Description",
+                        "4.2.1 Game Narrative",
+                        "4.2.2 Gameplay Overview",
+                        "4.2.3 Gameplay Technology"
+                    ],
+                    "content":[
+        
+                    ],
+                    "subsections":[
+                        {
+                            "title":"Game Narrative",
+                            "content":[
+                                "The world of transport is undergoing some of the greatest changes of its time, all the while natural disasters, humanitarian crises, and food shortages are happening all around us. Of all the technological advances continuously inserted into our daily lives, which ones will help us transport hard to move goods and solve these global challenges?",
+                                "Providing basic needs are necessary for cultivating a safe and more equitable world. But doing so can be quite complex. Our world depends on a strong transportation system to get essential items into the hands of those who need it most and move those in danger to safety. When our transportation networks improve with efficiency and scale, our people, our animals, and our livelihoods prevail.",
+                                "The future of transporting relief to those in need is about inventing creative solutions, pushed by the recognition of the inefficiencies, inequities, and the choices we make around them.",
+                                "Will we be able to work together and deliver a solution in the race against time? Only time will tell. A better, safer world is possible."
+                            ]
+                        },
+                        {
+                            "title":"Gameplay Overview",
+                            "content":[
+                                "Welcome to FREIGHT FRENZYSM presented by Raytheon Technologies. Matches are played on a Playing Field initially set up as illustrated in Figure 4.3-1. Two Alliances – one “red” and one “blue”, made up of two Teams each – compete in each Match. The object of the game is to attain a higher Score than the opposing Alliance by performing the achievements outlined below.",
+                                "The Match starts with a 30-second Autonomous Period in which Robots operate using only pre-programmed instructions and sensor inputs. During the Autonomous Period, Alliances earn points by: Delivering Pre-Loaded Boxes to a randomly selected level of the Alliance Shipping Hub. Teams may opt to use the Duck placed on the field, or may use their Team Shipping Element, which provides more points when Freight is delivered to the correct level of the Alliance Shipping Hub. Alliances also earn points for Navigating to the Storage Unit or Warehouse, Scoring Freight in the Storage Unit or Alliance Shipping Hub, and Delivering Ducks onto the Playing Field Floor via the Carousel.",
+                                "The two-minute Driver-Controlled Period follows the Autonomous Period. Alliances earn points by collecting Freight from the Warehouse and Scoring the Freight in the Storage Unit, their Alliance Shipping Hub, or the Shared Shipping Hub.",
+                                "The final 30 seconds of the Driver-Controlled Period is called the End Game. In addition to the previously listed Driver-Controlled Period Scoring activities, Alliances may Deliver Ducks onto the Playing Field. If the Team Shipping Element was not introduced during pre-Match setup, Alliances may now Deliver their Team Shipping Element. The Team Shipping Element may be used to Cap their Alliance Shipping Hub to earn points. An Alliance will earn Balance points for the Alliance Shipping Hub being Balanced. If an Alliance’s section of the Shared Shipping Hub is contacting the Tile floor, the Alliance will earn points."
+                            ]
+                        },
+                        {
+                            "title":"Gameplay Technology",
+                            "content":[
+                                "Each game comes with its own unique set of technology challenges. In FREIGHT FRENZY, there are multiple ways Teams can utilize technology to assist them in the challenge. Teams may use the built-in technology, or they can come up with their own solutions to solve the challenges.",
+                                "This season, the challenges include:",
+                                "1. Object Identification",
+                                "a. The Robot can use its on-board control system to identify an object placed on one of the three Barcode locations. Correctly locating the object and then placing their Pre-Loaded Box onto the Scoring Level that corresponds to the Barcode location earns the Team bonus points.",
+                                "b. Teams can use the built-in TensorFlow technology to identify the default object, a yellow Duck, but Teams that can train technologies like TensorFlow or use more traditional sensors to identify their Team-built Team Shipping Element will earn additional points.",
+                                "2. Field Navigation",
+                                "a. Teams can use the Navigation Images along with the built-in vision processing software Vuforia, and an on-board camera to help identify their location on the field. This is especially useful during the Autonomous Period.",
+                                "3. Sensor Use",
+                                "a. Teams can add sensors to their Robot to help it identify the Boxes, as there are three different weighted Boxes located in the Warehouse.",
+                                "For resources on how the available technologies please visit https://github.com/FIRST-Tech-Challenge."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title":"Playing Field Illustrations",
+                    "table":[
+                        "4.3 Playing Field Illustrations"
+                    ],
+                    "content":[
+                        "The following illustrations identify the Game Elements and give a general visual understanding of the game. Teams should refer to andymark.com/FTC for the exact Game Element dimensions. The official Playing Field documents, including the official Field Setup Guide, are available at https://www.firstinspires.org/resource- library/ftc/game-and-season-info. Please note: Playing Field Wall heights are different depending on the manufacturer. Playing Field Wall height measurements for each manufacturer are in the official Field Setup Guide. During the season, Teams may attend events that use Playing Field Walls from different manufacturers, please incorporate that into the design of your Robot.",
+                        "IMG:",
+                        "IMG:"
+                    ],
+                    "subsections":[
+        
+                    ]
+                },
+                {
+                    "title":"Game Definitions",
+                    "table":[
+                        "4.4 Game Definitions"
+                    ],
+                    "content":[
+                        "The following definitions and terms are used for FREIGHT FRENZYSM. Game definitions are Capitalized and",
+                        "italicized throughout the manual.",
+                        "**Alliance – Each FIRST Tech Challenge Match consists of two, two-Team Alliances. The two Teams in one Alliance compete against the two Teams in the other Alliance to complete the game challenges and to earn the highest Score. For qualifying and championship tournaments with 21 or more Teams, the semi-final and final Matches Alliances consist of three Teams each. However, only two of those Teams compete during any one Match.",
+                        "**Alliance Neutral – Available to a Robot from any Alliance.",
+                        "**Alliance Specific – Benefits a Robot from a specific Alliance (i.e., red or blue Alliance).",
+                        "**Alliance Station – The designated “red” or “blue” Alliance Area adjacent to the Playing Field where the Drivers and Coach stand in during a Match.",
+                        "**Area – The space defined by the vertical projection of the outside edge of a region’s boundary (for example, gaffer tape, goal, Playing Field Wall). The boundary element (tape, wall, markings, etc.) is part of the Area for the purposes of determining Inside and Outside.",
+                        "**Autonomous Period – A thirty-second Match period in which the Robots operate and react only to sensor inputs and to commands pre-programmed by the Team onto the onboard Robot control system. Human control of the Robot is not permitted during this time.",
+                        "**Balanced / Unbalanced – A Shipping Hub is Balanced when it is Completely Supported by the Playing Field Floor and only the Shipping Hub domed base is touching the Playing Field Floor. All other states are Unbalanced.",
+                        "**Barcode – The four locations on the Playing Field Floor that consist of three taped squares each, where a Duck or Team Shipping Element is placed during pre-Match setup.",
+                        "**Barrier – Approximate 1-inch high by 5.5-inch wide (25.4 mm x 139.7 mm) obstacle on the Playing Field Barriers do not belong to nor do they form the boundary of any defined Area.",
+                        "**Block / Blocking – Preventing an opposing Alliance Robot from accessing an Area or Game Element for an extended period by obstructing ALL paths of travel to the object or Area. Active defense played by a Robot shadowing an opposing Alliance Robot that eliminates all paths of travel between the opposing Alliance Robot and an Area or Alliance Specific Game Element or all remaining Alliance Neutral Game Elements is considered Blocking, even though at a given moment there is an open path. See also the definition of Trap / Trapping.",
+                        "**Cap / Capping – Placing a Team Shipping Element on top of the Alliance Shipping Hub pipe or on top of another legally Scored Team Shipping Element.",
+                        "**Carousel - The Carousels are located in the corners of the Playing Field adjacent to the Alliance Stations. There are two (2) Carousels, one (1) red and one (1) blue. Carousels are not self-powered and may only be rotated by Robots on the Playing Field in a manner described in Section 4.5. The following are components of the Carousel:",
+                        "a) **Platform – A rotating portion of the Carousel used to Deliver Ducks and Team Shipping Elements into the Playing Field.",
+                        "b) **Rim – The vertical surface at the perimeter of the Platform where Robot contact is allowed.",
+                        "c) **Sweeper Plate – The stationary portion of the Carousel that causes the Duck or Team Shipping Element to fall from the Platform and into the Playing Field.",
+                        "**Coach** – A student Team member or adult mentor designated as the Drive Team advisor during the Match and identified by wearing a “Coach” badge or identifying marker.",
+                        "**Competition Area** – The Area where all the Playing Fields, Alliance Stations, scoring tables, on-deck queuing tables, event officials, and other competition items relating to Match play are located. The Team Pit area and practice Playing Fields are not part of the Competition Area.",
+                        "**Control / Controlling** – An object is Controlled by a Robot if the object is following the movement of the Robot. Objects that are Controlled by a Robot are considered to be a part of the Robot. See also the definition of Possess / Possessing. Examples of interaction with Game Elements that are Controlled include, but are not limited to:",
+                        "a) Carrying one or more Game Elements.",
+                        "b) Launched Game Elements are considered Controlled until they make contact with something other than the Playing Field Floor or come to rest. See also the definition of Launching in this section.",
+                        "c) Herding of Game Elements is considered Control. See also the definition of Herding in this section.",
+                        "d) Trapping one or more Scoring Elements against a Game Element, Playing Field Wall, or Robot to shield or guard them. See also the definition of Trapping in this section.",
+                        "Examples of interaction with Game Elements that are not Controlled include, but are not limited to:",
+                        "e) Plowing of Game Elements is not considered Control. See also the definition of Plowing in this",
+                        "section.",
+                        "f) Inadvertent contact with a Launched Game Element as it bounces off the Playing Field or a Robot See also the definition of Inadvertent in this section.",
+                        "**Deliver / Delivered** – The action of introducing a Duck or Team Shipping Element onto the Playing Field. A legal Delivery follows this sequence:",
+                        "a) Drive Team places a Duck or Team Shipping Element onto the Carousel Platform Completely In the Drive Team side of the Sweeper Plate. The Duck or Team Shipping Element must be in contact with the Sweeper Plate; then",
+                        "b) The Robot must rotate the Carousel Platform; then",
+                        "c) The Sweeper Plate must knock the Duck or Team Shipping Element off the Carousel onto the Playing",
+                        "Field Floor.",
+                        "**Disable / Disabled** – A Robot that is no longer active for the remainder of the Match due to a Robot failure or by the request of a referee. Only a Referee can declare a Robot Disabled. If a referee Disables a Robot during a Match, they may ask the Team to drive their Robot to a neutral position on the Playing Field, issue a stop command with the Driver Station, and place their Driver Station in a hands-off location on a competition provided structure or the Alliance Station floor.",
+                        "**Disqualified / Disqualification / Disqualify** – A Team that is ineligible to compete in a Match. A Team that is Disqualified from a Match will not receive credit for the Match (that is, no Ranking and no TieBreaker points).",
+                        "**Drive Team** – Up to three (3) representatives; two (2) Drivers and one (1) Coach from the same Team.",
+                        "**Driver** – A pre-college student Team member responsible for operating and controlling the Robot and identified by wearing a competition supplied Driver badge or identifying marker.",
+                        "**Driver-Controlled Period** – The two-minute Match time period in which the Drivers operate the Robots.",
+                        "**Driver Station** – Hardware and FIRST supplied software used by a Drive Team to control their Robot during a Match. A detailed description of the Driver Station rules is listed in Game Manual Part 1 – Traditional Events.",
+                        "**End Game** – The last thirty seconds of the two-minute Driver-Controlled Period.",
+                        "**End of the Period/Match** - The moment when the Match timer reaches 2:00 for the Autonomous Period or 0:00 for the Driver-Control Period and which coincides with the start of the sound that designates the End of the Period.",
+                        "**Freight** – Freight consists of Cargo, Boxes, and Ducks.",
+                        "a) **Cargo** – 2.75 inch (69.9 mm) diameter balls, weight: 1.18 oz. (33.5 grams). Quantity: Twenty (20) b) Boxes – 2 inch (50.8 mm) cubes. There are four (4) types of Boxes:",
+                        "i. **Pre-Load** – 1.79 oz (50.5 grams). Quantity: Four (4)",
+                        "ii. Light – 1.79 oz (50.5 grams). Quantity: Twenty-Six (26)",
+                        "iii. Medium – 3.28 oz (93.1 grams). Quantity: Twenty (20)",
+                        "iv. Heavy-4.78oz.(135.4grams).Quantity:Ten(10)",
+                        "c) **Ducks** – 2.125 inches x 2.0 inches x 2.0 inches (54.0 mm x 50.8 mm x 50.8 mm) rubber ducks, weight: 0.56 oz. (15.8 grams). Quantity: Twenty (20)",
+                        "**Game Element** – Any item Robots interact with to play the game. Game Elements for this year’s game include: Barriers, Shipping Hubs, Carousels, Team Shipping Elements, and Freight.",
+                        "**Herding** – Pushing or moving one or more Scoring Elements to a desired location or direction that gains a strategic advantage beyond moving the Robot around the Playing Field. See also the definition of Plowing in this section.",
+                        "**In (Inside) / Completely In (Completely Inside)** – An object that has crossed into the upwards vertical (for example, at a right angle to the Playing Field Floor) extension of a defined Area’s boundary is Inside the Area. An object that is entirely within the upwards vertical extension of a defined Area’s boundary is Completely Inside the Area. The boundary element (tape, wall, markings, etc.) is part of the Area for the purposes of determining Inside and Outside, unless otherwise specified.",
+                        "**Inadvertent** – An unintended side effect of an allowed Robot action. Unforced or unexpected Robot actions based on software commands are not considered to be Inadvertent.",
+                        "**Inconsequential** – An outcome that does not influence Scoring or gameplay.",
+                        "**Interference** - Interaction between opposing Alliance Robots that amplifies the difficulty of a Scoring activity. Actions that constitute Interference should not be considered illegal except as specified by a game rule. Launching – Propelling Game Elements with enough force such that they move independent of contact with the Robot. Movement solely due to gravity is not Launching.",
+                        "**Loading Dock** – The unmarked Area outside the Playing Field located between the Playing Field Wall and the Alliance Station.",
+                        "**Match** – A head-to-head competition between two Alliances. A Match consists of a thirty (30) second Autonomous Period, an eight (8) second transition and a two (2) minute Driver-Controlled Period for a total time of two minutes and thirty-eight seconds (2:38).",
+                        "**Navigating** – An Autonomous Period Scoring task where a Robot is Parked In or Completely In a specified Area.",
+                        "**Navigation Image** - Five (5) unique images mounted on the Playing Field Walls that Robots can use to navigate around the Playing Field. Images are printed on standard letter size paper, 8 1/2 inches x 11 inches (216 mm x 279 mm) or A4 (210 mm x 297 mm) paper. Images are mounted on the outside of the Playing Field as described in Appendix F.",
+                        "**Off / Completely Off** – Not physically in contact with or Supported by an object, surface, etc. Objects that are Off are also considered Completely Off.",
+                        "**On / Completely On** – An object that is physically in contact with and at least partially Supported by an object, surface, etc. is considered On. An object that is entirely Supported by an object, surface, etc. is Completely On.",
+                        "**Out / Outside** – An object that does not extend into any part of a defined Area is Outside the Area.",
+                        "**Park / Parked** – The condition where a Robot is motionless.",
+                        "**Penalty** – The consequence imposed for a rule or procedure violation that is identified by a referee. When a Penalty occurs, points will be deducted from the Score of the Alliance that incurred the Penalty. Penalties are further defined into Minor Penalties and Major Penalties.",
+                        "Penalties may also escalate to the issuing of a Yellow Card or Red Card as a result of a continued occurrence of a rule violation and upon discretion of the Referee.",
+                        "**Yellow Cards and Red Cards** – In addition to rule violations explicitly listed in section 4.6, Yellow Cards and Red Cards are used in the FIRST Tech Challenge to manage Team and Robot behavior that does not align with the mission of FIRST. Yellow and Red Cards are not limited to just the Competition Area. Teams that display egregious behavior in the pit area, judging rooms, stands, or any other location of the competition can be issued a Yellow or Red Card for egregious behavior.",
+                        "Illegal behaviors that are repeated (3 or more times), or egregious behaviors by a Robot or Team member at the competition can result in a Yellow and/or Red Card. Yellow Cards are additive, meaning that a second Yellow Card is automatically converted to a Red Card. A Team is issued a Red Card for any subsequent incident in which they receive an additional Yellow Card, for example, earning a second Yellow Card during a single Match.",
+                        "Yellow and Red Cards may be issued on or off the competition field. For details, please make sure to read the Competition Rules outlined in section 3.5 of the Game Manual Part 1 – Traditional Events.",
+                        "**Pin / Pinning** – Preventing the movement around the Playing Field in all directions of an opposing Alliance Robot while it is in contact with the Playing Field Wall, one or more Game Elements, or another Robot.",
+                        "**Playing Field** – The part of the Competition Area that includes the 12 ft. x 12 ft. (3.66 m x 3.66 m) field and all the Game Elements described in the official field documents. From the audience viewpoint, the Red Alliance Station is on the right side of the Playing Field.",
+                        "**Playing Field Damage** – A physical change to a Game Element or Playing Field that affects gameplay. Playing Field Floor – The top surface of the Tiles that make up the base of the Playing Field.",
+                        "**Playing Field Perimeter** – The outside face of the Playing Field Wall.",
+                        "**Playing Field Wall** – An approximate 12 inches (30.5 cm) tall, 12 ft. (3.66 m) long by 12 ft. (3.66 m) wide wall surrounding the Playing Field Floor. The height of the Playing Field Wall will vary depending on which Playing Field Wall is being used at the event. Robots should be built to interact with all legal Playing Field Walls.",
+                        "**Plowing** – Inadvertent contact with Game Elements while in the path of the Robot moving about the Playing Field that provides no additional advantages beyond field mobility. See also the definition of Herding in this section.",
+                        "**Possess / Possessing** – An object is in Possession by a Robot if, as the Robot moves or changes orientation (for example, moves forward, turns, backs up, spins in place), the object remains in approximately the same position relative to the Robot. Objects in Possession by a Robot are considered to be Controlled, and they are part of the Robot. See also Control/Controlling.",
+                        "**Pre-Load** - A Game Element that a Drive Team positions during pre-Match setup so that it touches a Robot or is Possessed by a Robot at the start of the Autonomous Period.",
+                        "**Queuing Area** – The location in the Competition Area where Drive Teams, Robots, and optional Robot carts are staged until directed by competition personnel to set up their Robots on a Competition Playing Field.",
+                        "**Robot** – Any mechanism that has passed Robot inspection and a Drive Team places on the Playing Field prior to the start of a Match. A detailed definition of Robot is in the Robot rules section in the Game Manual Part 1 – Traditional Events.",
+                        "**Score / Scoring** – Robots earn points for their Alliance by interacting with Scoring Elements and Navigating to specific Areas of the Playing Field. Scoring Elements that are still in contact with Robots of the corresponding Alliance have zero (0) Score value, unless otherwise specified in Sections 4.5 or 4.6.",
+                        "Scoring determination is done by one of three methods: “Scored Live”, “Scored at End of the Period”, and “Scored at Rest.” The specific method for each Scoring achievement will be stated in the achievement’s description in Section 4.5.",
+                        "a) **Scored Live**: The achievement is considered Scored the moment it is successfully completed, i.e., all criteria are met.",
+                        "b) **Scored at End of the Period**: The achievement’s Scoring status is determined based on the Robot or Scoring Element’s position at the End of the Period.",
+                        "c) **Scored at Rest**: The achievement is considered Scored based on the position of the Robot or Scoring Element when the entire field has come to rest after the Match Period ends.",
+                        "**Scoring Elements** – Objects that Robots manipulate to earn points for their Alliance. The Scoring Elements for FREIGHT FRENZY are Freight and Team Shipping Elements.",
+                        "**Shipping Hubs** –",
+                        "a) **Alliance Shipping Hub** - An Alliance Specific Game Element with three (3) Levels. There are two (2) Alliance Shipping Hubs, one (1) red and one (1) blue. The three (3) Levels are as follows (all dimensions are approximate):",
+                        "i. **Level 1**: 18 inches (457 mm) diameter and 3 inches (76.2 mm) above the Playing Field Floor.",
+                        "ii. **Level 2**: 15 inches (381 mm) diameter and 8.5 inches (215.9 mm) above the Playing Field Floor.",
+                        "iii. **Level 3**: 12 inches (305 mm) diameter and 14.75 inches (374.6 mm) above the Playing Field Floor.",
+                        "b) **Shared Shipping Hub** – An approximate 18-inch (45.7 cm) diameter Game Element where Robots from both Alliances place Freight. The Shared Shipping Hub is divided into two semi-circular Alliance Specific Areas.",
+                        "**Storage Unit** – An approximate 22.75-inch by 22.75-inch (57.8 cm x 57.8 cm) Alliance Specific Scoring Area where Robots can place Freight. The Storage Unit is located toward the audience side of the Playing Field.",
+                        "**Support / Supported / Completely Supported** – An object (i.e., Robot, Scoring Element, Game Element, etc.) is Supported by another object if the second object is bearing at least some of the weight of the first object. If the second object is bearing all the weight of the first object, it is Completely Supported by the second object.",
+                        "**Team** – Mentors, supporters, and pre-college-aged students affiliated with an entity registered with FIRST and for the competition.",
+                        "**Team Shipping Element** – The Team Scoring Element for this season. A Team designed and manufactured part that may be used in the Match. A detailed definition of Team Shipping Element is in section 7.4 of the Game Manual Part 1. Compliance with construction rules will be verified during Robot Inspection.",
+                        "**Tile** – An approximate 24-inch x 24-inch (610 mm x 610 mm) foam rubber mat. The Playing Field Floor has thirty-six (36) Tiles.",
+                        "**Trap / Trapping** – Preventing an opposing Alliance Robot from escaping a constrained Area of the Playing Field for an extended period of time by obstructing all paths of travel from the object or Area. See also the definition of Block / Blocking in this section.",
+                        "**Warehouse** – An approximate 43.5-inch x 43.5-inch (110.5 cm x 110.5 cm) Area of the Playing Field that is bounded on two sides by white tape and two sides by the Playing Field Wall. There are two (2) Alliance Neutral Warehouses located on the Field.",
+                        "**Warehouse Operations** - A Robot must perform the following sequence to remove a piece of Freight from the Warehouse:",
+                        "a) Start Completely Out of the Warehouse, then",
+                        "b) Drive Completely In the Warehouse, then",
+                        "c) Collect one (1) piece of Freight, then",
+                        "d) Drive Completely Out of the Warehouse with the collected Freight.",
+                        "**Warning** - Warnings apply to the entire Team. Warnings have no effect on an Alliance’s Score. Individual actions of a single Team member will count as a Warning for the entire Team."
+
+                    ],
+                    "subsections":[
+        
+                    ]
+                },
+                {
+                    "title":"Gameplay",
+                    "table":[
+                        "4.5 Gameplay",
+                        "4.5.1 Pre-Match",
+                        "4.5.2 Autonomous Period",
+                        "4.5.3 Driver-Controlled Period",
+                        "4.5.4 End Game",
+                        "4.5.5 Post Match",
+                        "4.5.6 Penalties",
+                        "4.5.7 Flowchart of Match Play"
+                    ],
+                    "content":[
+                        "Prior to the start of the Match, Drive Teams perform some basic Robot setup steps that are described in section 4.5.1. Matches are made up of several periods totaling two minutes and thirty seconds (2:30). There is a thirty (30) second Autonomous Period, followed by a two (2) minute Driver-Controlled Period. The last thirty (30) seconds of the Driver-Controlled Period is called the End Game. When the Match is over and referees signal, Drive Teams collect their Robots, return Possessed Game Elements to the Playing Field, and exit the Competition Area."
+                    ],
+                    "subsections":[
+                        {
+                            "title":"Pre-Match",
+                            "content":[
+                                "1) Field personnel set up the Playing Field as depicted in Figure 4.3-1.",
+                                "a) One (1) Pre-Load Box is placed at each Robot starting location for Pre-Loading by the Drive Teams.",
+                                "b) Approximately half of the remaining Freight (Cargo, Light Box, Medium Box, Heavy Box) are placed in each Warehouse as described in Appendix B.",
+                                "c) Shipping Hubs are placed at their starting locations.",
+                                "d) Ten (10) Ducks per Alliance are placed as follows:",
+                                "i. One (1) Duck is placed on each Carousel in contact with the outer vertical surface of the Sweeper Plate. See Appendix B-5 for position and orientation.",
+                                "ii. One (1) Duck is placed on each center Barcode. See Appendix D for position and orientation.",
+                                "iii. The remaining Ducks are placed In the Alliance Loading Dock.",
+                                "2) Drive Teams set up their Robots on the Playing Field with the following constraints:",
+                                "a) Starting Location",
+                                "i. Drive Teams, with agreement of their Alliance Partner, select their Robot’s starting",
+                                "location.",
+                                "ii. Robots and their Pre-Load Box must be placed Completely Inside the Playing Field",
+                                "Perimeter.",
+                                "iii. Drive Teams must place their Robots, in any orientation, touching the Playing Field Wall",
+                                "adjacent to their Alliance Station.",
+                                "iv. Robots cannot start in the Warehouse, in contact with a Carousel, or On a Barrier.",
+                                "b) Pre-Loaded Freight – A Robot must Pre-Load exactly one (1) Pre-Load Box.",
+                                "c) Team Shipping Element – Drive Teams intending to use their Team Shipping Element have",
+                                "two options:",
+                                "i. Team Shipping Elements may be placed in the Alliance's Loading Dock, or",
+                                "ii. A Team Shipping Element may be placed on their corresponding center Barcode with the Duck moved to the Alliance’s Loading Dock.",
+                                "d) Op Mode – Drive Teams use their Driver Station Android device to:",
+                                "i. Select an Autonomous Op Mode. If the Team does not have an Autonomous Op mode,",
+                                "these steps can be skipped.",
+                                "ii. The thirty-second timer must remain enabled.",
+                                "iii. Press the Driver Station “Init” button.",
+                                "iv. Drive Teams may not touch their Driver Stations or controllers until the Autonomous Period has ended, except to start their Autonomous program with a single touch to the Driver Station Android device screen using the built-in thirty-second timer.",
+                                " 3) Once",
+                                "a) Drive Teams may no longer touch their Robots until the conclusion of the Match.",
+                                "b) Drive Teams may not touch their Driver Stations or controllers until the Autonomous Period has ended. Exceptions to this include using the Driver Station to start their Autonomous program or to Disable their Robot as instructed by a referee.",
+                                "c) After the referee’s signal that set-up is complete, field personnel will randomize the field into one of three (3) configurations as chosen by the scoring system or a dice throw as shown in",
+                                "Appendix D. Field Personnel will attempt to maintain the orientation of the Team Shipping Element as it was placed on the field by the Drive Team."
+                            ]
+                        },
+                        {
+                            "title":"Autonomous Period",
+                            "content":[
+                                "The Match starts with a thirty (30) second Autonomous Period where Robots are operated only via pre- programmed instructions. Teams are not allowed to control Robot behavior with the Driver Station or any other actions during the Autonomous Period. The Driver Station is placed in a hands-off location during the Autonomous Period so that it is evident that there is no human control of Robots. The only exception is to allow Drive Teams to start their Robot with a “start” command issued on the Driver Station touch screen. Teams must use the built-in thirty-second timer.",
+                                "Following a countdown by field personnel, the Autonomous Period begins. Drive Teams may issue a Robot start command with their Driver Station Android device to run the Autonomous Op Mode that was initialized during Pre-Match setup. Failure to adhere to this procedure may subject the Team to a Penalty as specified in the game rules in section 4.6.2. Drive Teams are not required to start executing an Op Mode during the Autonomous Period.",
+                                "During the Autonomous Period, Drive Teams may not place Ducks or Team Shipping Elements On the Carousel.",
+                                "Autonomous points are Scored at Rest for the following achievements:",
+                                "1) Carousel – Delivering the preplaced Duck from the Carousel earns ten (10) points.",
+                                "2) Navigating –",
+                                "a) Robots Parked In their Alliance’s Storage Unit earn three (3) points.",
+                                "b) Robots Parked Completely In their Alliance’s Storage Unit earn six (6) points.",
+                                "c) Robots Parked In the Warehouse closest to the Robot’s corresponding Alliance Station earn five (5) points.",
+                                "d) Robots Parked Completely In the Warehouse closest to the Robot’s corresponding Alliance Station earn ten (10) points.",
+                                " – Robots placing Freight earn points as follows: points.",
+                                "3) Freight",
+                                "a) Each piece of Freight positioned Completely In the Alliance Specific Storage Unit earns two (2)",
+                                "b) Each piece of Freight placed Completely On an Alliance Shipping Hub, regardless of Level, earns six (6) points.",
+                                "4) Autonomous Bonus – A Robot will earn points for placing its own Pre-Loaded Box on the Alliance Shipping Hub level (#1, #2, #3) that corresponds to the randomly selected Barcode location (#1, #2, #3). A Robot may earn only one (1) bonus for correctly placing its own Pre-Loaded Box.",
+                                "a) A Robot that uses the pre-placed Duck to detect the correct Level earns ten (10) points.",
+                                "b) A Robot that uses the Team Shipping Element to detect the correct Level earns twenty (20) points."
+                            ]
+                        },
+                        {
+                            "title":"Driver-Controlled Period",
+                            "content":[
+                                "Directly following the end of the Autonomous Period, Drive Teams have five (5) seconds plus a '3-2-1-go' countdown to prepare their Driver Stations for the start of the 120 second Driver-Controlled Period. On the countdown word 'go,' the Driver-Controlled Period starts, and Drive Teams press their Driver Station start button to resume playing the Match.",
+                                "During the Driver-Controlled Period, Carousels may not be rotated until the End Game. Driver-Controlled tasks are Scored at Rest:",
+                                "1) Freight – Each piece of Freight that is Scored earns points for the Alliance designated by that Area. For example, Freight placed by a red Alliance Robot Completely On the blue Alliance portion of the Shared Shipping Hub Scores points for the blue Alliance.",
+                                "a) Each piece of Freight Scored Completely In the Alliance Specific Storage Unit earns one (1) point.",
+                                "b) Each piece of Freight Scored in the Alliance Shipping Hub earns two (2) points for being Completely On level #1, four (4) points for being Completely On level #2, and six (6) points for being Completely On level #3.",
+                                "c) Each Freight Scored Completely On the Shared Shipping Hub earns four (4) points for the Alliance that corresponds to that side of the Hub. Freight In two Alliance Specific Areas has zero Score value."
+                            ]
+                        },
+                        {
+                            "title":"End Game",
+                            "content":[
+                                "The last thirty seconds of the Driver-Controlled Period is called the End Game. Driver-Controlled Period Scoring can still take place during the End Game. End Game tasks, with the exception of Parking and the Balance position of the Shipping Hubs, started prior to the start of the End Game will earn zero (0) points for those tasks.",
+                                "End Game tasks are Scored at Rest.",
+                                "1) Duck and Team Shipping Element Delivery – Each Duck or Team Shipping Element Delivered to the",
+                                "Playing Field Floor earns six (6) points.",
+                                "2) Shipping Hub Status –",
+                                "a) If an Alliance’s Shipping Hub is Balanced, the Alliance receives ten (10) points.",
+                                "b) If an Alliance’s section of the Shared Shipping Hub is contacting the Tile Floor (i.e., the Shared Shipping Hub is Unbalanced in favor of that Alliance), the Alliance receives twenty (20) points (See Appendix E for Scoring examples).",
+                                "3) Parking –",
+                                "a) Robots Parked In a Warehouse earn three (3) points.",
+                                "b) Robots Parked Completely In a Warehouse earn six (6) points.",
+                                "4) Capping – For each Team Shipping Element that is fully Supported by the center pole above Level #3 of their Alliance Shipping Hub or by another Capped Team Shipping Element, an Alliance earns fifteen (15) points."
+                            ]
+                        },
+                        {
+                            "title":"Post Match",
+                            "content":[
+                                "After the Match, field personnel will finalize the Score. Referees will signal for the Drive Teams to enter the Playing Field and retrieve their Robots and Team Shipping Elements. Drive Teams should return any Game Elements that are Possessed by the Robot to the Playing Field. The Playing Field reset crew will set up the Playing Field for the next Match."
+                            ]
+                        },
+                        {
+                            "title":"Penalties",
+                            "content":[
+                                "Penalty points are subtracted from the offending Alliance’s Score at the End of the Match. Minor Penalties subtract ten (10) points per occurrence. Major Penalties subtract thirty (30) points per occurrence. Warnings have no effect on an Alliance’s Score."
+                            ]
+                        },
+                        {
+                            "title":"Flowchart of Match Play",
+                            "content":[
+                                "The following figure shows the typical flow of the Match and the actions taken on the Driver’s Station Android device.",
+                                "IMG:"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title":"Rules of Gameplay",
+                    "table":[
+                        "4.6 Rules of Gameplay",
+                        "4.6.1 Safety Rules",
+                        "4.6.2 General Game Rules",
+                        "4.6.3 Game-Specific Rules"
+                    ],
+                    "content":[
+                        "Gameplay is restricted by the Safety rules (**<S#>**), the General rules (**<G#>**), and the Game-Specific rules (**<GS#>**). Other rules to pay close attention to are the Robot rules, the inspection rules, and the competition rules defined in the Game Manual Part 1 – Traditional Events. Violation of rules may lead to Penalties, Yellow Cards, Red Cards, a Disabled Robot, or Disqualification of the offending Team or Alliance from either a Match or the competition. Rules apply to all periods of play unless otherwise specified. If rules are in conflict, Safety rules take precedence over all rules and Game-Specific rules take precedence over General rules. The official FIRST Tech Challenge Question & Answer Forum rulings take precedence over all information in the game manuals."
+                    ],
+                    "subsections":[
+                        {
+                            "title":"Safety Rules",
+                            "content":[
+                                "**<S1>** Unsafe Robot or Playing Field Damage – If at any time the Robot operation is deemed unsafe or has damaged the Playing Field or another Robot, by the determination of the referees, the offending Robot may be Disabled, and the Team may be issued a Yellow Card. Re-inspection of the Robot is required before it may play another Match. Damage that requires significant repair and/or delays subsequent Match play is likely to escalate to a Red Card.",
+                                "**<S2>** Robot Extension Outside the Playing Field Perimeter – If any portion of the Robot contacts anything Outside the Playing Field Perimeter, the Team will be issued a Yellow Card and it may be Disabled immediately for the remainder of the Match, unless allowed by Game-Specific rule(s) listed in section 4.6.3. See the game definitions in section 4.4 for a complete description of the Playing Field Perimeter.",
+                                "The intent of this rule is not to Penalize an Alliance for Inadvertent, safe Robot extension Outside the Playing Field Perimeter. Intentional Robot extension Outside the Playing Field is not permitted.",
+                                "**<S3>** Safety Gear – All members of the Drive Team are required to wear approved eye protection and shoes with closed toed and a closed back. If any member of the Drive Team is not wearing these safety items, the referee will issue a Warning to the Team member(s) and if the situation is not remedied within thirty (30) seconds, the offending member(s) of the Drive Team must leave the Competition Area for the remainder of the Match and may not be replaced by another Team member. Failure to comply with a request to leave the Competition Area violates rule **<G30>**. Repeated Team member violations during the competition will escalate to a Team Warning. Following the Team Warning, subsequent violations by any member of the Team will result in a Minor Penalty for the Alliance."
+                            ]
+                        },
+                        {
+                            "title":"General Game Rules",
+                            "content":[
+                                "**<G1>** Autonomous to Driver-Controlled Period Transition – At the conclusion of the Autonomous Period, Robots will remain in a hands-off state. Field personnel will not enter the field and will not touch Robots on the field during the Autonomous to Driver-Controlled transition. The scoring system display will provide visual and audio cues for Drive Teams to pick up their Driver Stations. Drive Teams will have five (5) seconds to pick up and prepare their Driver Station. After five (5) seconds, there will be a “3-2-1 go” countdown and the Driver- Controlled Period of the Match will begin.",
+                                "**<G2>** Score Certification at the End of the Match – Scores will be tracked by field personnel throughout the Autonomous and Driver-Controlled Periods of the Match. At the End of the Match, the final Score will be certified as quickly as possible. A change in state of a Game Element or Robot at the End of the Match after its final Score is recorded will not change an already-recorded Score. Scoring Elements will not be recounted after the End of the Match unless otherwise specified by a Game-Specific rule.",
+                                "**<G3>** Forcing an Opponent to Break a Rule – The actions of an Alliance or their Robots shall not cause an opposing Alliance or Robot to break a rule and thus incur Penalties. Any forced rule violations committed by the affected Alliance shall be excused, and no Penalties will be assigned to the affected Alliance.",
+                                "**<G4>** Robot Manipulation of Scoring Elements – Scoring Elements that are Controlled or Possessed by a Robot are part of the Robot except when determining the location of the Robot or otherwise specified by a Game-Specific rule.",
+                                "For Example: If a Robot Possesses a Scoring Element, and only that Scoring Element breaks the plane of a Scoring Area, the Robot does not receive points for being In that Area.",
+                                "**<G5>** Robot or Scoring Elements In Two or More Scoring Areas – Robots or Scoring Elements that are In two or more Scoring Areas earn points only for the highest value achievement. If the achievement values are equal, only one achievement counts as Scored.",
+                                "**<G6>** Scoring Elements in Contact with Robots – Scoring Elements in a Scoring Area that are in contact with or Controlled by a Robot on the corresponding Alliance for the Scoring Area have zero Score value.",
+                                "**<G7>** Disabled Robot Eligibility - If a referee Disables a Robot, it will not be eligible to Score or earn points for the remainder of the Match. A Disabled Robot (whether referee induced or failure) does not earn Penalties after becoming Disabled.",
+                                "**<G8>** Playing Field Tolerances – Competition provided Playing Field and Game Elements will start each Match with tolerances that may vary by as much as +/-1.0 inch (25.4 mm). Teams must design their Robots accordingly.",
+                                "Playing Field and Game Elements are expected to be manufactured, assembled, and set up using a high standard for dimensional and location accuracy. The intent of the generous +/- 1.0 inch tolerance is to accommodate unintentional size and location variations that may occur. The tolerance is not an excuse for intentional or imprecise accuracy in construction or setup.",
+                                "**<G9>** Match Replay – Matches are replayed at the discretion of the Head Referee only for a failure of a non- Team supplied Game or Field Element or verified Wi-Fi interference that was likely to have impacted which Alliance won the Match.",
+                                "Unexpected Robot behavior will not result in a Match replay. Team-induced failures, such as low battery conditions, processor sleep time-outs, Robot mechanical, electrical, software, or communication failures, etc. are NOT valid justifications for a replaying of a Match.",
+                                "**<G10>** Inadvertent and Inconsequential - Robot actions that violate a rule may be ruled at the referee’s discretion to be Inconsequential and Inadvertent and will not be Penalized.",
+                                "**<G11>** Illegal Match Communication – Electronic communication (cell phone, two-way radio, Wi-Fi, Bluetooth, etc.) by Drive Team members after an Alliance has been called from the queue to the Playing Field for its Match is not allowed. The first instance of violating this rule will result in a Warning, with any following instances during the competition resulting in a Minor Penalty. Items that may be mistaken by a casual observer as being in violation of this rule should not be brought to the Playing Field. The Driver Station is exempt from this rule but must be used only for operating the Robot.",
+                                "**<G12>** Playing Field Access - Team members must not enter the Playing Field for any reason other than to place/retrieve their Robots. While placing Robots, Teams may not measure, test, or adjust Game Elements unless allowed by Section 4.5.1. When retrieving Robots, Teams may not verify the Scoring of Game Elements.",
+                                "The consequences for violating this rule are:",
+                                "a) Minor Penalty for violations during Match setup or following the End of the Match.",
+                                "b) Major Penalty for violations that delay the start of the Match.",
+                                "c) Violations of this rule outside of normal Match play will result in a Yellow Card.",
+                                "If a Team feels the Playing Field is not set up correctly, Teams should notify a referee or field technical advisor prior to the start of the Match.",
+                                "**<G13>** Pre-Match Robot Placement – At the beginning of a Match, each Alliance Robot must be set up on the Playing Field according to section 4.5.1 Pre-Match. After Robots are set up on the Playing Field, Drive Teams must stand Inside their respective Alliance Station.",
+                                "a) During the Qualification Matches, the blue Alliance Robots are set up on the Playing Field first, unless the red Alliance waives their right to set up on the Playing Field second.",
+                                "b) During the Elimination Matches, the 3rd and 4th seeded Alliance Robots are set up on the Playing Field first, unless the higher seeded Alliance waives their right to set up on the Playing Field second. Alliance color doesn’t change the seeding of a Team during the Elimination Matches. If the 4th seed defeats the 1st seed in the Semi-Finals, they will still have to place their Robot on the field first in the finals because their seeding will be lower than the 2nd or 3rd seed.",
+                                "c) During Elimination Matches, three Team Alliances may only place two Robots that are intended to compete in that Match. After the Robots are placed, the Alliance cannot swap in the 3rd Alliance’s Robot for a Robot already placed.",
+                                "d) Teams may implicitly waive their right to place their Robots on the Playing Field last by placing their Robots on the Playing Field before or with the opposing Alliance. There is no need to tell the referees; Teams waive their right by the act of placing their Robots on the Playing Field.",
+                                "e) Teams that unnecessarily delay the beginning of a Match and/or field reset will incur a Minor Penalty for each offense. Significant delays may escalate to a Major Penalty at the discretion of the head referee.",
+                                "Drive Teams are expected to stage their Robots for a Match, and remove it from the Playing Field afterwards, safely and swiftly. Drive Team efforts that either intentionally or unintentionally delay the start of a Match or the Playing Field reset are not allowed. Examples include, but are not limited to:",
+                                "• Late arrival to the Playing Field.",
+                                "• Robot maintenance once on the Playing Field.",
+                                "If the field is waiting for the Team, they would be subject to this Penalty.",
+                                "**<G14>** Robot Starting Volume – Before the start of a Match, each Robot in its starting location must not exceed a volume of 18 inches (457.2 mm) by 18 inches (457.2 mm) by 18 inches (457.2 mm). A Pre-Loaded Scoring Element may extend Outside the 18-inch (457.2 mm) cube volume constraint. Once a violation has been identified, if the Team cannot fix the violation within thirty (30) seconds, the offending Robot will be removed from the Playing Field. Robots removed from the field are not subject to a delay of game (**<G13>**e) Penalty. The Team remains eligible to earn Ranking and TieBreaker Points if a member of the Drive Team is in their Alliance Station during the Match.",
+                                "After the start of a Match, the Robot may extend in any direction unless otherwise specified by the Game-Specific rules detailed in section 4.6.3.",
+                                "**<G15>** Robot Setup Alignment – Teams may align their Robots during Pre-Match setup if they do so with legal components that are part of the Robot and can be reset to be within the 18-inch (457.2 mm) cube starting volume constraint. A single member of the Drive Team may also align the Robot by sight if they are next to the Robot and their action does not delay the start of a Match. A Minor Penalty will be assessed to the Alliance for violation of this rule.",
+                                "**<G16>** Alliance Stations – During a Match, the Drivers and Coaches must remain In their Stations.",
+                                "a) Drive Teams may be anywhere in their respective Alliance Station.",
+                                "b) The first instance of leaving the Station will result in a Warning, with any following instances during the Match resulting in a Minor Penalty. Leaving the Station for safety reasons will not result in a Warning or Penalty",
+                                "c) Opposing Alliance’s Drive Team members cannot distract and/or interfere with each other nor the off- field Scoring Elements. Violation of this rule will result in an immediate Major Penalty and a possible Yellow Card.",
+                                "The intent of this rule is to prevent Drive Team members from leaving their assigned Station during a Match to gain a competitive advantage. For example, moving to another part of the Field for better viewing, reaching into the Field, etc. Simply breaking the plane of the Station during normal Match play is not a Penalty.",
+                                "**<G17>** Post-Match Removal of Robots – Robots must be designed to permit easy removal of Game Elements from the Robot after the Match. Robots should also be able to be removed from the Playing Field without unnecessary delay or damaging the Playing Field. A Minor Penalty will be assessed for violations of this rule.",
+                                "The intent of this rule is to have timely removal of Robots from the Playing Field following a Match. Drive Teams are expected to stage their Robots for a Match, and remove them from the Playing Field afterwards, safely, and swiftly. Drive Team efforts that either intentionally or unintentionally delay the start of a Match or the Playing Field reset are not allowed. Examples include, but are not limited to:",
+                                "1) Failing to exit the Playing Field once instructed by a referee.",
+                                "2) Failing to remove Driver Stations in a timely manner.",
+                                "**<G18>** Starting Gameplay Early – Robots that start playing the game (Autonomous or Driver-Controlled Period) prior to the start of a Match Period receive a Minor Penalty. Referees have the option of issuing a Major Penalty in place of the Minor Penalty if the early start results in a competitive advantage for the offending Alliance.",
+                                "**<G19>** Late Start of the Autonomous Period – A Drive Team that starts their Robot’s Autonomous Op Mode late will receive a Minor Penalty. Referees have the option of issuing a Major Penalty in place of the Minor Penalty if the late start results in a competitive advantage for the offending Alliance.",
+                                "**<G20>** Robot Actions at End of the Period –",
+                                "a) Robots must Park at the End of the Autonomous and Driver-Controlled Periods. Robots that are not Parked at the conclusion of the “game sound” receive a Minor Penalty and the actions of the Robot do not count towards their Alliance’s Score. Drive Teams should make their best effort to stop gameplay immediately when the End of the Period game sound begins. Referees have the option of issuing a Major Penalty in place of the Minor Penalty if the late stop results in a competitive advantage (other than Scoring) for the offending Alliance.",
+                                "b) Scoring achievements that were started (unless disallowed by Game-Specific rules) before the End of the Period are eligible to be counted as Scored.",
+                                "c) Robot Scoring achievements that occur after the announced End of the Autonomous Period and before the start of the Driver-Controlled Period do not count towards the Score for the Autonomous or Driver- Controlled Periods.",
+                                "**<G21>** Robot Control During Autonomous Period - During the Autonomous Period, Drive Teams may not directly or indirectly control or interact with Robots or Driver Stations. Early stopping of the Robot while running its Autonomous code is not allowed, except in cases of personal or equipment safety, and any achievements earned due to early stoppage will not Score points. A Major Penalty will be assessed for violating this rule. Teams that stop their Robots during the Autonomous Period are allowed to participate in the Driver-Controlled Period provided it can be done safely.",
+                                "**<G22>** Drive Team Contact with the Playing Field or Robot – During a Match, the Drive Team is prohibited from making contact with the Playing Field, any Robot, or any Game Element unless allowed by Game-Specific rules. The first instance of contact will result in a Warning, with any following instances during the competition resulting in a Minor Penalty. Contact that affects Scoring and/or gameplay will result in issuance of a Yellow Card at the discretion of the referees. Contact with the Playing Field, a Game Element, or a Robot for safety reasons will not result in a Warning or Penalty.",
+                                "For example, a Game Element is Launched from a Robot on the Playing Field and it Inadvertently hits a Team member in the Alliance Station and is deflected back onto the field. The Team would not receive a **<G22>** Penalty because the Team member was protecting themself (safety). However, if that same Game Element is caught and/or directed to a specific location on the Playing Field, the Team may be issued a **<G22>** Penalty.",
+                                "**<G23>** Drive Team Coach Driver Station Control – During the Driver-Controlled Period, Robots must be remotely operated only by the Drivers using the Gamepads connected to the Team’s Driver Station and/or by software running on the on-board Robot control system. The first instance of Coach operating a Gamepad will result in a Warning, with any following instances during the competition resulting in a Major Penalty. During the Driver-Controlled Period, Drive Team Coaches and/or Drivers are allowed to hold the Team’s Driver Station Android device and interact with it to select an Op Mode, view information displayed on the screen, and initialize, start, stop, and reset the Robot.",
+                                "**<G24>** Robots Deliberately Detaching Parts – Robots may not deliberately detach parts during a Match or leave mechanisms on the Playing Field unless permitted by a Game-Specific rule. Possessed or Controlled Scoring Elements are not considered to be a part of the Robot for the purpose of this rule. The consequence of deliberately detaching a part is a Minor Penalty if it does not Block an opposing Alliance Robot, Alliance Specific Scoring Element or Scoring Area. If a deliberately detached component or mechanism affects gameplay by any Robot, the offending Robot will receive a Major Penalty and will be issued a Yellow Card. Robot parts that are released but remain connected by a tether are considered detached for the purposes of this rule.",
+                                "Tethered components that move independently of the main Robot are considered a detached component and are illegal.",
+                                "**<G25>** Robots Grasping Game Elements – Robots may not grab, grasp and/or attach to any Game Element, Robot, or structure other than Scoring Elements, unless specifically allowed by Game-Specific rule(s) listed in section 4.6.3. The first instance will result in a Warning with any following violations during the competition resulting in a Major Penalty.",
+                                "**<G26>** Destruction, Damage, Tipping, etc. – Robot actions aimed at the destruction, damage, tipping over, or entanglement of Robots or Game Elements are not in the spirit of the FIRST Tech Challenge and are not allowed unless permitted by Game-Specific rules. However, FIRST Tech Challenge games are highly interactive. Robot-to-Robot contact and defensive gameplay should be expected. Some tipping, entanglement, and damage may occur as a part of normal gameplay. If the tipping, entanglement, or damage is ruled to be deliberate or chronic, the offending Team will receive a Major Penalty and a Yellow Card.",
+                                "**<G27>** Removing Game Elements from the Playing Field – Robots may not deliberately remove Game Elements from the Playing Field during a Match. Game Elements that Inadvertently fall Outside the Playing Field will be returned to the Playing Field by field personnel at the earliest safe and convenient opportunity at a non-Scoring location approximately where it left the field. Game Elements removed from the Playing Field in an attempt to Score are also not subject to this Penalty. Teams deliberately removing Game Elements from the Playing Field will incur a Minor Penalty per Game Element removed from the Playing Field. Game-Specific rules listed in section 4.6.3 that address the removal of specified Scoring Elements from the Playing Field take precedence over this general game rule.",
+                                "**<G28>** Pinning, Trapping, or Blocking Robots – A Robot may not cause an opposing Alliance Robot to become Pinned, Trapped, or Blocked. If a referee determines this rule is violated, the offending Alliance will receive a Minor Penalty for every five seconds that they are in violation. If a referee declares a Pinning, Trapping, or Blocking violation during the Match, the offending Robot must immediately move away at least 3 feet (0.9 m), approximately 1.5 Tiles, from the Pinned, Trapped, or Blocked Robot.",
+                                "A Robot cannot incur this type of Penalty during the Autonomous Period unless it is determined by the Referee to be part of a deliberate strategy and will be penalized as described above. If the violation happens during the Autonomous Period, the first action done by the offending Robot during the Driver-Controlled Period must be to move away from the Pinned, Trapped, or Blocked Robot or a Minor Penalty will be assessed immediately and again for every five-seconds that they are in violation. Game-Specific rule(s) listed in section 4.6.3 that further define Pinning, Trapping, or Blocking take precedence over this general game rule.",
+                                "The intent of this rule is that Drive Teams begin to immediately move their Robots away and have a five second grace period to move the required distance. The grace period is not permission to intentionally Block for up to five seconds.",
+                                "**<G29>** Illegal Usage of Game Elements - Robots may not deliberately use Game Elements to ease or amplify the difficulty of any Scoring or game activity. A Major Penalty will be assessed for violations of this rule. Continued violations of this rule will quickly escalate to a Yellow Card.",
+                                "**<G30>** Egregious Behavior – Egregious Robot or Team member behavior at the Playing Field, as determined bythereferees,willresultinaMajorPenaltyandissuanceofaYellowCardand/or RedCard.Subsequent violations will result in Team Disqualification from the competition. Egregious behavior includes, but is not limited to, repeated and/or flagrant violation of game rules, unsafe behavior or actions, and uncivil behavior towards Drive Team, competition personnel, or event attendees."
+                            ]
+                        },
+                        {
+                            "title":"Game-Specific Rules",
+                            "content":[
+                                "**<GS1>** General Rule Exceptions - The following instances of gameplay are Game-specific exceptions to General Game Rules in section 4.6.2:",
+                                "a) Drive Teams may interact with Scoring Elements in the Loading Dock at any time during the Match as an exception to rule **<G22>**.",
+                                "b) As a part of pre-Match Robot placement or post-Match Robot retrieval, Drive Teams may also place or retrieve their Team Shipping Element as an exception to rule **<G12>**.",
+                                "**<GS2>** Descoring - Robots may not remove Freight or Team Shipping Elements On or In the opposing Alliance’s:",
+                                "a) Storage Unit Area. Each violation results in a Minor Penalty per Scoring Element.",
+                                "b) Carousel. Each violation results in a Minor Penalty per Scoring Element.",
+                                "c) Alliance Shipping Hub. Each violation results in a Major Penalty per Scoring Element.",
+                                "d) Section of the Shared Shipping Hub. Each violation results in a Major Penalty per Scoring Element.",
+                                "The intent of this rule is to prevent Robots from removing Scored Freight to the detriment of the opposing Alliance. Movement of Scored Freight on the Shared Shipping Hub is to be expected during normal Scoring activity. As Alliances attempt to Balance the Shared Shipping Hub in their Alliance’s favor, the expectation is that some elements may shift as more elements are added to each side. Intentional removal of Freight from the opposing Alliance’s side of the Shared Shipping Hub is not allowed. Descoring that affects the Shipping Hub Balance is described in rule **<GS2>**.",
+                                "**<GS3>** Shipping Hub Constraints - The following are constraints placed on the Robots with respect to the Shipping Hubs:",
+                                "a) Robots may not intentionally relocate their Alliance Shipping Hub. Inadvertent and Inconsequential contact is allowed but intentional movement that affects gameplay is assessed a Major Penalty.",
+                                "b) The Shipping Hub Balance shall be determined only by the weight and position of the Shipping Hub, the Scored Freight, and the Scored Team Shipping Elements.",
+                                "i. A Robot contacting its own Alliance Shipping Hub at the End of the Match will result in that Shipping Hub being considered Unbalanced.",
+                                "ii. Robot Interference at any time that affects the final determination of the opposing Alliance Shipping Hub will result in that Shipping Hub being considered Balanced.",
+                                "iii. A Robot interfering with the Shared Shipping Hub at the End of the Match will result in the Shared Shipping Hub being considered Unbalanced in favor of their opponent. If Robots from both Alliances are interfering, then neither Alliance will get the points for the Shared Shipping Hub being Unbalanced.",
+                                "c) Robots may not interact with the Shared Shipping Hub during the Autonomous Period. Each violation of this rule will result in a Minor Penalty.",
+                                "d) Robots may not intentionally relocate or rotate the Shared Shipping Hub. Inadvertent and Inconsequential contact is allowed but intentional movement that affects gameplay is assessed a Major Penalty.",
+                                "e) Robots cannot Interfere or interact with the opposing Alliance Shipping Hub or the opposing Alliance section of the Shared Shipping Hub. Each violation of this rule will result in a Major Penalty.",
+                                "**<GS4>** Team Shipping Element Constraints - The following are constraints placed on the Robots with respect to the Team Shipping Elements:",
+                                "a) Robots may not intentionally place the Team Shipping Element on the Shared Shipping Hub. Each violation of this rule results in a Major Penalty.",
+                                "b) Robots may not Interfere with their opposing Alliance’s Capping attempts. While a Robot has a Possessed Team Shipping Element In the outside edge of the Shipping Hub, it cannot be Interfered with. Each violation will result in a Cap being awarded plus a Minor Penalty to the offending Robot.",
+                                "c) Robots may not Control their opposing Alliance’s Team Shipping Elements. Each violation of this rule results in a Major Penalty.",
+                                "**<GS5>** Freight Constraints - The following are constraints placed on the Robots with respect to the Freight:",
+                                "a) Freight removed from the Warehouse must follow defined Warehouse Operations. Pre-Loaded Freight is considered to be already removed from the Warehouse.",
+                                "b) A Robot must be Completely Outside of the Warehouse to Score Freight.",
+                                "Each violation of this rule will result in a Minor Penalty.",
+                                "**<GS6>** Launching Scoring Elements - Scoring Elements may not be Launched. Ducks or Team Shipping Elements falling from the Carousels are exempt from this rule (depending on the circumstances, rule **<GS9>**b may still apply). Each violation of this rule results in a Minor Penalty.",
+                                "**<GS7>** Carousel Constraints – Robots may not:",
+                                "a) Intentionally place items On the Carousel. Each violation of this rule results in a Minor Penalty.",
+                                "b) Contact the top or bottom surfaces of the Carousel Platform. Robots may only contact the Carousel Rim. An immediate Minor Penalty for each violation and an additional Minor Penalty for every 5 seconds of contact will be assessed.",
+                                "c) Contact a Scoring Element On the Carousel. A Minor Penalty is assessed for each violation.",
+                                "d) Interact or Interfere with the opposing Alliance’s Carousel. Violations of this rule will result in a Major Penalty per occurrence.",
+                                "e) Interact or Interfere with the opposing Alliance’s Robot when it is in contact with the Carousel. Violations of this rule will result in a Major Penalty per occurrence.",
+                                "The intent of this rule is that Robots only interact with the Carousel at the Rim, incidental contact with the top or bottom of the Carousel will not be penalized.",
+                                "**<GS8>** Control/Possession Limits of Scoring Elements - Robots may Control or Possess a maximum of one (1) Freight and one (1) Team Shipping Element at a time.",
+                                "a) Plowing through any quantity of Scoring Elements is allowed but Herding or directing Scoring Elements above the allowed limit to gain a strategic advantage (for example, Scoring, accessibility, defense) is not allowed. The Penalty for Controlling or Possessing more than the allowed quantity is an immediate Minor Penalty for each Scoring Element above the limit plus an additional Minor Penalty per Scoring Element in excess of the limit for each 5-second interval that this situation continues.",
+                                "b) A Major Penalty will be assessed for each Scoring Element that is Scored while a Robot Controls or Possesses more than the allowed quantity. Continued violation of this rule will quickly escalate to Yellow Cards.",
+                                "c) Freight already Scored in a Robot’s own Alliance Scoring Area does not count towards the Control/Possession limit.",
+                                "d) During the Autonomous Period, Robot contact with their Alliance’s Barcodes (Duck or Team Shipping Element) that are On the Playing Field Floor is considered Plowing.",
+                                "**<GS9>** Delivery Constraints - The following are constraints placed on the Robots with respect to Delivery:",
+                                "a) Delivered Ducks and Team Shipping Elements must contact the floor before a Robot may Control them. Each violation of this rule results in a Minor Penalty. Inadvertent and Inconsequential contact with the Robot will not be penalized.",
+                                "b) Once the Match begins, Ducks and Team Shipping Elements may only be introduced onto the Playing Field via Delivery. Each violation of this rule results in a Major Penalty.",
+                                "c) Drive Teams may not place or interact with Ducks or Team Shipping Elements On the Carousel during the Autonomous Period. Each violation of this rule results in a Major Penalty.",
+                                "d) Ducks or Team Shipping Elements may only be Delivered onto the Playing Field Floor during the Autonomous and End Game Periods of a Match. Each violation of this rule results in a Major Penalty.",
+                                "e) Only one (1) Duck or Team Shipping Element is allowed On the Carousel at a time. Each violation of this rule receives a Major Penalty.",
+                                "f) Ducks or Team Shipping Elements on the Carousel must be in contact with the Sweeper Plate before a Robot can rotate the Carousel. Each violation of this rule results in a Major Penalty.",
+                                "g) Once the Carousel begins to move; the Drive Team can no longer touch a placed Duck or Team Shipping Element unless it falls off on its own outside of the Field. Each violation of this rule results in a Major Penalty. Ducks that fall outside the Field will be placed back in the Loading Dock by the Drive Team or by Field Personnel if out of reach by the Drive Team.",
+                                "h) Drive Teams may not interact with the Carousel (for example, touching, placing a Duck or Team Shipping Element) when the Carousel is in motion. Each violation earns a Major Penalty.",
+                                "i) Once a Duck or Team Shipping Element is Delivered, it is not eligible to be Delivered again.",
+                                "**<GS10>** Autonomous Interference - Robots may not Interfere with the opposing Alliance's Scoring attempts during the Autonomous Period. A Major Penalty will be assessed for each occurrence."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title":"Scoring Summary",
+                    "table":[
+                        "4.7 Scoring Summary"
+                    ],
+                    "content":[
+                        "The following table shows the possible Scoring achievements and their point values. The table is a quick reference guide and not a substitute for a thorough understanding of the game manual. All achievements are Scored at Rest.",
+                        "IMG:"
+                    ],
+                    "subsections":[
+        
+                    ]
+                },
+                {
+                    "title":"Rule Summary",
+                    "table":[
+                        "4.8 Rule Summary"
+                    ],
+                    "content":[
+                        "The following table shows the possible rule violations and their consequences. The table is a quack reference guide and not a substitute for a thorough understanding of the complete rule descriptions in section 4.6.",
+                        "IMG:",
+                        "IMG:",
+                        "IMG:",
+                        "IMG:",
+                        "IMG:",
+                        "IMG:",
+                        "IMG:"
+                    ],
+                    "subsections":[
+        
+                    ]
+                }
+            ]
+        }
+    ]
+}
