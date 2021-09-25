@@ -1,6 +1,6 @@
 import json
 import sys
-sys.path.append('/opt/app-root/src/project')
+sys.path.dirname('/opt/app-root/src/project')
 
 def get_json(manual):
     try:
