@@ -13,12 +13,13 @@ import sys
 import math
 import time
 import requests as r
-import DataFind
+
 import discord
 from discord.ext import tasks
 from discord.ext.commands import Bot
 import asyncio
-
+sys.path.append('/opt/app-root/src/project')
+import DataFind
 """	
 Setup bot intents (events restrictions)
 For more information about intents, please go to the following websites:
