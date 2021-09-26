@@ -163,7 +163,7 @@ def rule( data ):
                 test = int(data[0][1])
                 rule_type = data[0][0]
             except:
-                rule_type = data[0][:1]
+                rule_type = data[0][:2]
             try:
                 #print(rule_type)
                 rule_type = rule_to_section[rule_type]
@@ -172,7 +172,7 @@ def rule( data ):
                 #print(rules[rule_type])
                 for line in rules[rule_type][data[0]]:
                     out += line + '\n'
-            except:
+            except Exception(e):
                 out = "Invalid Rule!"
         else:
             try:
@@ -183,7 +183,7 @@ def rule( data ):
                     for line in rules[rule_type][rule]:
                         out += line + '\n'
 
-            except:
+            except Exception(e):
                 out = "Invalid Rule Section!"
     else:
         for section in list(rules.keys()):
